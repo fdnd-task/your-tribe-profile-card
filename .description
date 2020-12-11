@@ -18,5 +18,5 @@ tags:                               # tags can be used to categorize tasks, can 
   - html
   - css
   - javascript
-burn-points: 5                      # burn-points determine the weight of a task
+burn-points: 8                      # burn-points determine the weight of a task
 ---
