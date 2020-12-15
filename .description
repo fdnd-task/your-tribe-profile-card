@@ -1,5 +1,6 @@
 ---
-title: "FDND Visitekaartje"         # Same as repo name but with spaces and caps 
+title: "Visitekaartje"              # Same as repo name but with spaces and caps
+client: "FDND"                      # Name of the client for this task
 description: ""                     # Max. 280 characters in description
 semester: 1                         # Please choose only one semester
 sprint: 1                           # Please choose only one sprint
