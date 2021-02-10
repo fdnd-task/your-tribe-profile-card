@@ -2,6 +2,8 @@
 
 Geen HTML/CSS etc, mogen ze helemaal zelf maken/kopieren uit eerdere taken.
 
+Wel wat hints, welke stappen nemen ze bij analyse, dat al voordefinieren.
+
 <!-- Remove this 👆 in the final task -->
 ```
 # Naam
