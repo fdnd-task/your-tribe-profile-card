@@ -1,4 +1,7 @@
 # Task instructions
+
+Geen HTML/CSS etc, mogen ze helemaal zelf maken/kopieren uit eerdere taken.
+
 <!-- Remove this 👆 in the final task -->
 ```
 # Naam
