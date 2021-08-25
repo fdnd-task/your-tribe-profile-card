@@ -1,8 +1,7 @@
 Geen HTML/CSS etc, mogen ze helemaal zelf maken/kopieren uit eerdere taken.
 Wel wat hints, welke stappen nemen ze bij analyse, dat al voordefinieren.
 
-
-# {Naam}
+# Jouw visitekaartje
 
 De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
 Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
@@ -10,7 +9,7 @@ Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Op fdnd.nl komen alle visitekaartjes van de studenten te staan. Op deze website kijken potentiele opdrachtgevers, presenteer jezelf door middel van een digitaal visitekaartje. Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een autonome opdracht die je individueel uitvoert voor FDND.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
@@ -21,7 +20,8 @@ Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "tit
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
 
-{beschrijf de taak in actieve taal: Je leert hoe...}
+Doorloop zelfstandig de dev-lifecycle zoals je bij de andere niveau's hebt gedaan
+Kijk terug naar eerdere niveau's, formuleer verbeterpunten en pak die aan
 
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
