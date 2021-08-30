@@ -17,9 +17,11 @@ Op fdnd.nl komen alle visitekaartjes van de studenten te staan, op deze website 
 
 ## Werkwijze
 
-Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Deze opdracht gaat over alle fases van de dev-lifecycle [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
-Volg de development lifecycle zoals je dat deze week hebt leren doen. Je kunt de cycle meerdere malen doorlopen. Het is aan te raden in eerste instantie een minimale versie online te zetten en deze daarna systematisch uit te breiden. Kijk hierbij terug naar eerder gemaakte visitekaartjes, formuleer verbeterpunten en pak die aan.
+Volg de development lifecycle zoals je dat deze week hebt leren doen. Je kunt de cycle meerdere malen doorlopen. Het is aan te raden in eerste instantie een minimale versie online te zetten en deze daarna systematisch uit te breiden. 
+
+Kijk steeds terug naar eerder gemaakte visitekaartjes, formuleer verbeterpunten en pak die aan.
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
@@ -27,8 +29,8 @@ Volg de development lifecycle zoals je dat deze week hebt leren doen. Je kunt de
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
+1. Kijk terug naar een eerder gemaakt visitekaartje (duplicate, experiment, extension)
+2. Formuleer verbeterpunten op basis van feedback die je hebt gekregen en nieuwe dingen die je wilt leren.
 3. {doorlopen worden}
 
 #### Materiaal
