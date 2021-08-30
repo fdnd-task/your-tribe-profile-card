@@ -8,16 +8,18 @@ Op fdnd.nl komen alle visitekaartjes van de studenten te staan. Op deze website 
 
 ## Briefing
 
-Volg de development lifecycle zoals je dat deze week hebt leren doen. Je kunt de cycle meerdere malen doorlopen. Het is aan te raden in eerste instantie een minimale versie online te zetten en deze daarna systematisch uit te breiden.
+
 
 ## Doel van deze opdracht
 
-Doorloop zelfstandig de dev-lifecycle zoals je bij de andere niveau's hebt gedaan
-Kijk terug naar eerdere niveau's, formuleer verbeterpunten en pak die aan
+- Doorloop zelfstandig de dev-lifecycle zoals je bij de andere niveau's hebt gedaan
+- Kijk terug naar eerdere niveau's, formuleer verbeterpunten en pak die aan
 
 ## Werkwijze
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+
+Volg de development lifecycle zoals je dat deze week hebt leren doen. Je kunt de cycle meerdere malen doorlopen. Het is aan te raden in eerste instantie een minimale versie online te zetten en deze daarna systematisch uit te breiden.
 
 ### Analyseren
 *In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren.*
