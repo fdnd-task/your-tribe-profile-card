@@ -82,8 +82,6 @@ Kijk steeds terug naar eerder gemaakte visitekaartjes, formuleer verbeterpunten 
 ## Criteria
 *Definitions of done*
 
-Je bent klaar met deze opdracht als:
-- de tijd op is
-- je tevreden bent
+Je bent klaar als je jouw proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) hebt gedocumenteerd in de README.md in jouw fork van deze repository. Ook moet jouw visitekaartje bereikbaar zijn via gh-pages.
 
 Focus sprint 1 - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design. Hoe gaan werken we bij FDND, wat wordt er van je verwacht, welke mindset is nodig.
