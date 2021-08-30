@@ -4,12 +4,11 @@ Maak jouw definitieve visitekaartje. Gebruik daarbij alles wat je tot nog toe ge
 
 ## Context
 
-Op fdnd.nl komen alle visitekaartjes van de studenten te staan. Op deze website kijken potentiele opdrachtgevers, presenteer jezelf door middel van een digitaal visitekaartje. Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een autonome opdracht die je individueel uitvoert voor FDND.
+Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een autonome opdracht die je individueel uitvoert voor FDND.
 
 ## Briefing
 
-
-
+Op fdnd.nl komen alle visitekaartjes van de studenten te staan, op deze website kijken potentiele opdrachtgevers. Presenteer jezelf door middel van een digitaal visitekaartje. 
 
 ## Doel van deze opdracht
 
