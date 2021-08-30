@@ -30,14 +30,9 @@ Kijk steeds terug naar eerder gemaakte visitekaartjes, formuleer verbeterpunten 
 <summary>Aanpak</summary>
 
 1. Kijk terug naar een eerder gemaakt visitekaartje (duplicate, experiment, extension)
-2. Formuleer verbeterpunten op basis van feedback die je hebt gekregen en nieuwe dingen die je wilt leren.
-3. {doorlopen worden}
-
-#### Materiaal
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+2. Formuleer verbeterpunten op basis van feedback die je hebt gekregen of nieuwe dingen die je wilt leren.
+3. Zoek bronnen (bijvoorbeeld uit eerdere leertaken) die je kunt gebruiken om geformuleerde punten aan te pakken en noteer die
+4. Kies het belangrijkste verbeterpunt en ga daar mee aan de slag
 
 </details>
 
@@ -47,15 +42,8 @@ Kijk steeds terug naar eerder gemaakte visitekaartjes, formuleer verbeterpunten 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+1. Maak schetsen van een aantal variaties van het idee dat je wilt uitvoeren
+2. Vergelijk je schetsen, bespreek deze met een docent en kies onderbouwd welke versie je uit gaat werken
 
 </details>
 
@@ -65,15 +53,7 @@ Kijk steeds terug naar eerder gemaakte visitekaartjes, formuleer verbeterpunten 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+1. Realiseer het door jou gekozen idee
 
 </details>
 
@@ -83,15 +63,7 @@ Kijk steeds terug naar eerder gemaakte visitekaartjes, formuleer verbeterpunten 
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+1. 'Push' jouw aanpassingen naar Github (en publiceer via Github pages) 
 
 </details>
 
