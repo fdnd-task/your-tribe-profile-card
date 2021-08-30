@@ -16,9 +16,6 @@ Doorloop zelfstandig de dev-lifecycle zoals je bij de andere niveau's hebt gedaa
 Kijk terug naar eerdere niveau's, formuleer verbeterpunten en pak die aan
 
 ## Werkwijze
-*De werkwijze volgt de fasering van de Development Life Cycle.*
-
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
