@@ -1,24 +1,16 @@
-Geen HTML/CSS etc, mogen ze helemaal zelf maken/kopieren uit eerdere taken.
-Wel wat hints, welke stappen nemen ze bij analyse, dat al voordefinieren.
-
 # Jouw visitekaartje
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Maak jouw definitieve visitekaartje. Gebruik daarbij alles wat je tot nog toe geleerd hebt. Dit is een autonome taak dus er staat geen voorbeeld code. Je zult alle onderdelen zelf moeten uitvoeren.
 
 ## Context
-*Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: Op fdnd.nl komen alle visitekaartjes van de studenten te staan. Op deze website kijken potentiele opdrachtgevers, presenteer jezelf door middel van een digitaal visitekaartje. Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een autonome opdracht die je individueel uitvoert voor FDND.
+Op fdnd.nl komen alle visitekaartjes van de studenten te staan. Op deze website kijken potentiele opdrachtgevers, presenteer jezelf door middel van een digitaal visitekaartje. Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een autonome opdracht die je individueel uitvoert voor FDND.
 
 ## Briefing
-*In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+Volg de development lifecycle zoals je dat deze week hebt leren doen. Je kunt de cycle meerdere malen doorlopen. Het is aan te raden in eerste instantie een minimale versie online te zetten en deze daarna systematisch uit te breiden.
 
 ## Doel van deze opdracht
-*Wat leer je in deze taak.*
 
 Doorloop zelfstandig de dev-lifecycle zoals je bij de andere niveau's hebt gedaan
 Kijk terug naar eerdere niveau's, formuleer verbeterpunten en pak die aan
