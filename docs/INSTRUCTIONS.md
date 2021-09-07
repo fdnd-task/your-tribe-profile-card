@@ -1,10 +1,10 @@
-# Jouw visitekaartje
+# Visitekaartje
 
 Maak jouw definitieve visitekaartje. Gebruik daarbij alles wat je tot nog toe geleerd hebt. Dit is een autonome taak dus er staat geen voorbeeld code. Je zult alle onderdelen zelf moeten uitvoeren.
 
 ## Context
 
-Deze leertaak hoort bij sprint 1 Your Tribe. Dit is een autonome opdracht die je individueel uitvoert voor FDND.
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een autonome opdracht die je individueel uitvoert.
 
 ## Briefing
 
