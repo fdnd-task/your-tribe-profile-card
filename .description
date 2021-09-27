@@ -1,23 +1,20 @@
 ---
-title: "Visitekaartje"              # Same as repo name but with spaces and caps
-client: "FDND"                      # Name of the client for this task
-description: ""                     # Max. 280 characters in description
-semester: 1                         # Please choose only one semester
-sprint: 1                           # Please choose only one sprint
-support-level: 5                    # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
-behavior-criteria:                  # These criteria determine the skill level of a task
-  collaboration: 0                  # compared to the whole curriculum on a 6 point scale.
-  learning-capacity: 2              # Make sure you understand the levels before changing
-  problem-solving: 2                # these in a task. In general 0-2 will be used for tasks
-  act-methodically: 1               # in semester 1 (static web), 3-4 for tasks in semester 2
-  communicating: 0                  # (data driven), 5-6 for tasks in semester 3 (wtf?!).
-collaborators: 1                    # How big is the team with wich to adress this task.
-tags:                               # tags can be used to categorize tasks, can be anything
-  - semantiek                                        
-  - responsive design
-  - ui-interacties
+title: "Visitekaartje"                 
+client: "FDND"          
+description: "Maak met HTML, CSS en JavaScript een visitekaartje"    
+semester: 1                       
+sprint: 1                       
+support-level: 5                 
+behavior-criteria:                  
+  collaboration: 1                
+  learning-capacity: 1            
+  problem-solving: 1              
+  act-methodically: 1             
+  communicating: 1                
+collaborators: 1                  
+tags:                               
+  - huisstijl                                        
   - html
   - css
-  - javascript
-burn-points: 8                      # burn-points determine the weight of a task
+burn-points: 5  
 ---
