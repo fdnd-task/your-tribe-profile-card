@@ -118,10 +118,10 @@ HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op he
   
 De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen etc). De CSS staat in een los document en wordt aan de HTML pagina gekoppeld in het ```<head>``` element. je mag zelf weten hoe het CSS file heet. In ons voorbeeld heet het file ```/style.css``` en staat het in de map ```/style/```.
 
-
 ![image](https://user-images.githubusercontent.com/1391509/188120479-5c504b54-edcf-4ef5-85af-a93ad56a4953.png)
 
-![image](https://user-images.githubusercontent.com/1391509/188120536-c0e137ec-3e6d-4eea-a4a6-20db0cb187ec.png)
+![image](https://user-images.githubusercontent.com/1391509/188121078-2cd96229-ca3d-42b3-af0c-16a97e1ea00b.png)
+
 
   0. Kun je
  zien op welke regel in het HTML document het CSS document wordt gekoppeld?
@@ -148,9 +148,9 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
   
 De interactie op de pagina wordt bepaald door Javascript (JS). De JS code staat in een los document en moet ook in het HTML document worden gekoppeld. Dat kan in de ```<head>``` maar ook onder aan in het HTML document. je mag zelf weten hoe het JS file heet. In ons voorbeeld heet het file ```/script.js``` en staat het in de map ```/script/```.
 
-
 ![image](https://user-images.githubusercontent.com/1391509/188120577-0d78cdb1-ef74-4527-9531-a8d92e2a0874.png)
 
+![image](https://user-images.githubusercontent.com/1391509/188120536-c0e137ec-3e6d-4eea-a4a6-20db0cb187ec.png)
 
   0. Kun je zien op welke regel in het HTML document het JS document wordt gekoppeld?
   1. Open het ```/script/script.js``` bestand in een editor. 
