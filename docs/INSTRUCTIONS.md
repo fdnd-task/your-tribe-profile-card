@@ -1,3 +1,5 @@
+https://github.com/fdnd-task-archive/your-tribe-fdnd-visitekaartje-duplicate/blob/main/docs/VisitekaartjeDuplicate.jpg![image](https://user-images.githubusercontent.com/1391509/188114266-2866e68b-988e-4955-8307-5c56080a9152.png)
+
 # Visitekaartje
 
 Je maakt op basis van het voorbeeld een eigen visitekaartje.
@@ -12,7 +14,7 @@ In het S01W1-02-Visitekaartje wordt stap voor stap behandeld wat je moet doen.
 
 Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
 
-Maak een visitekaartje op basis van [het voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) en publiceer dat via Github pages.
+Maak een visitekaartje op basis van [dit voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) en publiceer dat via Github pages.
 
 
 ## Doel van deze opdracht
