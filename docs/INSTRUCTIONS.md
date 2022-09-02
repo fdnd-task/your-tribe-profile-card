@@ -1,4 +1,5 @@
-https://github.com/fdnd-task-archive/your-tribe-fdnd-visitekaartje-duplicate/blob/main/docs/VisitekaartjeDuplicate.jpg![image](https://user-images.githubusercontent.com/1391509/188114266-2866e68b-988e-4955-8307-5c56080a9152.png)
+
+![image](https://user-images.githubusercontent.com/1391509/188114337-54f6a9eb-dc0c-42e9-a455-6ac636edb7c6.jpeg)
 
 # Visitekaartje
 
