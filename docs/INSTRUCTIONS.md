@@ -20,7 +20,7 @@ Maak een visitekaartje op basis van [dit voorbeeld](https://github.com/fdnd-task
 
 ## Doel van deze opdracht
 
-Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaakt met behulp van de de Development Lifecycle. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en JS (voor de interactie) gebruikt om het ontwerp te bouwen. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
+Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaakt. Je leert werken volgens de met de Development Lifecycle. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en JS (voor de interactie) gebruikt om het ontwerp te bouwen. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
 
 
 
