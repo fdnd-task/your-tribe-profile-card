@@ -1,4 +1,4 @@
-# Profile Card
+# Visitekaartje
 
 Je maakt op basis van het voorbeeld een eigen visitekaartje.
 
