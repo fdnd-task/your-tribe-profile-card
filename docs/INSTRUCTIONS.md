@@ -118,10 +118,13 @@ HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op he
   
 De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen etc). De CSS staat in een los document en wordt aan de HTML pagina gekoppeld in het ```<head>``` element. je mag zelf weten hoe het CSS file heet. In ons voorbeeld heet het file ```/style.css``` en staat het in de map ```/style/```.
 
-https://user-images.githubusercontent.com/1391509/132132468-447722e2-8286-4439-8658-3be7ecafc5b2.png![image](https://user-images.githubusercontent.com/1391509/188099650-124a62d9-8347-4738-9b19-6eaa9d81b035.png)
 
+![image](https://user-images.githubusercontent.com/1391509/188120479-5c504b54-edcf-4ef5-85af-a93ad56a4953.png)
 
-  0. Kun je zien op welke regel in het HTML document het CSS document wordt gekoppeld?
+![image](https://user-images.githubusercontent.com/1391509/188120536-c0e137ec-3e6d-4eea-a4a6-20db0cb187ec.png)
+
+  0. Kun je
+ zien op welke regel in het HTML document het CSS document wordt gekoppeld?
   1. Open het ```/styles/style.css``` bestand in een editor. 
   2. Op regel 24 en 25 wordt de achtergrondkleur vastgelegd in de regels:
 ```
@@ -145,9 +148,8 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
   
 De interactie op de pagina wordt bepaald door Javascript (JS). De JS code staat in een los document en moet ook in het HTML document worden gekoppeld. Dat kan in de ```<head>``` maar ook onder aan in het HTML document. je mag zelf weten hoe het JS file heet. In ons voorbeeld heet het file ```/script.js``` en staat het in de map ```/script/```.
 
-https://user-images.githubusercontent.com/1391509/132133031-a5056ab0-87f7-4da8-ae87-8ab15c0d1f97.png![image](https://user-images.githubusercontent.com/1391509/188099684-e37b91ed-4a76-4514-8b7e-9da31695b941.png)
 
-https://user-images.githubusercontent.com/1391509/132133037-1fe50f4d-d087-48f4-8c06-51e575b555a3.png![image](https://user-images.githubusercontent.com/1391509/188099703-f029cb51-12da-4284-8223-70b23b8e3a4c.png)
+![image](https://user-images.githubusercontent.com/1391509/188120577-0d78cdb1-ef74-4527-9531-a8d92e2a0874.png)
 
 
   0. Kun je zien op welke regel in het HTML document het JS document wordt gekoppeld?
