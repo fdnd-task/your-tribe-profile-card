@@ -149,9 +149,11 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
   
 De interactie op de pagina wordt bepaald door Javascript (JS). De JS code staat in een los document en moet ook in het HTML document worden gekoppeld. Dat kan in de ```<head>``` maar ook onder aan in het HTML document. je mag zelf weten hoe het JS file heet. In ons voorbeeld heet het file ```/script.js``` en staat het in de map ```/scripts/```.
 
-![image](https://user-images.githubusercontent.com/1391509/188120577-0d78cdb1-ef74-4527-9531-a8d92e2a0874.png)
 
-![image](https://user-images.githubusercontent.com/1391509/188120536-c0e137ec-3e6d-4eea-a4a6-20db0cb187ec.png)
+<img width="997" alt="image" src="https://user-images.githubusercontent.com/1391509/188333086-3fe55b95-3bba-4534-9691-31efe7ef6c47.png">
+
+<img width="997" alt="image" src="https://user-images.githubusercontent.com/1391509/188333102-b036f6f8-4c76-427d-9b88-eb5fd323ff5d.png">
+
 
   0. Kun je zien op welke regel in het HTML document het JS document wordt gekoppeld?
   1. Open het ```/scripts/script.js``` bestand in een editor. 
