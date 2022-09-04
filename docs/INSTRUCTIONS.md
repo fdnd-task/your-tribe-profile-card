@@ -15,7 +15,7 @@ In het S01W1-02-Visitekaartje wordt stap voor stap behandeld wat je moet doen.
 
 Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
 
-Maak een visitekaartje op basis van [dit voorbeeld](https://github.com/fdnd-task/fdnd-visitekaartje-example) en publiceer dat via Github pages.
+Maak een visitekaartje op basis van [dit voorbeeld](https://github.com/fdnd-task/your-tribe-profile-card/tree/main/example) en publiceer dat via Github pages.
 
 
 ## Doel van deze opdracht
