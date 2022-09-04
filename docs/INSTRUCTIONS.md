@@ -118,9 +118,10 @@ HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op he
   
 De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen etc). De CSS staat in een los document en wordt aan de HTML pagina gekoppeld in het ```<head>``` element. je mag zelf weten hoe het CSS file heet. In ons voorbeeld heet het file ```/style.css``` en staat het in de map ```/styles/```.
 
-![image](https://user-images.githubusercontent.com/1391509/188120479-5c504b54-edcf-4ef5-85af-a93ad56a4953.png)
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/1391509/188333049-346d3f63-ebee-4cc1-9242-ee5ffbbabe73.png">
 
-![image](https://user-images.githubusercontent.com/1391509/188121078-2cd96229-ca3d-42b3-af0c-16a97e1ea00b.png)
+<img width="997" alt="image" src="https://user-images.githubusercontent.com/1391509/188333062-95cb57ce-36d1-42a3-9628-074d09b706c2.png">
+
 
 
   0. Kun je
