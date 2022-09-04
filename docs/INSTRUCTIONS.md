@@ -98,11 +98,11 @@ HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op he
 ![image](https://user-images.githubusercontent.com/1391509/188098612-1c334266-33e5-42c9-913c-337a5fc05ae9.png)
 
 
-1. Open het ```/index.html``` bestand in een editor.
+1. Open het ```/index.html``` bestand in de folder 'example' op jouw computer in een code-editor.
 2. Op regel 13 staat een ```<h1>...</h1>``` element met de naam Jane Doe. Voer hier jouw eigen naam in.
 3. Op regel 14 staan ```<p><em>...</em></p>``` met daarin de *beschrijving* van Jane. Pas dit aan naar jouw eigen tekst.
-4. Pas op dezelfde manier de vaardigheden op regels 36 en verder en het motto op regel 42 aan. 
-5. In het voorbeeld staat een foto ```<img src="assets/creative-coder.png">``` op regel 34. Verander de foto met jouw mugshot.
+4. Pas op dezelfde manier de vaardigheden op regels 37 en verder en het motto op regel 43 aan. 
+5. In het voorbeeld staat een foto ```<img src="assets/creative-coder.png">``` op regel 35. Verander de foto met jouw mugshot.
 6. Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
 
   
