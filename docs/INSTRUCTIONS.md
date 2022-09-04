@@ -95,7 +95,7 @@ Zorg eerst dat je de leertaak naar je eigen account kopieert, dan is dan jouw re
   
 HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op het World Wide Web. In het HTML document staat de inhoud van het ontwerp gestructureerd met HTML elementen. In het HTML document van het visitekaartje ```/index.html``` staat alle inhoud die je op de webpagina ziet. 
 
-![image](https://user-images.githubusercontent.com/1391509/188098612-1c334266-33e5-42c9-913c-337a5fc05ae9.png)
+<img width="997" alt="image" src="https://user-images.githubusercontent.com/1391509/188332988-359fa04e-2638-4313-bf9a-332968eae59e.png">
 
 
 1. Open het ```/index.html``` bestand van de leertaak op jouw computer in een code-editor.
