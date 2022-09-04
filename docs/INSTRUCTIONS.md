@@ -98,10 +98,10 @@ HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op he
 ![image](https://user-images.githubusercontent.com/1391509/188098612-1c334266-33e5-42c9-913c-337a5fc05ae9.png)
 
 
-1. Open het ```/index.html``` bestand in de folder 'example' op jouw computer in een code-editor.
+1. Open het ```/index.html``` bestand van de leertaak op jouw computer in een code-editor.
 2. Op regel 13 staat een ```<h1>...</h1>``` element met de naam Jane Doe. Voer hier jouw eigen naam in.
 3. Op regel 14 staan ```<p><em>...</em></p>``` met daarin de *beschrijving* van Jane. Pas dit aan naar jouw eigen tekst.
-4. Pas op dezelfde manier de vaardigheden op regels 37 en verder en het motto op regel 43 aan. 
+4. Pas op dezelfde manier de vaardigheden op regels 37 en verder en het motto op regel 43 aan. Misschien wil je hier wel iets anders presenteren? Dat kan ook ...
 5. In het voorbeeld staat een foto ```<img src="assets/creative-coder.png">``` op regel 35. Verander de foto met jouw mugshot.
 6. Je kunt als je wilt ook de icoontjes vervangen voor iets wat beter bij jouw past, gebruik daarvoor de [Unicode Character Table](https://unicode-table.com/en/).
 
@@ -116,7 +116,7 @@ HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op he
 
 #### 3. CSS
   
-De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen etc). De CSS staat in een los document en wordt aan de HTML pagina gekoppeld in het ```<head>``` element. je mag zelf weten hoe het CSS file heet. In ons voorbeeld heet het file ```/style.css``` en staat het in de map ```/style/```.
+De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen etc). De CSS staat in een los document en wordt aan de HTML pagina gekoppeld in het ```<head>``` element. je mag zelf weten hoe het CSS file heet. In ons voorbeeld heet het file ```/style.css``` en staat het in de map ```/styles/```.
 
 ![image](https://user-images.githubusercontent.com/1391509/188120479-5c504b54-edcf-4ef5-85af-a93ad56a4953.png)
 
@@ -126,14 +126,14 @@ De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achte
   0. Kun je
  zien op welke regel in het HTML document het CSS document wordt gekoppeld?
   1. Open het ```/styles/style.css``` bestand in een editor. 
-  2. Op regel 24 en 25 wordt de achtergrondkleur vastgelegd in de regels:
+  2. Op regel 26 en 27 wordt de achtergrondkleur vastgelegd in de regels:
 ```
 background: rgb(0,239,255);
 background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
 ```
   De eerste waarde stelt een kleur in met RGB notatie. Voer de RGB waarde  voor jouw achtergrondkleur in. Als je het interessant vindt mag je proberen de gradient naar je hand te zetten ;)
 
-  3. Op regel 13 staat ```color: #10214e```, deze regel legt de normale tekstkleur van het bestand vast in hexadecimale notatie. Pas ook deze kleur aan naar jouw kleurenpalet.
+  3. Op regel 15 staat ```color: #10214e```, deze regel legt de normale tekstkleur van het bestand vast in hexadecimale notatie. Pas ook deze kleur aan naar jouw kleurenpalet.
   4. Zoek het bestand verder door en zet alle ```background``` en ```color``` declaraties naar jouw hand.
   5. In het bestand wordt ook de stijl bepaald van twee SVG afbeeldingen. De declaraties die hier voor gebruikt worden zijn ```stroke``` en ```fill```. Als je het tof vindt kan je ook die kleuren aanpassen aan jouw kleurenpalet!
 
@@ -146,14 +146,14 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
 
 #### 4. JS
   
-De interactie op de pagina wordt bepaald door Javascript (JS). De JS code staat in een los document en moet ook in het HTML document worden gekoppeld. Dat kan in de ```<head>``` maar ook onder aan in het HTML document. je mag zelf weten hoe het JS file heet. In ons voorbeeld heet het file ```/script.js``` en staat het in de map ```/script/```.
+De interactie op de pagina wordt bepaald door Javascript (JS). De JS code staat in een los document en moet ook in het HTML document worden gekoppeld. Dat kan in de ```<head>``` maar ook onder aan in het HTML document. je mag zelf weten hoe het JS file heet. In ons voorbeeld heet het file ```/script.js``` en staat het in de map ```/scripts/```.
 
 ![image](https://user-images.githubusercontent.com/1391509/188120577-0d78cdb1-ef74-4527-9531-a8d92e2a0874.png)
 
 ![image](https://user-images.githubusercontent.com/1391509/188120536-c0e137ec-3e6d-4eea-a4a6-20db0cb187ec.png)
 
   0. Kun je zien op welke regel in het HTML document het JS document wordt gekoppeld?
-  1. Open het ```/script/script.js``` bestand in een editor. 
+  1. Open het ```/scripts/script.js``` bestand in een editor. 
   2. Schrijf achter elke regel wat die doet.
   3. Heb je zelf ook een interactie bedacht voor je visitekaartje? Hoe zou je dat kunnen maken?
 
