@@ -186,26 +186,19 @@ Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat Github weet wa
 5. Schrijf zo nodig ook een beschrijving waarin je kan uitleggen wat er is veranderd en waarom. Dit is vooral handig als je met meer mensen samen werkt. 
 6. _Commit_ je code aan je lokale _repository_, klik op [Commit to Master]
 
-https://user-images.githubusercontent.com/1391509/132139986-7c852111-0ced-463e-bb7a-60fd7b7f5670.png![image](https://user-images.githubusercontent.com/1391509/188100380-5573d459-da72-43e6-9258-0776e6d34cc6.png)
-
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/1391509/188333768-cc5cebd2-e5b8-4790-af68-437231661921.png">
   
 7. Daarna kun je de wijzigingen uploaden naar de online _repository_ op Github. Klik op [Push origin]
 
-https://user-images.githubusercontent.com/1391509/132140000-a79a7daa-4a28-473f-94bc-0ca8b8cb2fc5.png![image](https://user-images.githubusercontent.com/1391509/188100408-aadcab3e-acb5-4708-bb22-aefd371a52da.png)
-
+<img width="644" alt="image" src="https://user-images.githubusercontent.com/1391509/188333798-02e1009b-da27-40f7-839a-f9a09e5c0707.png">
 
 8. Nu kun je je website publiceren. Selecteer Setting van je online _repository_ om naar de instellingen te gaan. 
-9. Klik in het linkermenu op *Pages*. Als het goed is zie je hetzelfde als in onderstaande screenshot:
+9. Klik in het linkermenu op *Pages*. 
+10. Selecteer bij *Brance* de **Main branch** en klik op Save:
 
-https://github.com/fdnd-task-archive/your-tribe-fdnd-visitekaartje-duplicate/blob/main/docs/gh-pages1.png![image](https://user-images.githubusercontent.com/1391509/188101048-f78bed9c-2771-4d24-a766-5ddb77e259b5.png)
-
-10. Selecteer bij *Source* de **Master branch** en klik op Save:
-
-https://github.com/fdnd-task-archive/your-tribe-fdnd-visitekaartje-duplicate/blob/main/docs/gh-pages2.png![image](https://user-images.githubusercontent.com/1391509/188101128-5e92f513-bf3d-4861-b30e-a175733a865b.png)
+<img width="498" alt="image" src="https://user-images.githubusercontent.com/1391509/188333827-9307580d-62bb-46aa-b5ff-30ae66ed6285.png">
 
 11. Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-duplicate/](https://username.github.io/fdnd-visitekaartje-duplicate/).
-12. Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
-
 
 
 #### Materiaal integratiefase
@@ -221,22 +214,7 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan 
 
 #### Aanpak
 
-1. Laat jouw visitekaartje testen door een paar klasgenoten en jouw docent. 
+1. Laat jouw visitekaartje testen door een paar klasgenoten. 
 2. Maak aantekeningen van de test. 
 3. Ben je tevreden met het resultaat? Zo niet herhaal dan bovenstaande stappen.
-
-
-
-## Criteria
-
-Focus sprint # - De focus van deze sprint ligt op ...
-
-Deze deeltaak hoort bij het gedragscriterium:  
-...
-
-Deze opdracht is done als:
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
 
