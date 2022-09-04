@@ -3,7 +3,7 @@
 
 # Visitekaartje
 
-Je maakt op basis van het voorbeeld een eigen visitekaartje.
+Je maakt op basis van een voorbeeld een eigen visitekaartje.
 
 ## Context
 
