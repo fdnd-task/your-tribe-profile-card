@@ -223,7 +223,7 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan 
 
 Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
 
-Bij deze leertaak gelde de gedragscriteria van sprint 1:
+Bij deze leertaak gelden de gedragscriteria van Sprint 1:
 
 - Je volgt binnen projecten de aangeboden fasering van de development-lifecycle.
 - Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
@@ -233,7 +233,7 @@ Bij deze leertaak gelde de gedragscriteria van sprint 1:
 
 Deze opdracht is done als:
 
-- [ ] Je hebt gewerkt volgens de verschillende fases van de Development Lifecycle
+- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
 - [ ] Je hebt een ontwerp geschetst
 - [ ] je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS
 - [ ] Je visitekaartje staat op Github en heeft een live url
