@@ -8,11 +8,11 @@ html {
 
 body {
   height:100vh;
-  font-family: open sans;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   display:flex;
   justify-content:center;
   align-items:center;
-  color:#000000;
+  color:#8c1260;
   background-color: beige;
 }
 
@@ -24,7 +24,7 @@ article {
   flex-direction:column;
   align-items:center;
   justify-content:flex-end;
-  background: rgb(0,239,255);
+  background: rgb(204, 175, 248);
   background: linear-gradient(0deg, rgb(255, 220, 250) 40%, #d369b8 100%);
   box-shadow:0 0 20px 20px rgba(0,0,0,.1);
   border-radius:1rem;
@@ -43,7 +43,11 @@ header {
 
 h1 {
   margin:2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  color: rgb(147, 12, 98);
+  position:relative;
+  top:-1.5rem;
+  text-align: center;
+  font-size: 1.5em;
 }
 
 button {
@@ -54,21 +58,21 @@ button {
   width:2.5rem;
   height:2.5rem;
   transform: scale(.8);
-  background: rgba(0,239,255,1);
+  background: rgb(135, 35, 94);
   border-radius:50%;
   padding:.25rem;
   transition:.25s;
 }
 button:focus {
   outline:none;
-  background:#202592;
+  background:#6c2092;
 }
 button:focus svg {
-  stroke: rgba(0,239,255,1);
+  stroke: rgb(247, 209, 235);
 }
 
 svg {
-  stroke: #4e54c8;
+  stroke: #d89afb;
   position: absolute;
   top:calc(1.25rem - 12px);
   left:calc(1.25rem - 12px);
@@ -85,7 +89,7 @@ img {
   border:5px solid rgb(255, 255, 255);
   box-shadow:0 0 2px 2px rgba(0,0,0,.2);
   position:relative;
-  top:2rem;
+  margin-top:-4rem;
   transition:.25s .15s;
 }
 
@@ -106,7 +110,33 @@ dl {
   margin-bottom: 0;
   text-align: center;
 }
-
+section1 {
+  display: inline-block;
+  color: azure;
+  background-color: #d89afb;
+  font-size: 1em;
+  align: left;
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 2em;
+  padding-bottom: 2em;
+  text-align: left;
+  margin-top: -10rem
+  
+}
+section2 {
+  display: inline-block;
+  color: azure;
+  background-color: grey;
+  font-size: 1em;
+  align: left;
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 2em;
+  padding-bottom: 2em;
+  text-align: left;
+  margin-top: 0rem;
+}
 dt{
   font-weight: bold;
   border-top: 1px solid rgba(218, 218, 218, 0.3);
@@ -133,10 +163,10 @@ p {
 article > p {
   padding:3rem 2rem;
   margin-top: 0;
-  background:rgba(171, 255, 214, 0.5);
-  text-align:center;
+  background:rgba(147, 147, 147, 0.5);
+  text-align:left;
   border-radius: 0 0 1rem 1rem;
-  width:100%;
+  width:50%;
 }
 
 /* expand content */
