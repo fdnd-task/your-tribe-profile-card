@@ -5,7 +5,17 @@
   #ffe8c2
   #071e22
   #1d7874
+
+  #f49097
+  #dfb2f4
 */
+
+:root {
+  --desktop-bg: #008080;
+  --window-bg: #C0C0C0;
+  --window-accent: #808080;
+  --selection: #000080;
+}
 
 * {
   box-sizing: border-box;
@@ -17,10 +27,11 @@ html {
 
 body {
   height: 100vh;
-  font-family: open sans;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+  font-family: greycliff-cf, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+
   background-color: #1d7874;
   color: #10214e;
 }
@@ -29,31 +40,40 @@ article {
   width: 90%;
   max-width: 50em;
   min-width: 20em;
-  display: flex;
-  flex-direction: row;
-  align-items: end;
-  justify-content: end;
-  background: #ffe8c2;
-  box-shadow: 12px 12px 0px 0px #ffc05c;
+  background: var(--main-bg-color);
+  box-shadow: 12px 12px 0px 0px var(--secondary-bg-color);
+  border-radius: 1rem;
+  position: relative;
+  transition: 0.25s;
+  border: 2px solid var(--secondary-bg-color);
+}
+
+.identiteit {
+  width: 100%;
+
+  padding: 1rem;
+  background: #f7daad;
   border-radius: 1rem;
   position: relative;
   transition: 0.25s;
   border: 2px solid #ffc05c;
 }
 
-#naam {
-  font-family: greycliff-cf,sans-serif;
-  font-weight: 100;
-  font-style: normal;
-
+#id-label {
+  border-radius: 1rem;
   font-size: 2.5em;
-  font-weight: 300;
+  font-weight: 200;
+}
+
+#naam {
+  font-weight: 200;
+  font-size: 1.5em;
   margin: 0;
-  padding: 2em 4em 0 0;
+  padding: 2em 2em 0 0;
   text-align: center;
 }
 
-#opleiding {
+#id-tekst {
   font-family: greycliff-cf,sans-serif;
   font-weight: 100;
   font-style: normal;
@@ -62,6 +82,7 @@ article {
 }
 
 img {
+  float:right;
   margin-right: 8em;
   margin-top: 4em;
   width: 15em;

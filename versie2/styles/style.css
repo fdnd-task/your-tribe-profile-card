@@ -1,0 +1,108 @@
+/* 
+  Kleurenpalet:
+  #8783d1
+  #aa9aba
+  #ffe8c2
+  #071e22
+  #1d7874
+
+  #f49097
+  #dfb2f4
+*/
+
+:root {
+  --desktop-bg: #008080;
+  --window-bg: #C0C0C0;
+  --window-accent: #808080;
+  --selection: #000080;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  height: 100vh;
+
+  font-family: greycliff-cf, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+
+  background-color: #1d7874;
+  color: #10214e;
+}
+
+article {
+  width: 90%;
+  max-width: 50em;
+  min-width: 20em;
+  background: var(--main-bg-color);
+  box-shadow: 12px 12px 0px 0px var(--secondary-bg-color);
+  border-radius: 1rem;
+  position: relative;
+  transition: 0.25s;
+  border: 2px solid var(--secondary-bg-color);
+}
+
+.identiteit {
+  width: 100%;
+
+  padding: 1rem;
+  background: #f7daad;
+  border-radius: 1rem;
+  position: relative;
+  transition: 0.25s;
+  border: 2px solid #ffc05c;
+}
+
+#id-label {
+  border-radius: 1rem;
+  font-size: 2.5em;
+  font-weight: 200;
+}
+
+#naam {
+  font-weight: 200;
+  font-size: 1.5em;
+  margin: 0;
+  padding: 2em 2em 0 0;
+  text-align: center;
+}
+
+#id-tekst {
+  font-family: greycliff-cf,sans-serif;
+  font-weight: 100;
+  font-style: normal;
+
+  padding-bottom: 2em;
+}
+
+img {
+  float:right;
+  margin-right: 8em;
+  margin-top: 4em;
+  width: 15em;
+  border-radius: 4em;
+  border-width: 20px;
+  border: 2px solid #ffc05c;
+  box-shadow: 12px 12px 0px 0px #ffc05c;
+  position: relative;
+  transition: 0.25s 0.15s;
+}
+
+p {
+  margin: 0;
+}
+
+article > p {
+  padding: 3rem 2rem;
+  margin-top: 0;
+  background: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  border-radius: 0 0 1rem 1rem;
+  width: 100%;
+}
