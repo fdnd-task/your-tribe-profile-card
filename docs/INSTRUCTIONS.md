@@ -235,8 +235,8 @@ Deze opdracht is done als:
 
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
 - [ ] Je hebt een ontwerp geschetst
-- [ ] je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS
+- [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS
 - [ ] Je visitekaartje staat op Github en heeft een live url
-- [ ] Je hebt je werkt gedocumenteerd in de Readme en Wiki
+- [ ] Je hebt je werk gedocumenteerd in de Readme en Wiki
 
 
