@@ -42,7 +42,7 @@ Verder staat hieronder nog een korte lijst met gebruikte tools en middelen.
 
 <strong>GEBRUIK</strong>
 
-het visitekaartje  is op twee manieren te gebruiken: lokaal en op het web. 
+Het visitekaartje  is op een manieren te gebruiken: Op het web (lokaal). 
 
 
 <strong>BRONNEN</strong>
