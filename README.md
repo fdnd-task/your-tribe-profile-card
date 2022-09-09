@@ -1,6 +1,8 @@
 
 <strong>Your-tribe-profile-card</strong>
 
+![image](https://user-images.githubusercontent.com/112861261/189330670-daea9bfc-53b4-4659-8d99-1be65081cd36.png)
+
 
 <strong>Doel opdracht:</strong> Het maken van een visitekaartje, aan de hand van het visitekaartje stel jezelf voor aan je squad (werkgever/stageplek).
 
