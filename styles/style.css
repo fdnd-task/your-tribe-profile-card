@@ -23,8 +23,7 @@ article {
   flex-direction: column;
   align-items: center;
   justify-content: flex-end;
-  background: rgb(0, 239, 255);
-  background: linear-gradient(0deg, rgba(0, 239, 255, 1) 40%, #4e54c8 100%);
+  background: #fff5e4;
   box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.1);
   border-radius: 1rem;
   position: relative;
@@ -37,12 +36,11 @@ header {
   justify-content: center;
   align-items: center;
   justify-content: flex-end;
-  background-image: url(./../assets/chocolade.jpeg);
 }
 
 h1 {
   margin: 2rem 0 1rem;
-  color: rgba(0, 239, 255, 1);
+  color: rgb(49, 48, 48);
 }
 
 button {
@@ -53,7 +51,7 @@ button {
   width: 2.5rem;
   height: 2.5rem;
   transform: scale(0.8);
-  background: rgba(0, 239, 255, 1);
+  background: rgb(212, 231, 231);
   border-radius: 50%;
   padding: 0.25rem;
   transition: 0.25s;
@@ -138,7 +136,7 @@ p {
 article > p {
   padding: 3rem 2rem;
   margin-top: 0;
-  background: rgba(255, 255, 255, 0.5);
+  background: #fff5e4;
   text-align: center;
   border-radius: 0 0 1rem 1rem;
   width: 100%;
