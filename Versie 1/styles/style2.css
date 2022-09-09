@@ -1,0 +1,124 @@
+* {
+  box-sizing:border-box;
+}
+
+html {
+  height:100vh;
+}
+
+body {
+  height:100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  color:#8c1260;
+  background-color: beige;
+}
+
+h1 {
+  margin:2rem 0 1rem;
+  color: rgb(147, 12, 98);
+  position:relative;
+  top:-1.5rem;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+button {
+    border:none;
+    position: absolute;
+    right:1rem;
+    top:1rem;
+    width:2.5rem;
+    height:2.5rem;
+    transform: scale(.8);
+    background: rgb(135, 35, 94);
+    border-radius:50%;
+    padding:.25rem;
+    transition:.25s;
+  }
+
+  img {
+    width:7em;
+    height: 7em;
+    border-radius:10em;
+    border:5px solid rgb(255, 255, 255);
+    box-shadow:0 0 2px 2px rgba(0,0,0,.2);
+    margin-top:-2rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    z-index: 5;
+    position: relative;
+  }
+
+  section1 {
+    display: inline-block;
+    color: azure;
+    background-color: #ff78b7;
+    font-size: 1em;
+    align: left;
+    padding-top: 5rem;
+    padding-left: 0rem;
+    padding-right: 2em;
+    padding-bottom: 4em;
+    text-align: left;
+    margin-top: -8rem;
+    border-radius: 40px 0px 0px 40px;
+    line-height: 1.7rem;
+
+  }
+  section2 {
+    display: inline-block;
+    color: rgb(255, 143, 192);
+    background-color: rgb(255, 255, 255);
+    font-size: 1em;
+    align: left;
+    padding-top: 11rem;
+    padding-left: 0rem;
+    padding-right: 2em;
+    padding-bottom: 3em;
+    text-align: left;
+    margin-top: -8rem;
+    border-radius: 0px 40px 40px 0px;
+    line-height: 1.7rem;
+  }
+
+li {
+  color: rgb(135, 35, 94);
+  transition: 0.25s;
+}
+li:hover{
+  transform: rotate(20deg);
+
+}
+
+  /* expand content */
+body.expand {
+  font-size:1.15em;
+}
+
+body.expand article {
+  width:60vw;
+  max-width: 60vw;
+}
+
+body.expand button svg:first-of-type {
+  opacity:0;
+  transition-delay: 0ms;
+}
+
+body.expand button svg:nth-of-type(2) {
+  opacity:1;
+  transition-delay:.25s;
+}
+
+body.expand dd {
+  font-size: 1.75em;
+}
+
+body.expand img {
+  width:15em;
+}
+
