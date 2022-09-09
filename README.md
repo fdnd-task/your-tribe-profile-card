@@ -64,6 +64,13 @@ Your-tribe-profile-card
         
 </ul>
 
+<h3>
+LICENTIE
+</h3>
+
+![image](https://user-images.githubusercontent.com/112861261/189433832-1ad01b00-4398-460f-aad6-d0a5405ec9e8.png)
+<p> This work is licensed under</P> <a href="https:https://github.com/zombie0youssra/your-tribe-profile-card/blob/main/LICENSE">GNU GPLv3.</a>
+
 
 
 </article>
