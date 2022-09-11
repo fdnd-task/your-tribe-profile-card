@@ -7,7 +7,7 @@ Je maakt op basis van een voorbeeld een eigen visitekaartje.
 
 ## Context
 
-Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een deeltaak die je individueel uitvoert.
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je individueel uitvoert.
 
 In het S01W1-02-Visitekaartje wordt stap voor stap behandeld wat je moet doen.
 
@@ -26,7 +26,7 @@ Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaa
 
 ## Werkwijze
 
-Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de **development-lifecycle** [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Deze taak wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de **development-lifecycle** [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 Volg onderstaand fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op Github te publiceren.
 
@@ -74,7 +74,7 @@ Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwe
 De code schrijf je in een _code-editor_ zoals Visual Studio Code. Alle code van je project zet je op Github zodat docenten en studiegenoten kunnen zien wat je hebt gedaan. 
 
 
-#### Aanpak
+#### Aanpak bouwfase
 
 #### 1. Forken en Downloaden
 
@@ -177,7 +177,7 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
 Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat Github weet wat de nieuwste versie is. Daarna ga je de code uploaden naar de online _repository_ op Github. Tot slot ga je je opdracht publiceren met behulp van Github Pages. Als je dat hebt gedaan staat je website online en hebb je een url, nu kunnen anderen je werk ook zien. 
 
 
-#### Aanpak
+#### Aanpak integreerfase
 
 1. Open de Github-Desktop App 
 2. Browse naar de repo van deze opdracht FDND-visitekaartje-duplicate
@@ -211,7 +211,7 @@ Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat Github weet wa
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever om te bespreken of de opdracht goed is.
 
-#### Aanpak
+#### Aanpak testfase
 
 1. Laat jouw visitekaartje testen door een paar klasgenoten. 
 2. Maak aantekeningen van de test. 
