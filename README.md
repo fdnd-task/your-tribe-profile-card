@@ -1,61 +1,78 @@
+<body>
 
-<strong>Your-tribe-profile-card</strong>
+<article>
 
-![image](https://user-images.githubusercontent.com/112861261/189330670-daea9bfc-53b4-4659-8d99-1be65081cd36.png)
+<h1>
+
+Your-tribe-profile-card
+</h1>
+
+![image](https://user-images.githubusercontent.com/112861261/189423442-a6a33857-26d5-49aa-b78a-ab9477c785a4.png)
 
 
-<strong>Doel opdracht:</strong> Het maken van een visitekaartje, aan de hand van het visitekaartje stel jezelf voor aan je squad (werkgever/stageplek).
+<p><strong>Doel opdracht:</strong> Het maken van een visitekaartje, aan de hand van het visitekaartje stel jezelf voor aan je squad (werkgever/stageplek).</p>
 
-<strong>INHOUDSOPGAVE</strong>
+<h3>
+📚 INHOUDSOPGAVE 
+</h3>
 
 <ul>
-        <li class="first-li">
-          Beschrijving
-        </li>
+        <li>Beschrijving</li>
         <li>Kenmerken</li>
         <li>Gebruik</li>
         <li>Bronnen</li>
-      </ul>
+</ul>
+
+
+<h3>
+👩‍💻 KENMERKEN
+</h3>
+
+<p> Voor deze opdracht (project) heb ik HTML en CSS gebruikt om het visitekaartje te maken. Verder Hieronder een lijst met gebruikte tools en middelen.</p>
 
 <ul>
-
-<strong>KENMERKEN</strong>
-
-Dit  opdracht (project) is gemaakt met HTML en CSS. 
-Verder staat hieronder nog een korte lijst met gebruikte tools en middelen.
-
-<ul>
-        <li class="first-li">
-          <strong>TOOLS:</strong>
-        </li>
+        <li><strong>TOOLS:</strong></li>
         <li>VSCode</li>
         <li>Pen & Papier</li>
         <li>Laptop</li>
-      </ul>
+</ul>
+
 
 <ul>
-        <li class="first-li">
-          <strong>Gebruikte technieken:</strong>
-        </li>
+        <li><strong>GEBRUIKTE TECHNIEKEN:</strong></li>
         <li>HTML</li>
         <li>CSS</li>
-      </ul>
+        
+</ul>
+
+<h3>
+💻 GEBRUIK
+</h3>
+
+<p> Het visitekaartje is op een manieren te gebruiken: Op het web (lokaal).</p>
 
 
-<strong>GEBRUIK</strong>
-
-Het visitekaartje  is op een manieren te gebruiken: Op het web (lokaal). 
-
-
-<strong>BRONNEN</strong>
+<h3>
+🌐 BRONNEN
+</h3>
 
 <ul>
-        <li class="first-li">
-          https://nl.pinterest.com/
-        </li>
+        <li>https://nl.pinterest.com/</li>
         <li>https://unsplash.com/</li>
         <li>https://www.w3schools.com/</li>
-        <li>https://www.google.nl/</li>
-      </ul>
+        <li>https://www.google.nl//</li>
+        
+</ul>
+
+<h3>
+LICENTIE
+</h3>
+
+![image](https://user-images.githubusercontent.com/112861261/189433832-1ad01b00-4398-460f-aad6-d0a5405ec9e8.png)
+<p> This work is licensed under</P> <a href="https:https://github.com/zombie0youssra/your-tribe-profile-card/blob/main/LICENSE">GNU GPLv3.</a>
 
 
+
+</article>
+
+</body>
