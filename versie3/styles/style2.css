@@ -1,0 +1,158 @@
+* {
+  box-sizing:border-box;
+}
+
+html {
+  height:100vh;
+  display: block;
+
+}
+
+body {
+  overflow-y: scroll;
+    min-width: 60em;
+    margin: 0 auto;
+    padding: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    perspective: 1000px;
+}
+
+main{
+      width: 20em;
+      height: 30em;
+      background: url(/assets/bg.jpg) rgb(0, 0, 0);
+      background-size: cover;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      /object-fit: none;
+      border-radius: 1rem;
+      box-shadow: rgb(17 12 46 / 50%) 0px 20px 30px 0px, inset 0 0 0 10px black, inset 0 0 0 12px white;
+      z-index: 3;
+      transition: all 0.5s ease;
+    }
+
+    
+h1 {
+  margin:0rem;
+  color: rgb(255, 255, 255);
+  position:relative;
+  top:-16.5rem;
+  text-align: center;
+  font-size: 1em;
+  font-family: helvetica;
+}
+
+.button {
+    margin-left: 5rem;
+    margin-right: auto;
+    margin-bottom: -8rem;
+    margin-top: 0rem;
+    background: rgb(226, 140, 0);
+    /box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px rgb(3, 3, 3), inset -2px -2px grey, inset 2px 2px #dfdfdf;
+    border:#0a0a0a;
+    border-radius: 2em;
+    min-height: 35px;
+    min-width: 150px;
+    padding: 12px;
+    font-family: "helvetica",Arial;
+    font-size: 13px;
+    font-style:normal;
+    font-weight: 400;
+    color: #fff;
+}
+
+.button2 {
+  margin-left: 5rem;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 6rem;
+  background: rgb(226, 140, 0);
+  /box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px rgb(3, 3, 3), inset -2px -2px grey, inset 2px 2px #dfdfdf;
+  border:#0a0a0a;
+  border-radius: 2em;
+  min-height: 35px;
+  min-width: 150px;
+  padding: 12px;
+  font-family: "helvetica",Arial;
+  font-size: 13px;
+  font-style:normal;
+  font-weight: 400;
+  color: #fff;
+}
+
+section img{
+    margin-top: 5rem;
+    margin-bottom: -2rem;
+    width: 100%;
+    border-radius: 1rem;
+    padding: 12px;  
+}
+button:hover{
+  background: rgb(248, 194, 0);
+  transition:0.5s;
+}
+
+li {
+    color: rgb(255, 255, 255);
+    transition: 0.25s;
+    font-family: Arial, Helvetica, sans-serif;
+    top:-18rem;
+    text-align: center;
+    margin-bottom: 3em;
+    margin-left: -3em;
+
+  }
+li:hover{
+    transform: rotate(20deg);
+  }
+.homebutton{
+    margin-left: 1.5rem;
+    margin-right: 15rem;
+    margin-bottom: 60rem;
+    margin-top: -28rem;
+    font-family: "helvetica",Arial;
+    font-size: 15px;
+    font-style:normal;
+    font-weight:bold;
+    color: rgb(247, 220, 255);
+}
+ 
+.zakelijkbutton{
+  margin-left: 15rem;
+  margin-right: 1.5rem;
+  margin-bottom: 80rem;
+  margin-top: -60.9rem;
+  font-family: "helvetica",Arial;
+  font-size: 15px;
+  font-style:normal;
+  font-weight:bold;
+  color: rgb(247, 220, 255);
+}
+
+.persoonlijkbutton{
+  margin-left: 13.5rem;
+  margin-right: 10rem;
+  margin-bottom: 80rem;
+  margin-top: -60.9rem;
+  font-family: "helvetica",Arial;
+  font-size: 15px;
+  font-style:normal;
+  font-weight:bold;
+  color: rgb(247, 220, 255);
+}
+
+.fa-solid {
+  margin-left: 13.5rem;
+  margin-right: 10rem;
+  margin-bottom: 80rem;
+  margin-top: -60.9rem;
+  font-family: "helvetica",Arial;
+  font-size: 15px;
+  font-style:normal;
+  font-weight:bold;
+  color: rgb(247, 220, 255);
+}
