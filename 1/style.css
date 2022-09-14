@@ -5,6 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   color: black;
+  /* background-image: url(./../img/unsplash.jpg); */
   background-image: url(./../img/purple.jpg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -41,7 +42,7 @@ img {
 p {
   margin-top: 2em;
   /* margin-left: 3em; */
-  /* position: absolute; */
+  position: absolute;
 }
 
 /* This container is needed to position the front and back side */
@@ -76,18 +77,12 @@ p {
   color: black;
 }
 
-h1 {
-  font-style: bold;
-  color: white;
-  transform: scale(-1, 1);
-}
-
 /* Style the back side */
 .flip-card-back {
   /* background-color: dodgerblue; */
   color: white;
   transform: rotateY(180deg);
-  background-image: url(./../img/purple.jpg);
+  background-image: url(./../img/marble.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 60%;
