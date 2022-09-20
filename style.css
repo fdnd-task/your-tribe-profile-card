@@ -64,7 +64,18 @@ h1 {
   opacity: 0;
 }
 
+ul {
+  transition: 0.3s ease-in-out;
+  opacity: 0;
+}
+
 .flip-card:hover h1 {
+  opacity: 1;
+  color: white;
+  margin-top: 50px;
+}
+
+.flip-card:hover ul {
   opacity: 1;
   color: white;
   margin-top: 50px;
@@ -93,6 +104,11 @@ h1 {
   transform: scale(-1, 1);
 }
 
+ul {
+  color: white;
+  transform: scale(-1, 1);
+}
+
 /* Style the back side */
 .flip-card-back {
   /* background-color: dodgerblue; */
@@ -102,4 +118,8 @@ h1 {
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 60%;
+}
+
+ul {
+  list-style: none;
 }
