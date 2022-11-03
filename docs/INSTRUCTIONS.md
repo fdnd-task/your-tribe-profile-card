@@ -11,6 +11,11 @@ Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je indivi
 
 In het S01W1-02-Visitekaartje wordt stap voor stap behandeld wat je moet doen.
 
+Bij deze leertaak horen de volgende deeltaken:
+- [CSS basics](https://github.com/fdnd-task/your-tribe-css-basics)
+- [Visuele hiërarchie](https://github.com/fdnd-task/your-tribe-visuele-hierarchie)
+- [Responsive design](https://github.com/fdnd-task/your-tribe-responsive-design)
+
 ## Briefing
 
 Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
