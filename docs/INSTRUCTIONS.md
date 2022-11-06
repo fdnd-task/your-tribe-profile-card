@@ -230,11 +230,11 @@ Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenw
 
 Bij deze leertaak gelden de gedragscriteria van Sprint 1:
 
-- Je volgt binnen projecten de aangeboden fasering van de development-lifecycle.
-- Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
-- ~~Je werkt in teams, laat je hierbij begeleiden en geeft feedback aan teamleden.~~
-- ~~Je draagt verantwoording voor je eigen resultaten en verwerkt ontvangen feedback.~~
-- ~~Je luistert naar wat een ander zegt en neemt dit serieus.~~
+- Methodisch handelen: Je volgt binnen projecten de aangeboden fasering van de development-lifecycle.
+- Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
+- ~~Samenwerken: Je werkt in teams, laat je hierbij begeleiden en geeft feedback aan teamleden.~~
+- ~~Samenwerken: Je draagt verantwoording voor je eigen resultaten en verwerkt ontvangen feedback.~~
+- ~~Communiceren: Je luistert naar wat een ander zegt en neemt dit serieus.~~
 
 Deze opdracht is done als:
 
