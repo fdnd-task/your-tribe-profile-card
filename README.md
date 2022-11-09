@@ -6,12 +6,12 @@
 <br>Persoonlijke pagina:
 <br><img width="364" alt="Schermafbeelding 2022-11-09 om 15 32 21" src="https://user-images.githubusercontent.com/112861144/200857532-c4c5f00b-d221-4dd0-b573-7a054dca7ab7.png">
 
-<b>DOEL VAN DE OPDRACHT</b>
-In deze leertaak hebben we een visitekaartje gemaakt.
+<br><b>DOEL VAN DE OPDRACHT</b>
+<br>In deze leertaak hebben we een visitekaartje gemaakt.
 Dit is een erg leuke manier om docenten en leerlingen meer over jou te weten laten komen op een manier wat goed bij deze opleiding past.
 In dit visitekaartje stel je dus jezelf aan de leerlingen en docenten voor.
 
-<br>KENMERKEN</b>
+<b>KENMERKEN</b>
 * VS Code
 * Pen en papier
 * Laptop
