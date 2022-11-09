@@ -17,9 +17,9 @@ In dit visitekaartje stel je dus jezelf aan de leerlingen en docenten voor.
 * Laptop
 
 <b>GEBRUIKTE TECHNIEKEN</b>
-Ik heb hierin gewerkt met HTML en CSS. Javascript heb ik nog even achterwege gelaten, omdat ik eerst CSS beter onder de knie wil krijgen (CSS is al een hele uitdaging :wink:).
+<br>Ik heb hierin gewerkt met HTML en CSS. Javascript heb ik nog even achterwege gelaten, omdat ik eerst CSS beter onder de knie wil krijgen (CSS is al een hele uitdaging :wink:).
 
 <b>GEBRUIK</b>
-Dit visitekaartje is op het web te gebruiken.
+<br>Dit visitekaartje is op het web te gebruiken.
 
-Bekijk hier mijn visitekaartje:http://maaike.student.fdnd.nl/versie3/index.html
+<br>Bekijk hier mijn visitekaartje:http://maaike.student.fdnd.nl/versie3/index.html
