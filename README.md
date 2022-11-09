@@ -1,4 +1,4 @@
-<bold>Visitekaartje</bold>
+<b>Visitekaartje</b>
 <br>Homepagina:
 <br><img width="1377" alt="Schermafbeelding 2022-11-09 om 15 31 50" src="https://user-images.githubusercontent.com/112861144/200857491-4cf3a67c-5ca8-413b-98f3-62c4230795b2.png">
 <br>Zakelijke pagina:
