@@ -115,8 +115,7 @@ HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op he
 - [Getting started with the Web op MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [HTML: HyperText Markup Language op MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
-- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
-
+- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=bOUhq46fd5g)
 
 
 #### 3. CSS
