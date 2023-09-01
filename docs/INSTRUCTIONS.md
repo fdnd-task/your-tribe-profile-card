@@ -9,7 +9,7 @@ Je maakt op basis van een voorbeeld een eigen visitekaartje.
 
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je individueel uitvoert.
 
-In het S01W1-02-Visitekaartje wordt stap voor stap behandeld wat je moet doen.
+In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moet doen.
 
 Bij deze leertaak horen de deeltaken:
 - [Your Tribe - CSS basics](https://github.com/fdnd-task/your-tribe-css-basics)
