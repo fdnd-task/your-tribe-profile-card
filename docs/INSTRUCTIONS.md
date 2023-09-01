@@ -112,6 +112,7 @@ HTML is de taal waarmee webpagina's zijn gemaakt die bekeken kunnen worden op he
 
   
 #### Materiaal HTML
+
 - [Getting started with the Web op MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 - [HTML: HyperText Markup Language op MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
@@ -127,9 +128,7 @@ De vormgeving van een webpagina worden vastgelegd in CSS, zoals de layout, achte
 <img width="997" alt="image" src="https://user-images.githubusercontent.com/1391509/188333062-95cb57ce-36d1-42a3-9628-074d09b706c2.png">
 
 
-
-  0. Kun je
- zien op welke regel in het HTML document het CSS document wordt gekoppeld?
+  0. Kun je zien op welke regel in het HTML document het CSS document wordt gekoppeld?
   1. Open het ```/styles/style.css``` bestand in een editor. 
   2. Op regel 26 en 27 wordt de achtergrondkleur vastgelegd in de regels:
 ```
@@ -183,6 +182,10 @@ Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat Github weet wa
 
 #### Aanpak integreerfase
 
+#### 1. Repository bijwerken
+
+_Commit_ en _Push_ je code met behulp van de Github-desktop App.
+
 1. Open de Github-Desktop App 
 2. Browse naar de repo van deze opdracht FDND-visitekaartje-duplicate
 3. Hier zie je alle wijzigingen die je hebt gemaakt [changes].
@@ -196,13 +199,21 @@ Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat Github weet wa
 
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/1391509/188333798-02e1009b-da27-40f7-839a-f9a09e5c0707.png">
 
-8. Nu kun je je website publiceren. Selecteer Setting van je online _repository_ om naar de instellingen te gaan. 
-9. Klik in het linkermenu op *Pages*. 
-10. Selecteer bij *Brance* de **Main branch** en klik op Save:
+8. Als je je _repository_ hebt bijgewerkt kun je op de Github website je wijzigingen zien van je online _repository_ als je op _commits_ klikt.
+
+
+
+#### 2. Online publiceren
+
+Als je je code hebt geupdate naar je online _repository_ kun je je website publiceren
+
+1. Klik op ⚙️ Settings van je online _repository_ om naar de instellingen te gaan. 
+2. Klik in het linkermenu op *Pages*. Hier staan de instellingen om je code online te hosten.
+3. Selecteer bij *Branch* de **Main branch** en klik op Save:
 
 <img width="498" alt="image" src="https://user-images.githubusercontent.com/1391509/188333827-9307580d-62bb-46aa-b5ff-30ae66ed6285.png">
 
-11. Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-duplicate/](https://username.github.io/fdnd-visitekaartje-duplicate/).
+4. Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje online bekijken.
 
 
 #### Materiaal integratiefase
@@ -217,9 +228,16 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan 
 
 #### Aanpak testfase
 
-1. Laat jouw visitekaartje testen door een paar klasgenoten. 
-2. Maak aantekeningen van de test. 
-3. Ben je tevreden met het resultaat? Zo niet herhaal dan bovenstaande stappen.
+0. Het is handig als je de url van jouw visitekaartje toevoegt aan de 'About' van je _repository_. Zo kunnen andere mensen ook makkelijk jouw visitekaartje bekijken.
+1. Ga naar de settings van de _About_ op de eerste pagina van je online _repository_
+<img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/6d2fb2a5-3472-43d0-a49b-432eeec43eab.png">
+
+2. Voeg de url van je visitekaartje toe en klik op _Save_
+<img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/756ada8e-a78c-4ffd-8d7d-28a22bd9d779.png">
+
+3. Laat jouw visitekaartje testen door een paar klasgenoten.
+4. Maak aantekeningen van de test.
+5. Ben je tevreden met het resultaat? Zo niet herhaal dan bovenstaande stappen.
 
 ## Definition of Done
 
