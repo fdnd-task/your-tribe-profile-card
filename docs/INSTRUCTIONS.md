@@ -231,6 +231,3 @@ Deze opdracht is done als:
 - [ ] Je hebt een ontwerp geschetst
 - [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS
 - [ ] Je visitekaartje staat op Github en heeft een live url
-- [ ] Je hebt je werk gedocumenteerd in de Readme en Wiki
-
-
