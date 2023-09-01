@@ -244,7 +244,8 @@ Het is handig als je de url van jouw visitekaartje toevoegt aan de 'About' van j
 
 Deze opdracht is done als:
 
+- [ ] Je visitekaartje staat op Github en heeft een live url
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
 - [ ] Je hebt een ontwerp geschetst
 - [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS
-- [ ] Je visitekaartje staat op Github en heeft een live url
+
