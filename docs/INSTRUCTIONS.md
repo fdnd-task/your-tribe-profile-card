@@ -242,8 +242,6 @@ Het is handig als je de url van jouw visitekaartje toevoegt aan de 'About' van j
 
 ## Definition of Done
 
-Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
-
 Deze opdracht is done als:
 
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
