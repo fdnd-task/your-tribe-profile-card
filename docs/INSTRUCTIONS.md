@@ -228,7 +228,8 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan 
 
 #### Aanpak testfase
 
-0. Het is handig als je de url van jouw visitekaartje toevoegt aan de 'About' van je _repository_. Zo kunnen andere mensen ook makkelijk jouw visitekaartje bekijken.
+Het is handig als je de url van jouw visitekaartje toevoegt aan de 'About' van je _repository_. Zo kunnen andere mensen ook makkelijk jouw visitekaartje bekijken.
+
 1. Ga naar de settings van de _About_ op de eerste pagina van je online _repository_
 <img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/6d2fb2a5-3472-43d0-a49b-432eeec43eab.png">
 
