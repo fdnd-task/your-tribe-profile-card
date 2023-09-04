@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: #DB7093;
 }
 
 article {
@@ -59,7 +59,7 @@ button {
 }
 button:focus {
   outline: none;
-  background: #202592;
+  background: #DB7093;
 }
 button:focus svg {
   stroke: rgba(0,239,255,1);
@@ -141,7 +141,8 @@ article > p {
   padding: 3rem 2rem;
   border-radius: 0 0 1rem 1rem;
   text-align: center;
-  background: rgba(255,255,255, 0.5);
+  background: 
+  DB7093(255,255,255, 0.5);
 }
 
 /* expand content */
