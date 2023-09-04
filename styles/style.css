@@ -20,14 +20,14 @@ article {
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
   justify-content: flex-end;
   width: 50vw;
   max-width: 25em;
   min-width: 20em;
   border-radius: 1rem;
-  background: rgb(0,239,255);
-  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
-  box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
+  background: rgb(118, 181, 240);
+  box-shadow: 0 0 20px 20px rgba(226, 169, 12, 0.1);
   transition: .25s;
 }
 
@@ -41,7 +41,7 @@ header {
 
 h1 {
   margin: 2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  color: rgb(0, 0, 0);
 }
 
 button {
@@ -127,11 +127,11 @@ dd {
   padding-left: .3rem;
   transition: .25s .3s;
 }
-dd:nth-of-type(2){  
+dd:nth-of-type(2){
   transform: translateY(1rem);
 }
 
-p { 
+p {
   margin: 0;
 }
 
@@ -150,7 +150,7 @@ body.expand {
 }
 
 body.expand article {
-  width: 60vw;
+  width: 60;
   max-width: 60vw;
 }
 
