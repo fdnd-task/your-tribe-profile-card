@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: #ffffff;
 }
 
 article {
@@ -25,8 +25,8 @@ article {
   max-width: 25em;
   min-width: 20em;
   border-radius: 1rem;
-  background: rgb(0,239,255);
-  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
+  background: rgb(75, 121, 71);
+  background: linear-gradient(0deg, rgb(105, 78, 40) 40%, #22632d 100%);
   box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
   transition: .25s;
 }
@@ -41,7 +41,8 @@ header {
 
 h1 {
   margin: 2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  color: rgb(255, 255, 255);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 button {
@@ -53,16 +54,16 @@ button {
   padding: .25rem;
   border: none;
   border-radius: 50%;
-  background: rgba(0,239,255,1);
+  background: rgb(255, 255, 255);
   transform: scale(.8);
   transition: .25s;
 }
 button:focus {
   outline: none;
-  background: #202592;
+  background: #ffffff;
 }
 button:focus svg {
-  stroke: rgba(0,239,255,1);
+  stroke: rgb(105, 78, 40);
 }
 
 svg {
@@ -103,6 +104,8 @@ dl {
   padding: 5rem 0 3rem;
   text-align: center;
   background: rgb(255,255,255);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: black;
 }
 
 dt {
