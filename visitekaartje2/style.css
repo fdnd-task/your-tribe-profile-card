@@ -22,8 +22,10 @@ article {
 }
 
 h1 {
+    /* box */
     margin-top: -8px;
     margin-bottom: 8px;
+    /* typo */
     color: black;
     font-size: 2em;
     background: -webkit-linear-gradient(#0c0c0c, #4b4a4a);
