@@ -18,6 +18,7 @@ article {
     box-shadow: 0 0 10px 2px rgb(0, 0, 0);
     width: 25em;
     height: 13em;
+    transition: 500ms;
 }
 
 h1 {
@@ -25,6 +26,18 @@ h1 {
     margin-bottom: 8px;
     color: black;
     font-size: 2em;
+    background: -webkit-linear-gradient(#0c0c0c, #4b4a4a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+article::after {
+    content: '?';
+    font-size: 2em;
+    position: absolute;
+    top: 0;
+    right: 0.25rem;
+    scale: 0.75;
 }
 
 img {
@@ -32,8 +45,8 @@ img {
     float: left;
     margin-right: 1em;
     object-fit: cover;
-    width: 9.6em;
-    height: 9.6em;
+    width: 9.7em;
+    height: 9.7em;
     box-shadow: 0 0 5px 1px black;
 }
 
@@ -48,7 +61,23 @@ img {
     font-size: 0.7em;
 }
 
+.info:hover {
+    font-size: 80%;
+}
+
 p {
     margin: 0px;
     font-size: 1em;
+    transition: 300ms;
 }
+
+.center {
+    margin: auto;
+    width: 30%;
+}
+
+p:hover {
+    font-size: 110%;
+}
+
+
