@@ -14,7 +14,6 @@ In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moet
 Bij deze leertaak horen de deeltaken:
 - [Your Tribe - CSS basics](https://github.com/fdnd-task/your-tribe-css-basics)
 - [Your Tribe - Visuele hiërarchie](https://github.com/fdnd-task/your-tribe-visuele-hierarchie)
-- [Your Tribe - Responsive design](https://github.com/fdnd-task/your-tribe-responsive-design)
 
 ## Briefing
 
