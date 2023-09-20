@@ -13,9 +13,9 @@ body {
 article {
     background: linear-gradient(90deg, #d1b7c1 20%, #d8f6ec 60%, #f7e8b0 100%);
     /* boxing */
-    padding: 1em;
-    border-radius: 0.8em;
-    box-shadow: 0 0 10px 2px rgb(0, 0, 0);
+    padding: 1em; /* de ruimte tussen de tekst en de rand */
+    border-radius: 0.8em; /* de hoek van de article word een beetje ronder */
+    box-shadow: 0 0 10px 2px rgb(0, 0, 0); /* voegt een hele subtiele/lichte schaduw toe aan de article */
     width: 25em;
     height: 13em;
     transition: 500ms;
@@ -49,6 +49,12 @@ img {
     box-shadow: 0 0 5px 1px black;
 }
 
+.info1 {
+    border-style: dashed;
+    border-width: 1px;
+    border-radius: 2px;
+}
+
 .naam {
     border-style: dashed;
     border-width: 1px;
@@ -68,6 +74,7 @@ p {
     margin: 0px;
     font-size: 1em;
     transition: 300ms;
+    
 }
 
 .center {
