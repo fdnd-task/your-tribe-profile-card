@@ -2,7 +2,7 @@
 
 # Visitekaartje
 
-Maak met HTML, CSS en JavaScript een visitekaartje.
+Maak met HTML, CSS en JS een visitekaartje.
 
 ## Licentie
 
