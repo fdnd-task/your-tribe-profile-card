@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/1391509/188114337-54f6a9eb-dc0c-42e9-a455-6ac636edb7c6.jpeg)
 
-# Visitekaartje
+# Your Tribe - Visitekaartje
 
 Je maakt op basis van een voorbeeld een eigen visitekaartje.
 
