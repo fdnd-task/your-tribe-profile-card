@@ -3,7 +3,7 @@
 
 # Your Tribe - Visitekaartje
 
-Je maakt op basis van een voorbeeld een eigen visitekaartje.
+Maak met HTML, CSS en JS een visitekaartje.
 
 ## Context
 
