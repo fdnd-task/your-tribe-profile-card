@@ -92,7 +92,7 @@ Zorg eerst dat je de leertaak naar je eigen account kopieert; dat is dan jouw _r
 2. Download de code naar jouw computer.
 3. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie.
 
-#### Materiaal Forken en Downloaden (of via USB sticks)
+#### Materiaal Forken en Downloaden
 
   - [GitHub](https://github.com)
   - [GitHub Desktop](https://desktop.github.com)
