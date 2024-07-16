@@ -9,11 +9,15 @@ Maak met HTML, CSS en JS een visitekaartje.
 
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je individueel uitvoert.
 
+
+
+<!--
 In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moet doen.
 
 Bij deze leertaak horen de deeltaken:
 - [Your Tribe - CSS basics](https://github.com/fdnd-task/your-tribe-css-basics)
 - [Your Tribe - Visuele hiërarchie](https://github.com/fdnd-task/your-tribe-visuele-hierarchie)
+-->
 
 ## Briefing
 
