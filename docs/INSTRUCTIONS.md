@@ -248,16 +248,16 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 
 
-## CSS Basics, Properties en selectors
+## CSS Basics, Properties en selectors (Dinsdag)
 
-Uitleg opdracht aanpak per fases van de DLC en bronnen.
+Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
 Analyseren: Schrijf in je schets van maandag de CSS properties die je nodig denkt te gaan hebben. Zoek zelf uit welke er zijn.
 Bouwen: Pas daarna je CSS code aan met selectors, properties en values.
 Reflectie: Leg in je CSS code, met behulp van comments, meerdere selectors en properties die je hebt toegepast uit. Link in je comments naar bronnen op MDN, waarin deze standaarden worden uitgelegd.
 
 
-## Visuele hiërarchie en Breakdown schets
+## Visuele hiërarchie en Breakdown schets (Woensdag)
 
 <!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
 
@@ -324,16 +324,13 @@ Visuele hiërarchie toepassen op je visitekaartje.
   1. Werk je nieuwe schets uit in HTML, CSS (en JS)  
 
 
-
-## Definition of Done
-
 Deze opdracht is done als:
 
 - [ ] Je schetsen staan in de wiki van je visistekaartje-repository, per schets is beschreven hoe de visuele hierarchie is toegepast
 
 
 
-## Javascript en Interactie
+## Javascript en Interactie (Donderdag)
 
 Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
@@ -343,7 +340,7 @@ en een mini PE introductie
 
 
 
-## Code/Design Review visitekaartje 
+## Code/Design Review visitekaartje (Vrijdag)
 
 Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
