@@ -34,7 +34,7 @@ Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaa
 
 ### Werkwijze
 
-Deze leertaak wordt behandeld de eerste week van sprint 1 met verschillende workshops:
+Deze leertaak wordt behandeld in de eerste week van sprint 1 met verschillende workshops:
 
 - [Visitekaartje ontwerpen, maken en online publiceren](#visitekaartje-ontwerpen-maken-en-online-publiceren) - Maandag
 - [CSS Basics (deel 1)](#css-basics) - Dinsdag
