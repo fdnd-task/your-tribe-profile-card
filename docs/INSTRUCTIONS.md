@@ -46,7 +46,9 @@ Deze leertaak wordt behandeld in de eerste week van sprint 1 met verschillende w
 
 ## Visitekaartje ontwerpen, maken en online publiceren
 
-Deze opdracht gaat over alle fases van de **Development-Lifecycle**; [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+De eerste dag gaan we meteen aan de slag! Je gaat een eerse versie vam je eigen visitekaartje ontwerpen en maken. Daarbij leer je hoe we bij FDND werken, hoe we opdrachten aanpakken met de development-lifecycle en hoe we Github gebruiken. 
+
+Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; analyseren, ontwerpen, bouwen, integreren en testen.
 
 Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op GitHub te publiceren.
 
@@ -89,12 +91,12 @@ Dit is een belangrijk moment in het project.
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
+#### Aanpak bouwfase
+
 Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in GitHub en kopieert de _repository_ naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie.
 
 De code schrijf je in een _code-editor_ zoals Visual Studio Code. Alle code van je project zet je op GitHub, zodat docenten en studiegenoten kunnen zien wat je hebt gedaan. 
 
-
-#### Aanpak bouwfase
 
 #### 1. Forken en Downloaden
 
@@ -191,10 +193,10 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 
 In de integratiefase voer je de aanpassingen door, zodat iedereen ze kan zien.
 
-Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat GitHub weet wat de nieuwste versie is. Daarna ga je de code uploaden naar de online _repository_ op GitHub. Tot slot ga je je opdracht publiceren met behulp van GitHub Pages. Als je dat hebt gedaan, staat je website online en heb je een URL. Nu kunnen anderen je werk ook zien. 
-
 
 #### Aanpak integreerfase
+
+Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat GitHub weet wat de nieuwste versie is. Daarna ga je de code uploaden naar de online _repository_ op GitHub. Tot slot ga je je opdracht publiceren met behulp van GitHub Pages. Als je dat hebt gedaan, staat je website online en heb je een URL. Nu kunnen anderen je werk ook zien. 
 
 #### 1. Repository bijwerken
 
@@ -235,6 +237,7 @@ Als je je code hebt geüpdatet naar je online _repository_ kun je je website pub
 - [Wat is GitHub? Hier een heldere uitleg!](https://programmeerplaats.nl/wat-is-github/)
 - [Creating a GitHub pages site @ GitHub](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With GitHub Pages](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
+
 
 ### Testen
 
@@ -279,7 +282,6 @@ Herontwerp je visitekaartje waarbij je goed rekening houdt met de visuele hiëra
 ### Doel van deze opdracht
 
 Je leert wat visuele hiërarchie is en hoe je het kan toepassen in web design. 
-
 
 
 ## Werkwijze
