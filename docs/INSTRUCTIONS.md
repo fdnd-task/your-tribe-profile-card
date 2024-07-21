@@ -36,11 +36,11 @@ Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaa
 
 Deze leertaak wordt behandeld in de eerste week van sprint 1 met verschillende workshops:
 
-- [Visitekaartje ontwerpen, maken en online publiceren](#visitekaartje-ontwerpen-maken-en-online-publiceren) - Maandag
-- [CSS Basics (deel 1)](#css-basics) - Dinsdag
-- [Visuele Hiërarchie en Breakdown schets](#visuele-hiërarchie-en-breakdown-schets) - Woensdag
-- [Javascript en Interactie](#javascript-en-interactie) - Donderdag
-- [Code/Design review visitekaartje](#codedesign-review-visitekaartje) - Vrijdag
+- [Visitekaartje ontwerpen, maken en online publiceren](#visitekaartje-ontwerpen-maken-en-online-publiceren-maandag) - Maandag
+- [CSS Basics, Properties en selectors](#css-basics-properties-en-selectors-dinsdag) - Dinsdag
+- [Visuele Hiërarchie en Breakdown schets](#visuele-hiërarchie-en-breakdown-schets-woensdag) - Woensdag
+- [Javascript en Interactie](#javascript-en-interactie-donderdag) - Donderdag
+- [Code/Design review visitekaartje](#codedesign-review-visitekaartje-vrijdag) - Vrijdag
 
 
 
