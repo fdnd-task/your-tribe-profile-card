@@ -44,7 +44,7 @@ Deze leertaak wordt behandeld in de eerste week van sprint 1 met verschillende w
 
 
 
-## Visitekaartje ontwerpen, maken en online publiceren
+## Visitekaartje ontwerpen, maken en online publiceren (Maandag)
 
 <!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
 
