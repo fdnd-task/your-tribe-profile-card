@@ -37,10 +37,10 @@ Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaa
 Deze leertaak wordt behandeld de eerste week van sprint 1 met verschillende workshops:
 
 - [Visitekaartje ontwerpen, maken en online publiceren](#visitekaartje-ontwerpen-maken-en-online-publiceren) - Maandag
-- [CSS Basics (deel 1)](#css-basics--deel-1) - Dinsdag
-- [Visuele Hiërarchie](#visuele-hierarchie) - Woensdag
+- [CSS Basics (deel 1)](#css-basics) - Dinsdag
+- [Visuele Hiërarchie](#visuele-hiërarchie) - Woensdag
 - [Javascript](#javascript) - Donderdag
-- [Code/Design review visitekaartje](#code-design-review-visitekaartje) - Vrijdag
+- [Code/Design review visitekaartje](#codedesign-review-visitekaartje) - Vrijdag
 
 
 
