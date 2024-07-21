@@ -5,7 +5,7 @@
 
 Maak met HTML, CSS en JS een visitekaartje.
 
-## Context
+### Context
 
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je individueel uitvoert.
 
@@ -19,22 +19,34 @@ Bij deze leertaak horen de deeltaken:
 - [Your Tribe - Visuele hiërarchie](https://github.com/fdnd-task/your-tribe-visuele-hierarchie)
 -->
 
-## Briefing
+### Briefing
 
 Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
 
 Maak een visitekaartje op basis van [dit voorbeeld](https://fdnd-task.github.io/your-tribe-profile-card/) en publiceer dat via Github pages.
 
 
-## Doel van deze opdracht
+### Doel van deze opdracht
 
 Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaakt. Je leert werken met de Development Lifecycle. Je hebt hiervoor een aantal eigen ontwerpbeslissingen gemaakt en HTML (voor de structuur), CSS (voor de vormgeving) en JS (voor de interactie) gebruikt om het ontwerp te bouwen. Tot slot heb je jouw visitekaartje gepubliceerd via GitHub Pages en met een aantal klasgenoten getest of het werkt zoals je bedoelde.
 
 
 
-## Werkwijze
+### Werkwijze
 
-Deze taak wordt behandeld in het bijhorende college. Deze opdracht gaat over alle fases van de **Development-Lifecycle**; [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Deze leertaak wordt behandeld de eerste week van sprint 1 met verschillende workshops:
+
+- [Visitekaartje ontwerpen, maken en online publiceren](#visitekaartje-ontwerpen-maken-en-online-publiceren) - Maandag
+- [CSS Basics (deel 1)](#css-basics--deel-1) - Dinsdag
+- [Visuele Hiërarchie](#visuele-hierarchie) - Woensdag
+- [Javascript](#javascript) - Donderdag
+- [Code/Design review visitekaartje](#code-design-review-visitekaartje) - Vrijdag
+
+
+
+## Visitekaartje ontwerpen, maken en online publiceren
+
+Deze opdracht gaat over alle fases van de **Development-Lifecycle**; [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op GitHub te publiceren.
 
@@ -174,10 +186,6 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 - [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
 
 
-
-
-
-
 ### Integreren
 
 In de integratiefase voer je de aanpassingen door, zodat iedereen ze kan zien.
@@ -244,6 +252,29 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 3. Laat jouw visitekaartje testen door een paar klasgenoten.
 4. Maak aantekeningen van de test.
 5. Ben je tevreden met het resultaat? Zo niet, herhaal dan bovenstaande stappen.
+
+
+
+## CSS Basics
+
+Pointers workshops, stappenplan en bronnen
+
+
+## Visuele hiërarchie 
+
+Pointers workshops, stappenplan en bronnen
+
+
+
+## Javascript
+
+Pointers workshops, stappenplan en bronnen
+
+
+## Code/Design Review visitekaartje 
+
+Pointers workshops, stappenplan en bronnen
+
 
 ## Definition of Done
 
