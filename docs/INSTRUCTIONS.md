@@ -175,11 +175,9 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 - [What is JavaScript? @ MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 - [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
 
-
 ### Integreren
 
 In de integratiefase voer je de aanpassingen door, zodat iedereen ze kan zien.
-
 
 #### Aanpak integreerfase
 
@@ -204,8 +202,6 @@ _Commit_ en _Push_ je code met behulp van de GitHub Desktop app.
 
 8. Als je je _repository_ hebt bijgewerkt, kun je op de GitHub website je wijzigingen zien van je online _repository_, als je op _commits_ klikt.
 
-
-
 #### 2. Online publiceren
 
 Als je je code hebt geüpdatet naar je online _repository_ kun je je website publiceren.
@@ -217,7 +213,6 @@ Als je je code hebt geüpdatet naar je online _repository_ kun je je website pub
 <img width="498" alt="image" src="https://user-images.githubusercontent.com/1391509/188333827-9307580d-62bb-46aa-b5ff-30ae66ed6285.png">
 
 4. Als het goed is gegaan, kun je binnen enkele momenten jouw visitekaartje online bekijken.
-
 
 #### Materiaal integratiefase
 
@@ -252,14 +247,20 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
+Dit gaat over de ontwerp en bouwfase:
+
 Analyseren: Schrijf in je schets van maandag de CSS properties die je nodig denkt te gaan hebben. Zoek zelf uit welke er zijn.
+
 Bouwen: Pas daarna je CSS code aan met selectors, properties en values.
+
 Reflectie: Leg in je CSS code, met behulp van comments, meerdere selectors en properties die je hebt toegepast uit. Link in je comments naar bronnen op MDN, waarin deze standaarden worden uitgelegd.
 
 
 ## Visuele hiërarchie en Breakdown schets (Woensdag)
 
 <!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
+
+Dit gaat over de ontwerpfase:
 
 1. Hiërarchie bepalen
 Pak je (laatste) ontwerpschets en  vraag jezelf eens af: “Wat moeten mensen als eerste zien?” Omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie.
@@ -313,20 +314,14 @@ https://developer.mozilla.org/en-US/docs/Web/HTML
 
 - [HTML semantics @ YouTube](https://www.youtube.com/watch?v=bOUhq46fd5g)
 
-### Bouwen
-
-In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
-
-#### Aanpak bouwen
-  
-Visuele hiërarchie toepassen op je visitekaartje.
-
-  1. Werk je nieuwe schets uit in HTML, CSS (en JS)  
 
 
 Deze opdracht is done als:
 
 - [ ] Je schetsen staan in de wiki van je visistekaartje-repository, per schets is beschreven hoe de visuele hierarchie is toegepast
+- [ ] Breakdown gemaakt met HTML 
+
+
 
 
 
@@ -334,8 +329,12 @@ Deze opdracht is done als:
 
 Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
+Dit gaat over de Bouwfase en testen(?):
+
 Iets met javascript doen 
+
 en een mini PE introductie
+
 
 
 
@@ -344,8 +343,12 @@ en een mini PE introductie
 
 Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
+Dit gaat over de testfase:
+
 Waarop checken?
+
 Hoe schrijf je een issue
+
 Wat doe je hiermee? 
 
 
