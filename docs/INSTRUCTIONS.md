@@ -174,6 +174,9 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 
 - [What is JavaScript? @ MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 - [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
+- https://web.dev/learn/javascript
+
+
 
 ### Integreren
 
