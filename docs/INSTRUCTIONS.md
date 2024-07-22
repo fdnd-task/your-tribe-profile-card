@@ -265,7 +265,7 @@ Wat zijn properties, values en selectors? Wat is de opdracht die studenten daar 
 3. Doe daarna zus en zo
 
 
-### Bronnen Properties en Selectors
+#### Bronnen Properties en Selectors
 
 - Bron
 - 
