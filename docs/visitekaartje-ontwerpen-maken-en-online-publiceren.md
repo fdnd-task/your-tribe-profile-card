@@ -2,6 +2,8 @@
 
 ## Visitekaartje ontwerpen, maken en online publiceren (Maandag)
 
+In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moet doen.
+
 <!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
 
 De eerste dag gaan we meteen aan de slag! Je gaat een eerse versie van je eigen visitekaartje ontwerpen en maken. Daarbij leer je hoe we bij FDND werken, hoe we opdrachten aanpakken met de development-lifecycle en hoe we Github gebruiken. 
