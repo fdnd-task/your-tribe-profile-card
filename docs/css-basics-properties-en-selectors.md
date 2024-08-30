@@ -9,6 +9,10 @@ Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
 ~~Dit gaat over de ontwerp en bouwfase:~~
 
+### Aanpak 
+
+
+
 ### Devtools
 
 Uitleg wat Devtools zijn en wat kun je er mee doen. 
