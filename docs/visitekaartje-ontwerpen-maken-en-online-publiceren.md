@@ -2,7 +2,7 @@
 
 ## Visitekaartje ontwerpen, maken en online publiceren (Maandag)
 
-In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moet doen.
+_In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moet doen._
 
 <!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
 
