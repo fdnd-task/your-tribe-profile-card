@@ -8,6 +8,8 @@ _In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moe
 
 De eerste dag gaan we meteen aan de slag! Je gaat een eerse versie van je eigen visitekaartje ontwerpen en maken. Daarbij leer je hoe we bij FDND werken, hoe we opdrachten aanpakken met de development-lifecycle en hoe we Github gebruiken. 
 
+### Aanpak
+
 Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op GitHub te publiceren.
