@@ -2,9 +2,13 @@
 
 ## Visuele hiërarchie en Breakdown schets (Woensdag)
 
+
+_In de workshop S01W1-06-Visuele-hierarchie wordt uitgelegd wat je moet doen._
+
+
 <!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
 
-Dit gaat over de ontwerpfase:
+### Aanpak 
 
 1. Hiërarchie bepalen
 Pak je (laatste) ontwerpschets en  vraag jezelf eens af: “Wat moeten mensen als eerste zien?” Omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie.
