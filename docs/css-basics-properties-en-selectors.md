@@ -2,6 +2,9 @@
 
 ## CSS Basics, Properties en selectors (Dinsdag)
 
+_In de workshop S01W1-04-CSS Basics-Properties-en-Selectors wordt uitgelegd wat je moet doen._
+
+
 Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
 ~~Dit gaat over de ontwerp en bouwfase:~~
