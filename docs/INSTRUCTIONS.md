@@ -55,6 +55,8 @@ Deze opdracht is done als:
 - [ ] Maandag Hele cycle doorlopen en visitekaartje online gezet?
 - [ ] Dinsdag CSS toegepast en opdracht uit de workshop gedaan?
 - [ ] Woensdag Visuele hierarchy geschetst en HTML breakdown gemaakt?
+- [ ] Je schetsen staan in de wiki van je visistekaartje-repository, per schets is beschreven hoe de visuele hierarchie is toegepast
+- [ ] Breakdown gemaakt met HTML 
 - [ ] Donderdag Javascirpt toegepast?
 - [ ] Vrijdag Code/Design review, issues gekregen en gegeven?
 
