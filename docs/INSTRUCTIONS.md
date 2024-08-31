@@ -46,8 +46,8 @@ Deze opdracht is done als:
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
 - [ ] Je hebt verschillende schetsen gemaakt voor de visuele hierarchy en beschreven hoe de visuele hierarchie is toegepast
 - [ ] Je hebt een breakdown schets gemaakt en daarin pseudo-code voor de HTML genoteerd
-- [ ] Dinsdag CSS toegepast en opdracht uit de workshop gedaan?
-- [ ] Donderdag Javascript opdracht uit de workshop gedaan?
-- [ ] Vrijdag Code/Design review, issues gekregen en gegeven?
+- [ ] Je hebt - Dinsdag CSS toegepast en opdracht uit de workshop gedaan?
+- [ ] Je hebt - Donderdag Javascript opdracht uit de workshop gedaan?
+- [ ] Je hebt - Vrijdag Code/Design review, issues gekregen en gegeven?
 
 
