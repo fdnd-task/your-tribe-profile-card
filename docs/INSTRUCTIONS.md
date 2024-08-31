@@ -21,7 +21,7 @@ Bij deze leertaak horen de deeltaken:
 
 ### Briefing
 
-Elke frontender bij [FDND](https://fdnd.nl) stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
+Elke frontender bij FDND stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
 
 Maak een visitekaartje op basis van [dit voorbeeld](https://fdnd-task.github.io/your-tribe-profile-card/) en publiceer dat via Github pages.
 
