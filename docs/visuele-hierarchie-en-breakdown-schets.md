@@ -8,7 +8,17 @@ _In de workshop S01W1-06-Visuele-hierarchie wordt uitgelegd wat je moet doen._
 
 <!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
 
+
+
+Visuele hiërarchie is belangrijk in webdesign. Het vertelt mensen waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. 
+Visuele hiërarchie kun je op verschillende manieren bereiken, zoals grootte van tekst of elementen, kleur gebruik en contrast, witruime en positie van elementen op het scherm.
+
+[Joshua Porter](http://bokardo.com/principles-of-user-interface-design/) schrijft in zijn artikel over _principles of user interface design_: 
+> A strong visual hierarchy is achieved when there is a clear viewing order to the visual elements on a screen. Most people don't notice visual hierarchy but it is one of the easiest ways to strengthen (or weaken) a design
+
 ### Aanpak 
+
+Herontwerp je visitekaartje waarbij je goed rekening houdt met de visuele hiërarchie. Je leert wat visuele hiërarchie is en hoe je het kan toepassen in web design. 
 
 1. Hiërarchie bepalen
 Pak je (laatste) ontwerpschets en  vraag jezelf eens af: “Wat moeten mensen als eerste zien?” Omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie.
@@ -19,15 +29,6 @@ Bespreek al je schetsen in groepjes van 3. Leg bij elke schets uit hoe je visuel
 4. Nieuwe versie schetsen 
 Schets een nieuwe versie van je visitekaartje en maak een breakdown
 
-
-
-[Joshua Porter](http://bokardo.com/principles-of-user-interface-design/) schrijft in zijn artikel over _principles of user interface design_: 
-> A strong visual hierarchy is achieved when there is a clear viewing order to the visual elements on a screen. Most people don't notice visual hierarchy but it is one of the easiest ways to strengthen (or weaken) a design
-
-Visuele hiërarchie is belangrijk in webdesign. Het vertelt mensen waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. 
-Visuele hiërarchie kun je op verschillende manieren bereiken, zoals grootte van tekst of elementen, kleur gebruik en contrast, witruime en positie van elementen op het scherm.
-
-Herontwerp je visitekaartje waarbij je goed rekening houdt met de visuele hiërarchie. Je leert wat visuele hiërarchie is en hoe je het kan toepassen in web design. 
 
 ### Ontwerpen
 In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.
