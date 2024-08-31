@@ -48,6 +48,6 @@ Deze opdracht is done als:
 - [ ] Je hebt een breakdown schets gemaakt en daarin pseudo-code voor de HTML genoteerd
 - [ ] Je hebt - Dinsdag CSS toegepast en opdracht uit de workshop gedaan?
 - [ ] Je hebt - Donderdag Javascript opdracht uit de workshop gedaan?
-- [ ] Je hebt - Vrijdag Code/Design review, issues gekregen en gegeven?
+- [ ] Je hebt met Github Issues feedback gegeven en feedback gekregen
 
 
