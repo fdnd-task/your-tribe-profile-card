@@ -44,7 +44,7 @@ Deze opdracht is done als:
 
 - [ ] Je visitekaartje staat op GitHub en heeft een live url
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
-- [ ] Je hebt voor de visuele hierarchie verschillende schetsen gemaakt genoteerd hoe dat is toegepast
+- [ ] Je hebt voor de visuele hierarchie verschillende schetsen gemaakt en uitgelegd
 - [ ] Je hebt een breakdown schets gemaakt en daarin pseudo-code voor de HTML genoteerd
 - [ ] Je hebt - Dinsdag CSS toegepast en opdracht uit de workshop gedaan?
 - [ ] Je hebt - Donderdag Javascript opdracht uit de workshop gedaan?
