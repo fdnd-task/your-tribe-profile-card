@@ -10,15 +10,6 @@ Ontwerp en maak met HTML, CSS en JS een visitekaartje.
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je individueel uitvoert.
 
 
-
-<!--
-In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moet doen.
-
-Bij deze leertaak horen de deeltaken:
-- [Your Tribe - CSS basics](https://github.com/fdnd-task/your-tribe-css-basics)
-- [Your Tribe - Visuele hiërarchie](https://github.com/fdnd-task/your-tribe-visuele-hierarchie)
--->
-
 ### Briefing
 
 Elke frontender bij FDND stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
@@ -51,19 +42,12 @@ Deze leertaak wordt behandeld in de eerste week van sprint 1 met verschillende w
 
 Deze opdracht is done als:
 
-- [ ] Verschillende DOD's van de verschillende workshops terug laten komen
-- [ ] Maandag Hele cycle doorlopen en visitekaartje online gezet?
-- [ ] Dinsdag CSS toegepast en opdracht uit de workshop gedaan?
-- [ ] Woensdag Visuele hierarchy geschetst en HTML breakdown gemaakt?
-- [ ] Je schetsen staan in de wiki van je visistekaartje-repository, per schets is beschreven hoe de visuele hierarchie is toegepast
-- [ ] Breakdown gemaakt met HTML 
-- [ ] Donderdag Javascirpt toegepast?
-- [ ] Vrijdag Code/Design review, issues gekregen en gegeven?
-
-
 - [ ] Je visitekaartje staat op GitHub en heeft een live url
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
-- [ ] Je hebt een ontwerp geschetst
-- [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS
+- [ ] Je hebt verschillende schetsen gemaakt voor de visuele hierarchy en beschreven hoe de visuele hierarchie is toegepast
+- [ ] Je hebt een breakdown schets gemaakt en daarin pseudo-code voor de HTML, CSS en/of JS genoteerd
+- [ ] Dinsdag CSS toegepast en opdracht uit de workshop gedaan?
+- [ ] Donderdag Javascript opdracht uit de workshop gedaan?
+- [ ] Vrijdag Code/Design review, issues gekregen en gegeven?
 
 
