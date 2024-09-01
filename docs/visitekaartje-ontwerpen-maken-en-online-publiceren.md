@@ -61,7 +61,7 @@ Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer
 
 
 
-#### 1. Forken en Downloaden
+#### 1. Forken en Downloaden van de leertaak
 
 Zorg eerst dat je de leertaak naar je eigen account kopieert; dat is dan jouw _repository_ en daar ga je je eigen code in maken.
   
