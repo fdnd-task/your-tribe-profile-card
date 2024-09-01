@@ -228,9 +228,13 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 #### 2. Testen en feedback krijgen 
 
-1. Zet Issues aan op je repository, zodat je feedback op je werk kan krijgen
+1. Feedback op je design of code verzamel je in Github door middel van _Issues_. Daar kunnen klasgenoten, docenten of anderen tips en opmerkingen schrijven die je later kan verbeteren
 
-plaatje-en-uitleg-setting
+![image](https://github.com/user-attachments/assets/dc9eac4d-10f4-4be3-97a2-eef2ca9969f8)
+
+1. Zet Issues aan bij de 'settings' van je repository 
+
+
 
 
 2. Laat jouw visitekaartje testen door klasgenoten.
