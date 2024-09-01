@@ -53,7 +53,7 @@ De code schrijf je in een _code-editor_ zoals Visual Studio Code. Alle code van 
 
 #### 0. Inrichten computer
 
-Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer inrichten. Al je werk en code komt op Github te staan. Daarom moet je eerst een Github account maken, de Github Desktop app installern en heb je een code-editor nodig. 
+Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer inrichten. Al je werk en code komt op Github te staan, daarom moet je eerst een Github account aanmaken, de Github Desktop app installeren en heb je een code-editor nodig. 
 
 1. Maak een GitHub account aan op https://github.com
 2. Download en installeer de GitHub Desktop App op https://github.com/apps/desktop
