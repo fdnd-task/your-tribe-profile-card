@@ -236,7 +236,7 @@ plaatje-en-uitleg-setting
 2. Laat jouw visitekaartje testen door klasgenoten.
 3. Laat je klasgenoten issues met tips schrijven.
 4. Als je nieuwe ideeeen hebt, of je ziet dat er iets andes kan tijdens de test, schrijf dan zelf issues als todo-lijst.
-5. Ga thuis verder met het verbeteren van de issues. Dit is iteratief werken !!!
+5. Ga vanmiddag verder met het verbeteren van de issues. Dit is iteratief werken !!!
 
 
 
