@@ -7,7 +7,6 @@ _In de workshop S01W1-04-CSS Basics-Properties-en-Selectors wordt uitgelegd wat 
 
 Uitleg opdracht, aanpak per fases van de DLC en bronnen.
 
-~~Dit gaat over de ontwerp en bouwfase:~~
 
 ### Aanpak 
 
@@ -28,8 +27,11 @@ Wat zijn properties, values en selectors? Wat is de opdracht die studenten daar 
 
 #### Bronnen Properties en Selectors
 
-- Bron
-- 
+- html & css is hard, cursus:  https://internetingishard.netlify.app/html-and-css/
+- Alles over CSS https://developer.mozilla.org/en-US/docs/Web/CSS
+- Reference Properties: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+- CSS first steps: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
+
 
   
 
