@@ -51,6 +51,16 @@ Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwe
 
 De code schrijf je in een _code-editor_ zoals Visual Studio Code. Alle code van je project zet je op GitHub, zodat docenten en studiegenoten kunnen zien wat je hebt gedaan. 
 
+#### 0. Inrichten computer
+
+Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer inrichten. Al je werk en code komt op Github te staan. Daarom moet je eerst een Github account maken, de Github Desktop app installern en heb je een code-editor nodig. 
+
+1. Maak een GitHub account aan op https://github.com
+2. Download en installeer de GitHub Desktop App op https://github.com/apps/desktop
+3. Installeer een code-editor. Misschien heb je al een code-editor van een vooropleiding, gebruik die dan. Als je nog geen code-editor hebt raden we  [Visual Studio Code](https://code.visualstudio.com) aan.
+
+
+
 #### 1. Forken en Downloaden
 
 Zorg eerst dat je de leertaak naar je eigen account kopieert; dat is dan jouw _repository_ en daar ga je je eigen code in maken.
