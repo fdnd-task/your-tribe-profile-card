@@ -234,9 +234,7 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 2. Zet Issues aan bij de 'settings' van je repository 
 
-![image](https://github.com/user-attachments/assets/1d5899c9-6533-4097-a9b8-be35e4fd7c6a)
-
-
+![image](https://github.com/user-attachments/assets/22c2497e-36e1-4096-acc3-3f9686c22d8e)
 
 3. Laat jouw visitekaartje testen door klasgenoten
 4. Laat je klasgenoten issues met tips schrijven
