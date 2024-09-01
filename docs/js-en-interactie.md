@@ -14,3 +14,7 @@ Dit gaat over de Bouwfase en testen(?):
 Iets met javascript doen 
 
 en een mini PE introductie
+
+#### Bronnen
+
+- What is JavaScript? MDN beginner's JavaScript course: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
