@@ -66,20 +66,20 @@ Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer
 Zorg eerst dat je de leertaak naar je eigen account kopieert; dat is dan jouw _repository_ en daar ga je je eigen code in maken.
   
 1. Fork deze _repository_ naar je eigen GitHub account. Als je een _repository_ forkt dan kopieer je de leertaak naar je eigen GitHub account. Dan kun je aan de opdracht gaan werken.
+
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/61b03b95-fa79-4637-98b9-4e67bf4e9bde">
 
-
-
 2. Klik op Create fork om de repository naar jouw account te kopieren. 
+
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/ccb82a1f-344c-4fee-98c5-a83d08db818f">
-
-
 
 3.Download de code naar jouw computer. Nu gaan we de code downloaden naar jouw computer. 
 Open de repository met de GitHub Desktop app.
+
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/b30e0d73-e1dc-4823-9b2c-926af89f118c">
 
 4. Kies een goede locatie waar je de repository heen wil kopieren. Dit is ook de plek waar je met de code gaat werken. 
+
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/c38c1e2a-4aea-412c-b98d-6fca41d5b0d0">
 
 
