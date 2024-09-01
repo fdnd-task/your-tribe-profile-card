@@ -232,15 +232,16 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 ![image](https://github.com/user-attachments/assets/dc9eac4d-10f4-4be3-97a2-eef2ca9969f8)
 
-1. Zet Issues aan bij de 'settings' van je repository 
+2. Zet Issues aan bij de 'settings' van je repository 
+
+![image](https://github.com/user-attachments/assets/1d5899c9-6533-4097-a9b8-be35e4fd7c6a)
 
 
 
-
-2. Laat jouw visitekaartje testen door klasgenoten.
-3. Laat je klasgenoten issues met tips schrijven.
-4. Als je nieuwe ideeeen hebt, of je ziet dat er iets andes kan tijdens de test, schrijf dan zelf issues als todo-lijst.
-5. Ga vanmiddag verder met het verbeteren van de issues. Dit is iteratief werken !!!
+3. Laat jouw visitekaartje testen door klasgenoten
+4. Laat je klasgenoten issues met tips schrijven
+5. Als je nieuwe ideeeen hebt, of je ziet dat er iets andes kan tijdens de test, schrijf dan zelf issues als todo-lijst
+6. Ga vanmiddag verder met het verbeteren van de issues. Dit is iteratief werken !!!
 
 
 
