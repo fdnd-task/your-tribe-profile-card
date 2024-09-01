@@ -222,9 +222,9 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 2. Voeg de URL van je visitekaartje toe en klik op _Save_
 <img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/756ada8e-a78c-4ffd-8d7d-28a22bd9d779.png">
 
-3. Laat jouw visitekaartje testen door een paar klasgenoten.
+3. Laat jouw visitekaartje testen door klasgenoten.
 4. Maak aantekeningen van de test.
-5. Ben je tevreden met het resultaat? Zo niet, herhaal dan bovenstaande stappen.
+5. Post de url van je visitekaartje in Teams in het kanaal 'Sprint 01 - Your Yribe'
 
 
 
