@@ -1,4 +1,4 @@
-> De instructie van deze leertaak vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/INSTRUCTIONS.md)
+> De instructie van deze leertaak vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Visitekaartje
 
