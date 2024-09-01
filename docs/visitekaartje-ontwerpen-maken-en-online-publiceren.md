@@ -238,7 +238,7 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 3. Laat jouw visitekaartje testen door klasgenoten
 4. Laat je klasgenoten issues met tips schrijven
-5. Als je nieuwe ideeeen hebt, of je ziet dat er iets andes kan tijdens de test, schrijf dan zelf issues als todo-lijst
+5. Als je nieuwe ideeeen hebt, of je ziet dat er iets andes kan tijdens de test, kan je zelf issues bij je eigen repository schrijven als todo-lijst
 6. Ga vanmiddag verder met het verbeteren van de issues. Dit is iteratief werken !!!
 
 
