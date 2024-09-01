@@ -45,6 +45,6 @@ Deze opdracht is done als:
 - [ ] Je visitekaartje staat op GitHub en heeft een live url
 - [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
 - [ ] Je hebt verschillende schetsen gemaakt en feedback gekregen in Github Issues
-- [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS en je code uitgelegd en feedback gekregen in Github Issues
+- [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS, je code uitgelegd en feedback gekregen in Github Issues
 
 
