@@ -216,16 +216,26 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan 
 
 Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van je _repository_. Zo kunnen andere mensen ook makkelijk jouw visitekaartje bekijken.
 
+#### 1. URL toevoegen aan de repository
+
 1. Ga naar de settings van de _About_ op de eerste pagina van je online _repository_
 <img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/6d2fb2a5-3472-43d0-a49b-432eeec43eab.png">
 
 2. Voeg de URL van je visitekaartje toe en klik op _Save_
 <img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/756ada8e-a78c-4ffd-8d7d-28a22bd9d779.png">
 
-3. Laat jouw visitekaartje testen door klasgenoten.
-4. Schrijf een issue met tips en/of tops die je hebt gekregen
-5. Post de url van je visitekaartje in Teams in het kanaal 'Sprint 01 - Your Yribe'
-6. Ga thuis verder met je kaartje, iteratief werken !!!!
+3. Post de url van je visitekaartje in Teams in het kanaal 'Sprint 01 - Your Yribe'
+
+#### 1. Testen en feedback krijgen 
+
+1. Zet Issues aan op je repository, zodat je feedback op je werk kan krijgen
+
+plaatje-en-uitleg-setting
+
+
+2. Laat jouw visitekaartje testen door klasgenoten.
+3. Schrijf een issue met tips en/of tops die je hebt gekregen
+4. Ga thuis verder met je kaartje, iteratief werken !!!!
 
 
 
