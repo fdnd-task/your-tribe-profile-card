@@ -35,7 +35,7 @@ Dit is een belangrijk moment in het project.
 
 #### Aanpak ontwerpfase
 
-1. Schets jezelf in je boekje en daarbij woorden en/of elementen die iets over jou zeggen. Wat wil je over jezelf vertellen? Waar ben je geboren? Waar woon je nu? Wat is je lievelingseten? Heb je een bijbaan? Zit je op een sport? Heb je ambities? Waar wil je goed in worden? Wat zou een leraar van je vorige school over jou vertellen? En wat zeggen je vrienden?
+1. Schets jezelf in je boekje met daarbij woorden en/of elementen die iets over jou zeggen. Wat wil je over jezelf vertellen? Waar ben je geboren? Waar woon je nu? Wat is je lievelingseten? Heb je een bijbaan? Zit je op een sport? Heb je ambities? Waar wil je goed in worden? Wat zou een leraar van je vorige school over jou vertellen? En wat zeggen je vrienden?
 2. Stel jezelf voor aan je collega’s met behulp van je tekeningen. Bespreek samen welk idee geschikt is om uit te werken. 
 3. Schets een definitieve versie van je visitekaartje. Deze schets toont in grote lijnen hoe je visitekaartje er uit moet komen te zien. Geef wat tekstuele hints over kleurgebruik en/of animaties die je zou willen maken. Misschien kun je nog iets toevoegen naar aanleiding van het gesprek met je collega’s?
   
