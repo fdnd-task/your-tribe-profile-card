@@ -41,10 +41,18 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 7. Inspecteer op de website van je eigen voetbalclub, muziekschool, bijbaantje, fitnessschool of het werk van je ouders hoe de HTML en CSS zijn opgebouwd.
 
 
-#### Bronnen & Materiaal
+### Bronnen & Materiaal
 
-- Alles over CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
-- Reference Properties: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - CSS first steps: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
+- Alles over CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+- CSS Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+- CSS Comments: https://developer.mozilla.org/en-US/docs/Web/CSS/Comments
 - Wil je een browser die ontwikkelen nog makkelijker maakt? 🚀 Installeer dan https://polypane.app (gratis voor studenten)
 - Zin in een spelletje 🕹️ en oefenen met verschillende CSS Selectors? Probeer level 32 te halen op https://flukeout.github.io
+
+
+### Properties en Selectors toepassen op je visitekaartje
+
+1. Schrijf in je schets van maandag de CSS properties die je nodig denkt te gaan hebben. Zoek zelf uit [welke er zijn](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#index).
+2. Breid daarna je CSS code uit met [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors), properties en values.
+3. Leg in je CSS code, met behulp van [comments](https://developer.mozilla.org/en-US/docs/Web/CSS/Comments), enkele selectors en properties die je net hebt toegepast uit. Link in je comments naar bronnen op MDN, waarin deze standaarden worden uitgelegd.
