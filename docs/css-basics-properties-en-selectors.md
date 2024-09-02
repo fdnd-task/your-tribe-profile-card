@@ -46,5 +46,5 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 - Alles over CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 - Reference Properties: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - CSS first steps: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
-- Wil je een browser die ontwikkelen nog makkelijker maakt? Installeer dan https://polypane.app (gratis voor studenten)
-- Zin in een spelletje, en oefenen met verschillende CSS Selectors? Probeer level 32 te halen op https://flukeout.github.io
+- Wil je een browser die ontwikkelen nog makkelijker maakt? 🚀 Installeer dan https://polypane.app (gratis voor studenten)
+- Zin in een spelletje 🕹️ en oefenen met verschillende CSS Selectors? Probeer level 32 te halen op https://flukeout.github.io
