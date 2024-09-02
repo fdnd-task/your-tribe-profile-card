@@ -4,7 +4,7 @@
 
 _In de workshop S01W1-04-CSS Basics-Properties-en-Selectors wordt uitgelegd wat je moet doen._
 
-Gisteren ben je aan de slag gegaan met je eerste visitekaartje. Waarschijnlijk heb je wat teksten in HTML aangepast, en heb je een aantal _properties_ en _values_ in CSS veranderd. Misschien heb je ook al een _selector_ aangeraakt en naar je hand gezet, en vraag je je af wat nu de volgende stap is. In deze workshop gaan we iets dieper in op deze onderwerpen, bekijken we hoe uitgebreid CSS eigenlijk is, en staan we stil bij één van de coolste tools uit de gereedschapskist van een frontend developer!
+Gisteren ben je aan de slag gegaan met je eerste visitekaartje. Waarschijnlijk heb je wat teksten in HTML aangepast, en heb je een aantal _properties_ en _values_ in CSS (_Cascading Style Sheets_) veranderd. Misschien heb je ook al een _selector_ aangeraakt en naar je hand gezet, en vraag je je af wat nu de volgende stap is. In deze workshop gaan we iets dieper in op deze onderwerpen, bekijken we hoe uitgebreid CSS eigenlijk is, en staan we stil bij één van de coolste tools uit de gereedschapskist van een frontend developer!
 
 ### Aanpak 
 
@@ -32,30 +32,19 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 
 <img width="1176" alt="image" src="https://github.com/user-attachments/assets/acda65af-e696-4c4b-9c3c-c064de1d1703">
 
-1. Onderzoek wat je kunt doen met het deel waar je de HTML ziet (dit noemen we de DOM, het Document Object Model).
+1. Onderzoek wat je kunt doen met het deel waar je de HTML ziet (dit noemen we de DOM, het _Document Object Model_, en alle styling wordt via _selectors_ toegepast op de DOM).
 2. Pas enkele CSS _values_ aan, en kijk wat er gebeurt als je dat doet.
 3. Probeer nieuwe _properties_ toe te voegen aan bestaande elementen; je krijgt suggesties terwijl je typt.
-4. Kijk wat er gebeurt als je meerdere _properties_ combineert of overschrijft.
-5. Ververs de pagina, en je bent al je gepiel weer kwijt :)
-6. Inspecteer op de website van je eigen voetbalclub, muziekschool, bijbaantje, fitnessschool of het werk van je ouders hoe de HTML en CSS zijn opgebouwd.
+4. Kijk wat er gebeurt als je meerdere _properties_ combineert of overschrijft (waarschijnlijk zie je hierdoor wat _Cascading_ betekent).
+5. Pas live de _selectors_ aan, en kijk wat er gebeurt.
+6. Ververs de pagina, en je bent al je gepiel weer kwijt :)
+7. Inspecteer op de website van je eigen voetbalclub, muziekschool, bijbaantje, fitnessschool of het werk van je ouders hoe de HTML en CSS zijn opgebouwd.
 
 
+#### Bronnen & Materiaal
 
-
-
-#### Bronnen Properties en Selectors
-
-- Alles over CSS https://developer.mozilla.org/en-US/docs/Web/CSS
+- Alles over CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 - Reference Properties: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - CSS first steps: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
-- Wil je een browser die ontwikkelen nog makkelijker maakt? Installeer dan https://polypane.app/ (gratis voor studenten)
-  
-
-
-### Properties en Selectors toepassen op je visitekaartje
-
-Properties en selectors toepassen op het visitekaartje. En comments toevoegen in je code
-
-1. Schrijf in je schets van maandag de CSS properties die je nodig denkt te gaan hebben. Zoek zelf uit welke er zijn.
-2. Pas daarna je CSS code aan met selectors, properties en values.
-3. Leg in je CSS code, met behulp van comments, meerdere selectors en properties die je hebt toegepast uit. Link in je comments naar bronnen op MDN, waarin deze standaarden worden uitgelegd.
+- Wil je een browser die ontwikkelen nog makkelijker maakt? Installeer dan https://polypane.app (gratis voor studenten)
+- Zin in een spelletje, en oefenen met verschillende CSS Selectors? Probeer level 32 te halen op https://flukeout.github.io
