@@ -26,7 +26,7 @@ article {
   min-width: 30em;
   border-radius: 1rem;
   background: #bdb390;
-  background: linear-gradient(0deg, rgb(158, 149, 116) 40%, #a89e6e 100%);
+  background: linear-gradient(0deg, #9e9574 40%, #a89e6e 100%);
   box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
   transition: .25s;
 }
