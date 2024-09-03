@@ -10,7 +10,7 @@ Het is een tool die frontenders vaak gebruiken om een idee te krijgen van de tec
 
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/0c22c346-5d03-4f0d-9072-cdd288868bdb">
 
-Door blokken in de schets te tekenen voor de HTML, CSS properties te annoteren en ideeën voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Je kan inspiratie en code-voorbeelden zoeken om te onderzoeken hoe je iets kan oplossen. 
+Door blokken in de schets te tekenen voor de HTML, CSS properties te annoteren en ideeën voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Je kan inspiratie en code-voorbeelden bekijken om te onderzoeken hoe je iets technisch zou kunnen oplossen. 
 
 ### Aanpak
 
