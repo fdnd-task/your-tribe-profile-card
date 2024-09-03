@@ -32,16 +32,28 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 
 <img width="1176" alt="image" src="https://github.com/user-attachments/assets/acda65af-e696-4c4b-9c3c-c064de1d1703">
 
+### Individuele opdrachten
+
 1. Onderzoek wat je kunt doen met het deel waar je de HTML ziet (dit noemen we de DOM, het _Document Object Model_, en alle styling wordt via _selectors_ toegepast op de DOM).
 2. Pas enkele CSS _values_ aan, en kijk wat er gebeurt als je dat doet.
 3. Probeer nieuwe _properties_ toe te voegen aan bestaande elementen; je krijgt suggesties terwijl je typt.
 4. Kijk wat er gebeurt als je meerdere _properties_ combineert of overschrijft (waarschijnlijk zie je hierdoor wat _Cascading_ betekent).
 5. Pas live de _selectors_ aan, en kijk wat er gebeurt.
 6. Ververs de pagina, en je bent al je gepiel weer kwijt :)
-7. Inspecteer op de website van je eigen voetbalclub, muziekschool, bijbaantje, fitnessschool of het werk van je ouders hoe de HTML en CSS zijn opgebouwd.
+7. Inspecteer op de website van je eigen voetbalvereniging, yogaclub, muziekschool, bijbaantje, fitnessschool of het werk van je ouders hoe de HTML en CSS zijn opgebouwd.
 
+### Samenwerkingsopdracht
 
-### Bronnen & Materiaal
+1. Schrijf met je tafel zoveel mogelijk voorbeelden van verschillende selectors op jullie whiteboard. Gebruik bronnen zoals MDN en vraag ook ChatGPT om hulp.
+2. Als jullie denken ze allemaal te hebben, post dan een foto van jullie lijst op Teams.
+
+### Zelf properties en selectors toepassen op je visitekaartje
+
+1. Schrijf in je schets van maandag de CSS properties die je nodig denkt te gaan hebben. Zoek zelf uit [welke er zijn](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#index).
+2. Breid daarna je CSS code uit met [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors), properties en values.
+3. Leg in je CSS code, met behulp van [comments](https://developer.mozilla.org/en-US/docs/Web/CSS/Comments), enkele selectors en properties die je net hebt toegepast uit. Link in je comments naar bronnen op MDN, waarin deze standaarden worden uitgelegd.
+
+### Bronnen & materiaal
 
 - CSS first steps: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
 - Alles over CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -49,10 +61,3 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 - CSS Comments: https://developer.mozilla.org/en-US/docs/Web/CSS/Comments
 - Wil je een browser die ontwikkelen nog makkelijker maakt? 🚀 Installeer dan https://polypane.app (gratis voor studenten)
 - Zin in een spelletje 🕹️ en oefenen met verschillende CSS Selectors? Probeer level 32 te halen op https://flukeout.github.io
-
-
-### Properties en Selectors toepassen op je visitekaartje
-
-1. Schrijf in je schets van maandag de CSS properties die je nodig denkt te gaan hebben. Zoek zelf uit [welke er zijn](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#index).
-2. Breid daarna je CSS code uit met [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors), properties en values.
-3. Leg in je CSS code, met behulp van [comments](https://developer.mozilla.org/en-US/docs/Web/CSS/Comments), enkele selectors en properties die je net hebt toegepast uit. Link in je comments naar bronnen op MDN, waarin deze standaarden worden uitgelegd.
