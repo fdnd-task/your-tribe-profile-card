@@ -5,13 +5,12 @@
 _In de workshop S01W1-06-Breakdown-schets wordt uitgelegd wat je moet doen._
 
 
-Als een frontender een ontwepr ma
+Een breakdown schets is een wireframe met annotaties voor de HTML, CSS en/of JS. 
+Het is een tool die frontenders vaak gebruiken om een idee te krijgen van de techniek die nodig is om een ontwerp te realiseren in code. 
 
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/0c22c346-5d03-4f0d-9072-cdd288868bdb">
 
-probleem oplossend vermogen: je wil iets nieuws, je gaat ideeen schetsen, dan ga je bedenken wat voor html je nodig hebt, (en doe je onderzoek)
-breakdown en nut brekadown laten zien + schets techniek
-
-
+Door blokken in de schets te tekenen voor de HTML, CSS properties te annoteren en ideeën voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Je kan inspiratie en code-voorbeelden zoeken om te onderzoeken hoe je iets kan oplossen. 
 
 ### Aanpak
 
