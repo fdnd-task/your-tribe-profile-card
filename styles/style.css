@@ -22,11 +22,11 @@ article {
   align-items: center;
   justify-content: flex-end;
   width: 50vw;
-  max-width: 25em;
-  min-width: 20em;
+  max-width: 35em;
+  min-width: 30em;
   border-radius: 1rem;
-  background: rgb(0,239,255);
-  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
+  background: #bdb390;
+  background: linear-gradient(0deg, rgb(158, 149, 116) 40%, #a89e6e 100%);
   box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
   transition: .25s;
 }
@@ -41,7 +41,7 @@ header {
 
 h1 {
   margin: 2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  color: rgb(39, 4, 78);
 }
 
 button {
@@ -53,23 +53,23 @@ button {
   padding: .25rem;
   border: none;
   border-radius: 50%;
-  background: rgba(0,239,255,1);
+  background: rgb(9, 10, 71);
   transform: scale(.8);
   transition: .25s;
 }
 button:focus {
   outline: none;
-  background: #202592;
+  background: #0e0e1f;
 }
 button:focus svg {
-  stroke: rgba(0,239,255,1);
+  stroke: rgb(251, 251, 255);
 }
 
 svg {
   position: absolute;
   top: calc(1.25rem - 12px);
   left: calc(1.25rem - 12px);
-  stroke: #4e54c8;
+  stroke: #ececf1;
   transition-delay: .25s;
 }
 button svg:nth-of-type(2) {
