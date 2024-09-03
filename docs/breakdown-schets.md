@@ -24,7 +24,7 @@ _HTML elementen zijn allemaal vierkant in de browser. Als je html elementen alle
 
 3. Teken vervolgens om de containers een blok en schrijf de HTMl elementen erbij.
 
-_Een lijst links  bestaat uit <a> in een <li> in een <ul>_
+_Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/848281f7-e0cb-4c1c-9a41-f29193bc8935">
 
