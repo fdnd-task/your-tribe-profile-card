@@ -6,41 +6,31 @@ _In de workshop S01W1-06-Breakdown-schets wordt uitgelegd wat je moet doen._
 
 
 Een breakdown schets is een wireframe met annotaties voor de HTML, CSS en/of JS. 
-Het is een tool die frontenders vaak gebruiken om een idee te krijgen van de techniek die nodig is om een ontwerp te realiseren in code. 
+Het is een werkwijze die frontenders vaak gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code. 
 
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/0c22c346-5d03-4f0d-9072-cdd288868bdb">
 
-Door blokken in de schets te tekenen voor de HTML, CSS properties te annoteren en ideeën voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Je kan inspiratie en code-voorbeelden bekijken om te onderzoeken hoe je iets technisch zou kunnen oplossen. 
+Door blokken in de schets te tekenen voor de HTML, de CSS properties te annoteren en ideeën voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Je kan inspiratie en code-voorbeelden bekijken om te onderzoeken hoe je iets technisch zou kunnen oplossen. 
 
 ### Aanpak
 
-een breakdwon laten maken van een website (onderdeel) op het whiteboard
-breakdown van de schets van maandag laten maken, daarna een foto  maken en een issue van maken "nieuw ontwerp visitekaartje" 
-daardan verder met coderen !
+Je gaat een breakdown schets maken van het ontwerp dat je maandag hebt bedacht. Dit is het uitgangspunt van een (nieuwe) ontwerp dat je gaat maken!
 
-Docenten bespreken de breakdown
-feedback op schetstechnieken
-feedback op als de html beter kan, tip
-feedback op als ze geen idee hebben, bron
-feedback op divertites
-Zo nodig verbeteren en aan de issue toevoegen
+1. Teken de schets van maandag netjes na met een zwarte pen.
+2. Teken met een rode pen om alle "content" onderdelen een vierkant blok en schrijf het HTML element erbij. Als je niet weet welk element je nodig hebt kun je dit gaan onderzoeken, kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) vragen aan je tafel of vragen aan een docent. 
 
-Pak je laatste schets, Breakdown schets leren maken, om elementen een blok tekenen.
-(Voorbeeld laten zien van een lijst, zowel de li als de ul schetsten)
+_HTML elementen zijn allemaal vierkant in de browser. Als je html elementen alleen een border kleur geeft dat kun je dit zien:_
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/244151fd-c337-4c02-8c2f-3863a83a5259">
 
-HTML onderzoeken en annoteren
+3. Teken vervolgens om de containers een blok en schrijf de HTMl elementen erbij.
 
-Maak een issue aan "Nieuwe HTML voor nieuw ontwerp". Voeg je breakdown schets toe.
+_Een lijst links  bestaat uit <a> in een <li> in een <ul>_
 
-Feedback op schets technieken van je tafel (lijstje met waar ze op moeten letten)
+<img width="459" alt="image" src="https://github.com/user-attachments/assets/848281f7-e0cb-4c1c-9a41-f29193bc8935">
 
-Feedback op HTML (onderzoek) van docent (feedback op diverites > tip semantische html bron, tips als student geen idee heeft met html leren bron)
+4. Maak een issue aan bij je leertaak, geef het de titel "Nieuwe HTML voor nieuw ontwerp" en voeg een foto van je breakdown schets toe. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback.
+6. Begin met coderen van je nieuwe ontwerp. Gooi de HTML in de <body> weg en gebruik je breakdown schets om nieuwe HTL te schrijven. 
 
-Gooi body leeg en maak een kaartje met nieuwe html
-(let op je moet waarschijnlijk dan ook je css aanpassen)
-
-
-#### Oefenen
 
 
 ### Bronnen
