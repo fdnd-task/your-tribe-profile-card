@@ -29,7 +29,7 @@ _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/848281f7-e0cb-4c1c-9a41-f29193bc8935">
 
 4. Maak een issue aan bij je leertaak, geef het de titel "Nieuwe HTML voor nieuw ontwerp" en voeg een foto van je breakdown schets toe. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback.
-6. Begin met coderen van je nieuwe ontwerp. Gooi de HTML in de <body> weg en gebruik je breakdown schets om nieuwe HTL te schrijven. 
+6. Begin met coderen van je nieuwe ontwerp. Gooi de HTML in de `<body>` weg en gebruik je breakdown schets om nieuwe HTML te schrijven. 
 
 
 
