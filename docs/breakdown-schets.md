@@ -2,19 +2,54 @@
 
 ## Breakdown schets (Woensdag)
 
-
-_In de workshop S01W1-06-Visuele-hierarchie wordt uitgelegd wat je moet doen._
-
-
-<!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
+_In de workshop S01W1-06-Breakdown-schets wordt uitgelegd wat je moet doen._
 
 
+Als een frontender een ontwepr ma
 
-#### Breakdown Schets
 
-Introduction HTML: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
-https://developer.mozilla.org/en-US/docs/Web/HTML
+probleem oplossend vermogen: je wil iets nieuws, je gaat ideeen schetsen, dan ga je bedenken wat voor html je nodig hebt, (en doe je onderzoek)
+breakdown en nut brekadown laten zien + schets techniek
 
+
+
+### Aanpak
+
+een breakdwon laten maken van een website (onderdeel) op het whiteboard
+breakdown van de schets van maandag laten maken, daarna een foto  maken en een issue van maken "nieuw ontwerp visitekaartje" 
+daardan verder met coderen !
+
+Docenten bespreken de breakdown
+feedback op schetstechnieken
+feedback op als de html beter kan, tip
+feedback op als ze geen idee hebben, bron
+feedback op divertites
+Zo nodig verbeteren en aan de issue toevoegen
+
+Pak je laatste schets, Breakdown schets leren maken, om elementen een blok tekenen.
+(Voorbeeld laten zien van een lijst, zowel de li als de ul schetsten)
+
+HTML onderzoeken en annoteren
+
+Maak een issue aan "Nieuwe HTML voor nieuw ontwerp". Voeg je breakdown schets toe.
+
+Feedback op schets technieken van je tafel (lijstje met waar ze op moeten letten)
+
+Feedback op HTML (onderzoek) van docent (feedback op diverites > tip semantische html bron, tips als student geen idee heeft met html leren bron)
+
+Gooi body leeg en maak een kaartje met nieuwe html
+(let op je moet waarschijnlijk dan ook je css aanpassen)
+
+
+#### Oefenen
+
+
+### Bronnen
+
+Dit zijn goede bronnen om te gebruiken om HTML te leren en onderzoeken: 
+
+- [Getting started with HTML, what is HTML?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML semantics @ YouTube](https://www.youtube.com/watch?v=bOUhq46fd5g)
 
 
