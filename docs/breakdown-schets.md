@@ -2,11 +2,11 @@
 
 ## Breakdown schets (Woensdag)
 
-_In de workshop S01W1-06-Breakdown-schets wordt uitgelegd wat je moet doen._
+_In de workshop S01W1-06-Breakdown-schets wordt uitgelegd wat een breadkdown schets is en hoe je dat kan maken._
 
 
 Een breakdown schets is een wireframe met annotaties voor de HTML, CSS en/of JS. 
-Het is een werkwijze die frontenders vaak gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code. 
+Het is een methode die frontenders vaak gebruiken om te onderzoeken wat voor techniek nodig is om een ontwerp te realiseren in code. 
 
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/0c22c346-5d03-4f0d-9072-cdd288868bdb">
 
