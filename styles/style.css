@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #0A475B;
+  color: #10214e;
 }
 
 article {
@@ -25,8 +25,8 @@ article {
   max-width: 25em;
   min-width: 20em;
   border-radius: 1rem;
-  background: #0A475B;
-  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
+  background: rgb(0,239,255);
+  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #0A475B 100%);
   box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
   transition: .25s;
 }
@@ -102,8 +102,9 @@ dl {
   margin-bottom: 0;
   padding: 5rem 0 3rem;
   text-align: center;
-  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(0,239,255,1) 97%, #0A475B 100%);
 }
+
 
 dt {
   margin-top: .25rem;
@@ -141,7 +142,9 @@ article > p {
   padding: 3rem 2rem;
   border-radius: 0 0 1rem 1rem;
   text-align: center;
-  background: rgba(255,255,255, 0.5);
+  background: linear-gradient(180deg, rgb(255, 255, 255) 97%, #000000 100%);
+  
+  
 }
 
 /* expand content */
@@ -170,4 +173,13 @@ body.expand dd {
 
 body.expand img {
   width: 15em;
+}
+.social-media-icons {
+  display: flex;
+  gap: 10px; /* Space between icons */
+}
+.social-media-icons img {
+  width: 40px; /* Adjust the size as needed */
+  height: 40px;
+  border-radius: 10; /* Optional: make the icons circular */
 }
