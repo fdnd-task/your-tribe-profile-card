@@ -73,6 +73,7 @@ Al deze opdrachten kunnen ook via [een script](https://github.com/fdnd-task/your
 ### Bronnen en materiaal
 
 - [What is JavaScript? MDN beginner's JavaScript course](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-- Introduction to the DOM: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-- Liever interactief leren programmeren? Kijk alvast eens naar https://learnprogramming.online
+- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [Hey designers, if you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/)
+- - Liever interactief leren programmeren? Kijk alvast eens naar https://learnprogramming.online
+
