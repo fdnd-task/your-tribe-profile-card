@@ -68,7 +68,15 @@ Dit is dus een andere manier om een referentie naar ons `<body>` element te krij
 
 En refresh daarna de pagina :)
 
-Al deze opdrachten kunnen ook via [een script](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/scripts/script.js) uitgevoerd worden. De browser voert elke regel dan stap voor stap uit, als alles goed gaat. Via JavaScript en het Document Object Model kun je bijvoorbeeld elementen opzoeken, naar _events_ luisteren (zoals een _click_ event of een _keyboard_ event), _functies_ uitvoeren zodra zo'n event plaatsvindt, en eigenschappen van de DOM veranderen. Vaak doen we dat laatste door een `class` op een bepaald element te veranderen, zodat er door CSS andere styling toegepast kan worden. HTML, CSS en JS werken op deze manier dus hand in hand.
+Al deze opdrachten kunnen ook via [een script](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/scripts/script.js) uitgevoerd worden. De browser voert elke regel dan stap voor stap uit, als alles goed gaat. Via JavaScript en het Document Object Model kun je bijvoorbeeld elementen opzoeken, naar _events_ luisteren (zoals een _click_ event of een _keyboard_ event), _functies_ uitvoeren zodra zo'n event plaatsvindt, en eigenschappen van de DOM veranderen. Vaak doen we dat laatste door een `class` op een bepaald element [te veranderen](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/), zodat er door CSS andere styling toegepast kan worden. HTML, CSS en JS werken op deze manier dus hand in hand.
+
+### Extra opdrachten
+
+1. Bespreek met je buur wat een haalbare, niet vereiste leuke extra interactie in je eigen visitekaartje zou kunnen zijn. Enkele ideeën:
+ - Verander de styling als je op een knop klikt, door een class op een element [aan te passen](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/); maak iets groter, opvallender, of laat je kaartje flippen.
+ - [Verander een stukje tekst](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#examples) als je op een knop klikt.
+ - [Speel een geluidje af](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play) als je op een knop klikt. Combineer dit bijvoorbeeld met [een `<audio>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio).
+2. Maak voor je eigen visitekaartje een issue aan, waarin je jouw bedachte interactie beschrijft. Misschien kun je hiervan ook een breakdownschets maken.
 
 ### Bronnen en materiaal
 
