@@ -10,7 +10,7 @@ Het is een methode die frontenders vaak gebruiken om te onderzoeken wat voor tec
 
 <img width="726" alt="image" src="https://github.com/user-attachments/assets/0c22c346-5d03-4f0d-9072-cdd288868bdb">
 
-Door blokken in de schets te tekenen voor de HTML, de CSS properties te annoteren en ideeën voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Je kan inspiratie en code-voorbeelden bekijken om te onderzoeken hoe je iets technisch zou kunnen oplossen. 
+Door blokken in de schets te tekenen voor de HTML, de CSS properties te annoteren en ideeën voor de JS kom je er achter wat voor "problemen" je gaat tegenkomen. Dan kan je inspiratie en code-voorbeelden bekijken om te onderzoeken hoe je iets technisch zou kunnen oplossen. 
 
 ### Aanpak
 
