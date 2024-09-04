@@ -76,7 +76,8 @@ Al deze opdrachten kunnen ook via [een script](https://github.com/fdnd-task/your
  - Verander de styling als je op een knop klikt, door een class op een element [aan te passen](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/); maak iets groter, opvallender, of laat je kaartje flippen.
  - [Verander een stukje tekst](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#examples) als je op een knop klikt.
  - [Speel een geluidje af](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play) als je op een knop klikt. Combineer dit bijvoorbeeld met [een `<audio>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio).
-2. Maak voor je eigen visitekaartje een issue aan, waarin je jouw bedachte interactie beschrijft. Misschien kun je hiervan ook een breakdownschets maken.
+2. Maak een issue aan bij je leertaak, bedenk een goede titel voor je interactie, en beschrijf deze kort. Voeg ook een breakdown schets toe.
+3. Vraag feedback op je issue en je breakdown schets.
 
 ### Bronnen en materiaal
 
