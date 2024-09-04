@@ -22,7 +22,7 @@ Je gaat een breakdown schets maken van het ontwerp dat je maandag hebt bedacht. 
 _HTML elementen zijn allemaal vierkant in de browser. Als je html elementen alleen een border kleur geeft dat kun je dit zien:_
 <img width="613" alt="image" src="https://github.com/user-attachments/assets/244151fd-c337-4c02-8c2f-3863a83a5259">
 
-3. Teken vervolgens een blok vppr de containers en schrijf de HTMl elementen erbij.
+3. Teken vervolgens een blok voor de containers en schrijf de HTMl elementen erbij.
 
 _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 
