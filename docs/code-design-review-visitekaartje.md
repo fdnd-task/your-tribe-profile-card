@@ -5,7 +5,7 @@
 _In de workshop S01W1-08-Code-Design-Review wordt uitgelegd wat je moet doen._
 
 Een belangrijk onderdeel van de Development Lifecycle (DLC) is testen en feedback krijgen. Dit doen frontenders door regelmatig een _code and design review_ te doen met collega's. 
-Bij FDND doen we elke vrijdag een review. 
+Bij FDND doen we elke vrijdag zo'n review. 
 De feedback op je code of design leg je vast in issues bij je leertaak. 
 Hier kun je volgende week dan weer mee verder om je website te verbeteren. 
 Dit noemen we iteratief werken. Je doorloopt meerdere keren de DLC om
