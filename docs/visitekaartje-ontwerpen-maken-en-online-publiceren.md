@@ -224,6 +224,9 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 1. Ga naar de settings van de _About_ op de eerste pagina van je online _repository_
 <img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/6d2fb2a5-3472-43d0-a49b-432eeec43eab.png">
 
+![image](https://github.com/user-attachments/assets/acb311e0-0def-4bf2-a556-4811b0a7fa97)
+
+
 2. Voeg de URL van je visitekaartje toe en klik op _Save_
 <img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/756ada8e-a78c-4ffd-8d7d-28a22bd9d779.png">
 
