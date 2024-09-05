@@ -19,10 +19,10 @@ je website stap voor stap beter te maken.
 
 Deze week heb je een visitekaartje ontworpen en gemaakt. Het maakt niet uit hoe ver je bent, je kan altijd feedback halen op stukken code of dat deel van het ontwerp dat je al wel gemaakt hebt. 
 
-Vandaag krijg je feedback op stof die we in workshops in de eerste week hebben behandeld. 
+Vandaag krijg je feedback op code en design die we in workshops in de eerste week hebben behandeld. 
 Hieronder staat een leidraad voor de review die je op het werk van een andere student gaat doen. 
 Zorg ook dat je zelf feedback krijgt! 
-Schrijf altijd nette teksten en probeer een bron of voorbeeld bij te voegen als je een tip of verbetering hebt. 
+Schrijf altijd nette teksten in een issue en probeer een bron of voorbeeld bij te voegen als je een tip of verbeterpunt hebt. 
 
 0. Zorg dat je issues van je _repository_ aan staan. En dat je je de meest recente versie naar je online _repository_ hebt gepusht.
 1. Test of de HTML goed is door een _HTML validator check_ te doen op de W3C website: https://validator.w3.org. Schrijf een issue als er in de test problemen naar voren zijn gekomen.
