@@ -26,7 +26,7 @@ Schrijf altijd nette teksten en probeer een bron of voorbeeld bij te voegen als 
 1. Test of de HTML goed is door een _HTML validator check_ te doen op de W3C website: https://validator.w3.org. Schrijf een issue als in de test problemen naar voren zijn gekomen.
 2. Check HTML uit de breakdown workshop. Wat hebben ze gedaan in de Breakdown schets taak? Feedback geven op de HTML elementen? 
 3. Check CSS uit de CSS workshop. Wat moesten studenten doen in de CSS workshop? Selectors en properties uitleggen in comments. Klopt de uitleg? 
-4. Check het design en schrijf issues
+4. Check het design in een browse. Schrijf een issues als je iets ziet wat beter kan of als je een leuk idee hebt.
 
 
 ### Bronnen
