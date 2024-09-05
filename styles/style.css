@@ -1,173 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 * {
-  box-sizing: border-box;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    background-color: #202020;
 }
 
-html {
-  height: 100vh;
+.container {
+    display: flex; 
+    height: 100vh; 
+    width: 100vw; 
+    align-items: center; 
+    justify-content: center;
 }
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #202020;
+/* Adds properties to the grid container */
+.grid {
+    display: grid; 
+    height: 50%; 
+    width:auto; 
+    min-width: 400px; 
+    max-width: 800px; 
+    min-height: 200px; 
+    max-height: 400px; 
+    grid-template-columns: repeat(4, 1fr); 
+    grid-template-rows: repeat(2, 1fr); 
+    gap: 16px;  padding: 8px; 
+    border-radius: 12px;
+    background-color: #202020;
+    padding: 16px;
 }
 
-article {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-end;
-  width: 50vw;
-  max-width: 25em;
-  min-width: 20em;
-  border-radius: 1rem;
-  background: rgb(191, 191, 191);
-  transition: .25s;
-  border: 1px solid #202020;
+/* Adds properties to specific grid items */
+.bento-item {
+    background-color: #355E3B; 
+    border-radius: 8px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
 }
 
-header {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  justify-content: flex-end;
+/* Adds properties specific to images in grid items */
+.bento-item img {
+    /* Inherits border-radius of the grid items */
+    border-radius: inherit; 
+    aspect-ratio: 1/1;
+    width: 100%;
+    height: 100%;
 }
 
-h1 {
-  margin: 2rem 0 1rem;
-  color: #202020;
+/* Adds sets width and how the image should scale on the top left grid item */
+#profile-picture {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
-button {
-  position: absolute;
-  right: 1rem;
-  top: 1rem;
-  width: 2.5rem;
-  height: 2.5rem;
-  padding: .25rem;
-  border: none;
-  border-radius: 50%;
-  background: #FFF;
-  transform: scale(.8);
-  transition: .25s;
-}
-button:focus {
-  outline: none;
-  background: #202592;
-}
-button:focus svg {
-  stroke: rgba(0,239,255,1);
+ul {
+ list-style: none;
 }
 
-svg {
-  position: absolute;
-  top: calc(1.25rem - 12px);
-  left: calc(1.25rem - 12px);
-  stroke: #4e54c8;
-  transition-delay: .25s;
-}
-button svg:nth-of-type(2) {
-  opacity: 0;
-  transition-delay: 0ms;
-}
-
-img {
-  position: relative;
-  top: 2rem;
-  width: 10em;
-  height: auto;
-  border: 5px solid #fff;
-  border-radius: 10em;
-  transition: .25s .15s;
-  
-}
-
-dl {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-areas:
-    "html-dd css-dd js-dd"
-    "html-dt css-dt js-dt"
-    ;
-  justify-items: center;
-  align-items: start;
-  width: 100%;
-  margin-top: -3rem;
-  margin-bottom: 0;
-  padding: 5rem 0 3rem;
-  text-align: center;
-  background: rgb(255,255,255);
-}
-
-dt {
-  margin-top: .25rem;
-  padding-top: .25rem;
-  border-top: 1px solid rgba(0,0,0,0.3);
-  font-weight: bold;
-}
-dt:nth-of-type(1) {
-  grid-area: html-dt;
-}
-
-dt:nth-of-type(2) {
-  grid-area: css-dt;
-  transform: translateY(1rem);
-}
-dt:nth-of-type(3) {
-  grid-area: js-dt;
-}
-
-dd {
-  margin: 0;
-  padding-left: .3rem;
-  transition: .25s .3s;
-}
-dd:nth-of-type(2){  
-  transform: translateY(1rem);
-}
-
-p { 
-  margin: 0;
-}
-
-article > p {
-  width: 100%;
-  margin-top: 0;
-  padding: 3rem 2rem;
-  border-radius: 0 0 1rem 1rem;
-  text-align: center;
-  background: rgba(255,255,255, 0.5);
-}
-
-/* expand content */
-body.expand {
-  font-size: 1.15em;
-}
-
-body.expand article {
-  width: 60vw;
-  max-width: 60vw;
-}
-
-body.expand button svg:first-of-type {
-  opacity: 0;
-  transition-delay: 0ms;
-}
-
-body.expand button svg:nth-of-type(2) {
-  opacity: 1;
-  transition-delay: .25s;
-}
-
-body.expand dd {
-  font-size: 1.75em;
-}
-
-body.expand img {
-  width: 15em;
+ul li {
+    background-color: #355E3B;
+    text-decoration: none;
 }
