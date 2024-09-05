@@ -8,7 +8,8 @@ Een belangrijk onderdeel van de Development Lifecycle (DLC) is testen en feedbac
 Bij FDND doen we elke vrijdag zo'n review. 
 De feedback op je code of design leg je vast in issues bij je leertaak. 
 Hier kun je volgende week dan weer mee verder om je website te verbeteren. 
-Dit noemen we iteratief werken. Je doorloopt meerdere keren de DLC om
+
+Deze manier van werken heet iteratief werken. Je doorloopt meerdere keren de DLC om
 je website stap voor stap beter te maken.
 
 
