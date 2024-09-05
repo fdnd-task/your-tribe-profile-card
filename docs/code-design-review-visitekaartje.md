@@ -20,3 +20,12 @@ Vandaag krijg je feedback op een aantal dingen die we in workshops hebben behand
 4. Check het design en schrijf issues
 
 
+### Bronnen
+
+Dit zijn goede bronnen om te gebruiken om HTML te leren en onderzoeken: 
+
+- [HTML Validator W3C](https://validator.w3.org)
+- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- CSS bron
+
+  
