@@ -27,7 +27,7 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per fase gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekeningen. (Wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig?)
 
-### Ontwerpen (60min)
+### Ontwerpen (45min)
 
 Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
 
@@ -44,7 +44,7 @@ Dit is een belangrijk moment in het project.
   
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
 
-### Bouwen (60min)
+### Bouwen (45min)
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
@@ -166,7 +166,7 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 
 
 
-### Integreren (15min)
+### Integreren (30min)
 
 In de integratiefase voer je de aanpassingen door, zodat iedereen ze kan zien.
 
