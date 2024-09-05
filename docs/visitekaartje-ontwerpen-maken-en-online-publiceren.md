@@ -167,7 +167,7 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 
 
 
-### Integreren (30min)
+### Integreren (15min)
 
 In de integratiefase voer je de aanpassingen door, zodat iedereen ze kan zien.
 
@@ -212,7 +212,7 @@ Als je je code hebt geüpdatet naar je online _repository_ kun je je website pub
 - [Creating a GitHub pages site @ GitHub](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With GitHub Pages](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
-### Testen (15min)
+### Testen (30min)
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever, om te bespreken of de opdracht goed is.
 
