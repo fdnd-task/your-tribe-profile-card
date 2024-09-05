@@ -4,8 +4,8 @@
 
 _In de workshop S01W1-08-Code-Design-Review wordt uitgelegd wat je moet doen._
 
-Een belangrijk onderdeel van de Development Lifecycle (DLC) is testen en feedback krijgen. Dit doen frontenders door regelmatig een _code and design review_ te doen met collega's. 
-Bij FDND doen we elke vrijdag zo'n review. 
+Een fase van de Development Lifecycle (DLC) is testen en feedback krijgen. Dit doen frontenders o.a. door regelmatig een _code and design review_ te doen met collega's. 
+Bij FDND doen we elke vrijdag zo'n review en bekijken we elkaars code en doesign. 
 De feedback op je code of design leg je vast in issues bij je leertaak. 
 Hier kun je volgende week dan weer mee verder om je website te verbeteren. 
 
@@ -17,24 +17,25 @@ je website stap voor stap beter te maken.
 
 Deze week heb je een visitekaartje ontworpen en gemaakt. Het maakt niet uit hoe ver je bent, je kan altijd feedback halen op stukken code of dat deel van het ontwerp dat je al wel gemaakt hebt. 
 
-Vandaag krijg je feedback op stif die we in workshops in de eerste week hebben behandeld. 
+Vandaag krijg je feedback op stof die we in workshops in de eerste week hebben behandeld. 
 Hieronder staat een leidraad voor de review die je op het werk van een andere student gaat doen. 
 Zorg ook dat je zelf feedback krijgt! 
 Schrijf altijd nette teksten en probeer een bron of voorbeeld bij te voegen als je een tip of verbetering hebt. 
 
 0. Zorg dat je issues van je _repository_ aan staan. En dat je je de meest recente versie naar je online _repository_ hebt gepusht.
-1. Test of de HTML goed is door een _HTML validator check_ te doen op de W3C website: https://validator.w3.org. Schrijf een issue als in de test problemen naar voren zijn gekomen.
-2. Check HTML uit de breakdown workshop. Wat hebben ze gedaan in de Breakdown schets taak? Feedback geven op de HTML elementen? 
-3. Check CSS uit de CSS workshop. Wat moesten studenten doen in de CSS workshop? Selectors en properties uitleggen in comments. Klopt de uitleg? 
-4. Check het design in een browse. Schrijf een issues als je iets ziet wat beter kan of als je een leuk idee hebt.
+1. Test of de HTML goed is door een _HTML validator check_ te doen op de W3C website: https://validator.w3.org. Schrijf een issue als er in de test problemen naar voren zijn gekomen.
+2. Bekijk alle HTML. Let met namen op de _[Content sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#content_sectioning)_, zijn de juiste elementen gebruikt voor de content van de pagina zoals een`<main>`, `<header>`, `<footer>`, `<h1>`-`<h6>`? 
+3. Bekijk de CSS, zijn enkele selectors en properties uitgelegd met comments in de code? Gebruikt de [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) om te kijken of de uitleg klopt. 
+4. Check het design in een browser. Schrijf een issues als je iets ziet wat beter kan of als je een leuk idee hebt.
 
 
 ### Bronnen
 
 Dit zijn goede bronnen om te gebruiken om HTML te leren en onderzoeken: 
 
+- [Quickstart for GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 - [HTML Validator W3C](https://validator.w3.org)
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- CSS bron
+- [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
   
