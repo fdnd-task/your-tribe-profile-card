@@ -12,7 +12,12 @@ body {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: #1c1d20;
+}
+
+p {
+  padding-left: 3rem;
+  padding-right: 15rem;
 }
 
 article {
@@ -21,15 +26,16 @@ article {
   flex-direction: column;
   align-items: center;
   justify-content: flex-end;
-  width: 50vw;
-  max-width: 35em;
+  width: 400px;
+  height: 300px;
+  max-width: 30em;
   min-width: 30em;
   border-radius: 1rem;
-  background: #bdb390;
-  background: linear-gradient(0deg, #9e9574 40%, #a89e6e 100%);
-  box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
-  transition: .25s;
+  background: #d7d5cd;
+  transition: 0.5s;
 }
+
+/*Met de background propertie heb ik een value (kleurcode) gegeven aan de achtergrond van mijn visitekaartje*/
 
 header {
   display: flex;
@@ -37,11 +43,6 @@ header {
   justify-content: center;
   align-items: center;
   justify-content: flex-end;
-}
-
-h1 {
-  margin: 2rem 0 1rem;
-  color: rgb(39, 4, 78);
 }
 
 button {
@@ -53,9 +54,10 @@ button {
   padding: .25rem;
   border: none;
   border-radius: 50%;
-  background: rgb(9, 10, 71);
+  background: rgb(8, 8, 8);
   transform: scale(.8);
   transition: .25s;
+  cursor: pointer;
 }
 button:focus {
   outline: none;
@@ -65,11 +67,13 @@ button:focus svg {
   stroke: rgb(251, 251, 255);
 }
 
+/*Met de focus selector veranderen de boogjes in de inzoombutton wanneer die wordt aangeklikt*/
+
 svg {
   position: absolute;
   top: calc(1.25rem - 12px);
   left: calc(1.25rem - 12px);
-  stroke: #ececf1;
+  stroke: #f4f4f8;
   transition-delay: .25s;
 }
 button svg:nth-of-type(2) {
@@ -79,79 +83,19 @@ button svg:nth-of-type(2) {
 
 img {
   position: relative;
-  top: 2rem;
-  width: 10em;
+  top: 0rem;
   height: auto;
-  border: 5px solid #fff;
-  border-radius: 10em;
-  box-shadow: 0 0 2px 2px rgba(0,0,0,.2);
   transition: .25s .15s;
 }
 
-dl {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-areas:
-    "html-dd css-dd js-dd"
-    "html-dt css-dt js-dt"
-    ;
-  justify-items: center;
-  align-items: start;
-  width: 100%;
-  margin-top: -3rem;
-  margin-bottom: 0;
-  padding: 5rem 0 3rem;
-  text-align: center;
-  background: rgb(255,255,255);
-}
-
-dt {
-  margin-top: .25rem;
-  padding-top: .25rem;
-  border-top: 1px solid rgba(0,0,0,0.3);
-  font-weight: bold;
-}
-dt:nth-of-type(1) {
-  grid-area: html-dt;
-}
-dt:nth-of-type(2) {
-  grid-area: css-dt;
-  transform: translateY(1rem);
-}
-dt:nth-of-type(3) {
-  grid-area: js-dt;
-}
-
-dd {
-  margin: 0;
-  padding-left: .3rem;
-  transition: .25s .3s;
-}
-dd:nth-of-type(2){  
-  transform: translateY(1rem);
-}
-
-p { 
-  margin: 0;
-}
-
-article > p {
-  width: 100%;
-  margin-top: 0;
-  padding: 3rem 2rem;
-  border-radius: 0 0 1rem 1rem;
-  text-align: center;
-  background: rgba(255,255,255, 0.5);
-}
-
-/* expand content */
+/* expand content: oftwel wat er gebeurd als de afbeelding wordt vergroot */
 body.expand {
   font-size: 1.15em;
 }
 
 body.expand article {
-  width: 60vw;
-  max-width: 60vw;
+  width: 400px;
+  max-width: 300px;
 }
 
 body.expand button svg:first-of-type {
@@ -164,10 +108,6 @@ body.expand button svg:nth-of-type(2) {
   transition-delay: .25s;
 }
 
-body.expand dd {
-  font-size: 1.75em;
-}
-
 body.expand img {
-  width: 15em;
+  width: 29em;
 }
