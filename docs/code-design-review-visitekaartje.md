@@ -22,7 +22,7 @@ Hieronder staat een leidraad voor de review die je op het werk van een andere st
 Zorg ook dat je zelf feedback krijgt! 
 Schrijf altijd nette teksten en probeer een bron of voorbeeld bij te voegen als je een tip of verbetering hebt. 
 
-0. Zorg dat je issues van je _repository_ aan staan. En dat je je de meest recente versie naar je online _repository_ zijn _commit- en -pusht_.
+0. Zorg dat je issues van je _repository_ aan staan. En dat je je de meest recente versie naar je online _repository_ hebt gepusht.
 1. Test of de HTML goed is door een _HTML validator check_ te doen op de W3C website: https://validator.w3.org. Schrijf een issue als in de test problemen naar boven zijn gekomen.
 2. Check HTML uit de breakdown workshop. Wat hebben ze gedaan in de Breakdown schets taak? Feedback geven op de HTML elementen? 
 3. Check CSS uit de CSS workshop. Wat moesten studenten doen in de CSS workshop? Selectors en properties uitleggen in comments. Klopt de uitleg? 
