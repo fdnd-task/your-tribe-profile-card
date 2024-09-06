@@ -1,59 +1,74 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FDND Visitekaartje</title>
-    <link rel="stylesheet" href="styles/style.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="styles/style.css" />
+    <title>Halima's card</title>
   </head>
   <body>
-    
-    <article>
-      
-      <header>
-        
-        <h1>Jane Doe</h1>
-        
-        <p><em>Creatieve Frontend Developer in spé</em></p>
-        
-        <button>
-          <svg width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
-            <title>Wijzig layout</title>
-            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M4 8v-2a2 2 0 0 1 2 -2h2"></path>
-            <path d="M4 16v2a2 2 0 0 0 2 2h2"></path>
-            <path d="M16 4h2a2 2 0 0 1 2 2v2"></path>
-            <path d="M16 20h2a2 2 0 0 0 2 -2v-2"></path>
-          </svg>
-          <svg width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="red" fill="none" stroke-linecap="round" stroke-linejoin="round">
-            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M15 19v-2a2 2 0 0 1 2 -2h2"></path>
-            <path d="M15 5v2a2 2 0 0 0 2 2h2"></path>
-            <path d="M5 15h2a2 2 0 0 1 2 2v2"></path>
-            <path d="M5 9h2a2 2 0 0 0 2 -2v-2"></path>
-          </svg>
-        </button>
-        
-      </header>
-  
-      <img src="assets/creative-coder.png" alt="" width="800" height="800">
-
-      <dl>
-        <dt>HTML</dt>
-        <dd>🏆🏆🏆</dd>
-        
-        <dt>CSS</dt>
-        <dd>🏆🏆</dd>
-        
-        <dt>JavaScript</dt>
-        <dd>🏆🏆🏆🏆</dd>
-      </dl>
-  
-      <p>Het WEB is te gek! <br> Met HTML, CSS en JS kan ik vette, interactieve web apps maken.</p>
-      
-    </article>
-
-    <script src="scripts/script.js"></script>
-    
+     <!-- H2 for intro -->
+    <h2 id="title">Hello, I'm Halima!</h2>
+    <!-- Start card contrainer-->
+    <section class="card-container">
+      <!-- Card one -->
+      <div id="card-one" class="card">
+        <img onclick="expand()" src="assets/cat.png" />
+      </div>
+      <!-- Card Two behind card one when not triggered-->
+      <section id="card-two" class="card">
+        <!-- H3 for skills section-->
+        <h3 id="skills-title">Technical Skills</h3>
+        <!-- Start Skills Section -->
+        <section>
+        <span>
+          <ul class="skills-list">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Javascript & Typescript</li>
+            <li>SQL</li>
+          </ul>
+        </span>
+        </section>
+          <!-- H3 for Hobbies & Intrerests Section -->
+          <h3 class="hobbies-title">Hobbies & Interests</h3>
+          <!-- Start Hobbies & Intrerests Section -->
+        <section class="hobbies-info">
+          <div class="hobbies-item">
+            <span class="material-icons" id="icon-size">palette</span>
+            <span>Digital art</span>
+          </div>
+          <div class="hobbies-item">
+            <span class="material-icons" id="icon-size">movie</span>
+            <span>Movies</span>
+          </div>
+          <div class="hobbies-item">
+            <span class="material-icons" id="icon-size">book</span>
+            <span>Reading</span>
+          </div>
+        </section>
+        <span>
+          <!-- H3 for contact me section-->
+          <h3 id="contact-title">Contact Me!</h3>
+          <!-- Start Contact Me Section -->
+          <section class="contact-info">
+            <div class="contact-item">
+              <span class="material-icons" id="icon-size">location_on</span>
+              <span>Amsterdam, Noord-Holland</span>
+            </div>
+            <div class="contact-item">
+              <span class="material-icons" id="icon-size">email</span>
+              <span>dinleh@hva.com</span>
+            </div>
+            <div class="contact-item">
+              <span class="material-icons" id="icon-size">link</span>
+              <span>>GitHub</a></span>
+            </div>
+          </section>
+        </span>
+      </section>
+    </section>
   </body>
+  <script src="style.js"> </script>
 </html>
