@@ -25,6 +25,10 @@ Hieronder staat een leidraad voor de review die je op het werk van een andere st
 Zorg ook dat je zelf feedback krijgt! 
 Schrijf altijd nette teksten in een issue en probeer een bron of voorbeeld bij te voegen als je een tip of verbeterpunt hebt. 
 
+Doe minimaal 3 keer een Code/Design review bij.
+Doe de review in tweetallen of drietallen en bespreek alles wat je tegenkomt.
+
+
 0. Zorg dat je issues van je _repository_ aan staan. En dat je je de meest recente versie naar je online _repository_ hebt gepusht.
 1. Test of de HTML goed is door een _HTML validator check_ te doen op de W3C website: https://validator.w3.org. Schrijf een issue als er in de test problemen naar voren zijn gekomen.
 2. Bekijk alle HTML. Let met name op de _[Content sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#content_sectioning)_, zijn de juiste elementen gebruikt voor de content van de pagina zoals een`<main>`, `<header>`, `<footer>`, `<h1>`-`<h6>`? 
