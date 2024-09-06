@@ -1,6 +1,8 @@
-const expandButton = document.querySelector('header button')
-expandButton.addEventListener('click', expand)
+document.addEventListener('DOMContentLoaded', () => {
+  const toggleButton = document.querySelector('.card__social-toggle');
+  const cardSocial = document.querySelector('.card__social');
 
-function expand () {
-  document.body.classList.toggle('expand')
-}
+  toggleButton.addEventListener('click', () => {
+    cardSocial.classList.toggle('animation');
+  });
+});

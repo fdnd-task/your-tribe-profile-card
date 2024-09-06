@@ -1,80 +1,50 @@
 <!DOCTYPE html>
 <html lang="nl">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FDND Visitekaartje</title>
-    <link rel="stylesheet" href="styles/style.css">
-  </head>
-  <body>
-    
-    <article>
-      
-      <header>
-        
+<head>
+  <meta charset="UTF-8">
+   <!-- Include Remix Icon CDN -->
+   <link href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FDND Visitekaartje</title>
+  <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="profile-card">
+      <img src="assets/profile-card-main.jpg" alt="Profile Picture" width="100" height="100">
+      <div class="top-right-corner">
         <h1>Yamen Alsharabi</h1>
-        
         <p><em>Creatieve Frontend Developer</em></p>
-        
-        <button>
-          <svg width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
-            <title>Wijzig layout</title>
-            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M4 8v-2a2 2 0 0 1 2 -2h2"></path>
-            <path d="M4 16v2a2 2 0 0 0 2 2h2"></path>
-            <path d="M16 4h2a2 2 0 0 1 2 2v2"></path>
-            <path d="M16 20h2a2 2 0 0 0 2 -2v-2"></path>
-          </svg>
-          <svg width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="red" fill="none" stroke-linecap="round" stroke-linejoin="round">
-            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-            <path d="M15 19v-2a2 2 0 0 1 2 -2h2"></path>
-            <path d="M15 5v2a2 2 0 0 0 2 2h2"></path>
-            <path d="M5 15h2a2 2 0 0 1 2 2v2"></path>
-            <path d="M5 9h2a2 2 0 0 0 2 -2v-2"></path>
-          </svg>
-        </button>
-        
-      </header>
-  
-      <img src="assets/profile-card-main.jpg" alt="" width="800" height="800">
-
-      <dl>
+      </div>
+    </div>
+    <div class="profile-content">
+      <dl class="experience-box">
         <dt>HTML</dt>
         <dd>🏆🏆🏆</dd>
-        
         <dt>CSS</dt>
         <dd>🏆🏆🏆</dd>
-        
         <dt>JavaScript</dt>
         <dd>🏆🏆</dd>
-        <div class="social-media-icons">
-          <a href="https://www.facebook.com/yourprofile" target="_blank">
-            <img src="assets/facebook-logo.png" alt="Facebook"></a>
-        
-            
-          </div>
-    
-          <div class="social-media-icons">
-            <a href="https://www.instagram.com/yourprofile" target="_blank">
-              <img src="assets/sm_5b37de3263964 - Copy.jpg" alt="instagram"></a>
+      </dl>
+      <p class="description-box"><em>De Kracht van Code</em>
+        <br>
+        Met HTML, CSS en JavaScript maak ik webapps die zowel functioneel als visueel indrukwekkend zijn.<br>
+        Eenvoudig, snel, en altijd met de gebruiker in gedachten.
+      </p>
+    </div>
+    <div class="card__social" id="card-social">
+      <div class="card__social-toggle">
+        <i class="ri-add-line"></i>
+      </div>
+      <span class="card__social-text"> My social networks </span>
+      <ul class="card__social-list">
+        <li><a href="https://www.facebook.com/" target="_blank"><i class="ri-facebook-line"></i></a></li>
+        <li><a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a></li>
+        <li><a href="https://twitter.com/" target="_blank"><i class="ri-twitter-line"></i></a></li>
+      </ul>
+    </div>
+  </div>
 
-            </div>
-            <div class="social-media-icons">
-              <a href="https://www.x.com/yourprofile" target="_blank">
-                <img src="assets/x-social-media-black-icon - Copy.png" alt="X"></a> 
-              </div>
-        
-        </dl>
-        
-        
-  
-      <p> De Kracht van Code <br> 
-
-       Met HTML, CSS en JavaScript maak ik webapps die zowel functioneel als visueel indrukwekkend zijn. Eenvoudig, snel, en altijd met de gebruiker in gedachten. Laat mijn werk je inspireren!</p>
-      
-    </article>
-
-    <script src="scripts/script.js"></script>
-    
-  </body>
+  <script src="scripts/script.js"></script>
+</body>
 </html>
