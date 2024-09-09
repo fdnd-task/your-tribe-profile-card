@@ -12,9 +12,7 @@ Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je indivi
 
 ### Briefing
 
-Elke frontender bij FDND stelt zichzelf binnen de tribe voor door middel van een visitekaartje. 
-
-Maak een visitekaartje op basis van [dit voorbeeld](https://fdnd-task.github.io/your-tribe-profile-card/) en publiceer dat via Github pages.
+Elke frontender bij FDND stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Maak een visitekaartje op basis van [dit voorbeeld](https://fdnd-task.github.io/your-tribe-profile-card/) en publiceer dat via Github pages.
 
 
 ### Doel van deze opdracht

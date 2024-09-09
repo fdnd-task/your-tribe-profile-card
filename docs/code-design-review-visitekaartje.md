@@ -24,8 +24,7 @@ Hieronder staat een leidraad voor de review die je op het werk van een andere st
 Zorg ook dat je zelf feedback krijgt! 
 Schrijf altijd nette teksten in een issue en probeer een bron of voorbeeld bij te voegen als je een tip of verbeterpunt hebt. 
 
-Doe minimaal 3 keer een Code/Design review bij.
-Doe de review in tweetallen of drietallen en bespreek alles wat je tegenkomt.
+Doe de review in tweetallen of drietallen en bespreek alles wat je tegenkomt. Doe minimaal 3 keer een Code/Design review voor andere studenten uit je squad.
 
 
 0. Zorg dat je issues van je _repository_ aan staan. En dat je je de meest recente versie naar je online _repository_ hebt gepusht.
