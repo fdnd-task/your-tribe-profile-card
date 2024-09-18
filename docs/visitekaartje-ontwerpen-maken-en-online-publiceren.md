@@ -10,12 +10,13 @@ De eerste dag gaan we meteen aan de slag! Je gaat een eerse versie van je eigen 
 
 ### Aanpak
 
-Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren-30min), [ontwerpen](#ontwerpen-45min), [bouwen](#bouwen-45min), [integreren](#integreren-15min) en [testen](#testen-30min).
+Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op GitHub te publiceren.
 
 <img width="930" alt="image" src="https://github.com/user-attachments/assets/1a4ecffb-5695-473a-9670-1ad15d8a8ddb">
 
 
-Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op GitHub te publiceren.
+
 
 ### Analyseren (30min)
 
@@ -27,7 +28,7 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per fase gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekeningen. (Wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig?)
 
-### Ontwerpen (60min)
+### Ontwerpen (45min)
 
 Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
 
@@ -44,7 +45,7 @@ Dit is een belangrijk moment in het project.
   
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
 
-### Bouwen (60min)
+### Bouwen (45min)
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
@@ -211,7 +212,7 @@ Als je je code hebt geüpdatet naar je online _repository_ kun je je website pub
 - [Creating a GitHub pages site @ GitHub](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With GitHub Pages](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
-### Testen (15min)
+### Testen (30min)
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever, om te bespreken of de opdracht goed is.
 
@@ -221,11 +222,15 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 #### 1. URL toevoegen aan de repository
 
-1. Ga naar de settings van de _About_ op de eerste pagina van je online _repository_
-<img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/6d2fb2a5-3472-43d0-a49b-432eeec43eab.png">
+1. Voeg de url van je visitekaartje toe aan de About op de eerste pagina van je online _repository_. Edit de About sectipn door op het tandwiel te klikken. 
+
+![image](https://github.com/user-attachments/assets/105cb42a-ff29-43ac-a7ce-09579618ef71)
+
 
 2. Voeg de URL van je visitekaartje toe en klik op _Save_
-<img width="498" alt="image" src="https://github.com/fdnd-task/your-tribe-profile-card/assets/1391509/756ada8e-a78c-4ffd-8d7d-28a22bd9d779.png">
+
+![image](https://github.com/user-attachments/assets/8906e71d-53f2-43f1-95d7-114d5dc04550)
+
 
 3. Post de url van je visitekaartje in Teams in het kanaal 'Sprint 01 - Your Yribe'
 
