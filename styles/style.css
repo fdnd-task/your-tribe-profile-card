@@ -94,7 +94,7 @@ body {
   display: none; /* Initially hidden */
   flex-direction: row; /* Make the icons appear next to each other */
   align-items: center;
-  gap: 1rem; /* Add space between the icons */
+  gap: 3rem; /* Add space between the icons */
 }
 
 .card__social.animation .card__social-list {
