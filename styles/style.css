@@ -91,6 +91,7 @@ body {
 }
 
 .card__social-list {
+  list-style-type: none; /* Remove bullet points */
   display: none; /* Initially hidden */
   flex-direction: row; /* Make the icons appear next to each other */
   align-items: center;
@@ -110,6 +111,16 @@ body {
   display: inline-flex;
   justify-content: center;
   align-items: center;
+}
+
+.social-icon {
+  width: 30px; /* Adjust icon size */
+  height: 30px;
+  transition: transform 0.3s ease;
+}
+
+.social-icon:hover {
+  transform: scale(1.2); /* Scale icon on hover */
 }
 
 /* Media query for smaller screens to prevent overlap */
