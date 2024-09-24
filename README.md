@@ -6,4 +6,4 @@ De instructie van deze leertaak vind je in de [INSTRUCTIONS](https://github.com/
 
 ## Licentie
 
-This project is licensed under the terms of the [MIT license](./LICENSE)..
+This project is licensed under the terms of the [MIT license](./LICENSE).
