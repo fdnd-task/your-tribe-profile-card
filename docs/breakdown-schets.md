@@ -17,7 +17,7 @@ Door blokken in de schets te tekenen voor de HTML, de CSS properties te annotere
 Je gaat een breakdown schets maken van het ontwerp dat je maandag hebt bedacht. Dit is het uitgangspunt van een (nieuwe) ontwerp dat je gaat maken!
 
 1. Teken de schets van maandag netjes na met een zwarte pen.
-2. Teken met een rode pen om alle "content" onderdelen een vierkant blok en schrijf het HTML element erbij. Als je niet weet welk element je nodig hebt kun je dit gaan onderzoeken, kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) vragen aan je tafel of vragen aan een docent. 
+2. Teken met een rode pen om alle "content" onderdelen een vierkant blok en schrijf het HTML element erbij. Als je niet weet welk element je nodig hebt kun je dit gaan onderzoeken, kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), vraag aan je tafel of aan een docent. 
 
 _HTML elementen zijn allemaal vierkant in de browser. Als je html elementen alleen een border kleur geeft dat kun je dit zien:_
 <img width="613" alt="image" src="https://github.com/user-attachments/assets/244151fd-c337-4c02-8c2f-3863a83a5259">
