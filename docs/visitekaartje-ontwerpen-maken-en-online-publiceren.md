@@ -53,7 +53,7 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
 
 Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in GitHub en kopieert de _repository_ naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie.
 
-De code schrijf je in een _code-editor_ zoals Visual Studio Code. Alle code van je project zet je op GitHub, zodat docenten en studiegenoten kunnen zien wat je hebt gedaan. 
+De code schrijf je in een _code-editor_ zoals VSCodium. Alle code van je project zet je op GitHub, zodat docenten en studiegenoten kunnen zien wat je hebt gedaan. 
 
 #### 0. Inrichten computer
 
@@ -61,7 +61,7 @@ Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer
 
 1. Maak een GitHub account aan op https://github.com
 2. Download en installeer de GitHub Desktop App op https://github.com/apps/desktop
-3. Installeer een code-editor. Misschien heb je al een code-editor van een vooropleiding, gebruik die dan. Als je nog geen code-editor hebt raden we  [Visual Studio Code](https://code.visualstudio.com) aan.
+3. Installeer een code-editor. Misschien heb je al een code-editor van een vooropleiding, gebruik die dan. Als je nog geen code-editor hebt raden we [VSCodium](https://vscodium.com/) aan.
 
 
 
@@ -92,7 +92,7 @@ Open de repository met de GitHub Desktop app.
 
   - [GitHub](https://github.com)
   - [GitHub Desktop](https://desktop.github.com)
-  - [Visual Studio Code](https://code.visualstudio.com)
+  - [VSCodium](https://vscodium.com/)
  
 #### 2. HTML
   
