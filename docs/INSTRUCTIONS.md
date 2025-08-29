@@ -34,15 +34,15 @@ Deze leertaak wordt behandeld in de eerste week van sprint 1 met verschillende w
 
 
 
-
-
 ## Definition of Done
 
 Deze opdracht is done als:
 
-- [ ] Je visitekaartje staat op GitHub en heeft een live url
-- [ ] Je hebt gewerkt volgens de verschillende fases van de development-lifecycle
-- [ ] Je hebt verschillende schetsen gemaakt en feedback gekregen in Github Issues
-- [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS, je hebt code uitgelegd en feedback gekregen in Github Issues
+Je hebt je website samen ontworpen en gemaakt en de website is online gepubliceerd
 
+- [ ] Je visitekaartje staat op GitHub en heeft een live url
+- [ ] Je hebt itertief gewerkt
+- [ ] Je hebt een breakdwon-schets en hierop feedback gekregen in Github Issues
+- [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS en je hebt je code uitgelegd
+- [ ] Je hebt een code/design review gedaan en feedback gekregen in Github Issues
 
