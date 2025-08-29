@@ -41,8 +41,8 @@ Deze opdracht is done als:
 Je hebt je website samen ontworpen en gemaakt en de website is online gepubliceerd
 
 - [ ] Je visitekaartje staat op GitHub en heeft een live url
-- [ ] Je hebt itertief gewerkt
-- [ ] Je hebt een breakdwon-schets en hierop feedback gekregen in Github Issues
+- [ ] Je hebt iteratief gewerkt
+- [ ] Je hebt een breakdown-schets en hierop feedback gekregen in Github Issues
 - [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS en je hebt je code uitgelegd
 - [ ] Je hebt een code/design review gedaan en feedback gekregen in Github Issues
 
