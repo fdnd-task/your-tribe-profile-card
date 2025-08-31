@@ -31,7 +31,9 @@ _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 4. Maak een issue aan bij je leertaak, geef het bijvoorbeeld de titel “Nieuwe HTML voor nieuw ontwerp” en voeg een foto van je breakdown schets toe. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback op GitHub.
 5. Begin met coderen van je nieuwe ontwerp. Gooi de bestaande HTML in de `<body>` weg en gebruik je breakdown schets als uitgangspunt om nieuwe HTML te schrijven.
 
+💡 Met HTML _structureer_ je je pagina, dus het klopt dat het er nog niet “mooi” uit ziet. Bij FDND leren we je _gelaagd bouwen_, volgens het principe van _Progressive Enhancement_.
 
+De volgende laag is _stijl_, CSS, waar je gisteren een korte introductie in hebt gehad. Probeer vandaag zelfstandig verder te gaan met de bronnen van [gisteren](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/css-basics-properties-en-selectors.md) en vandaag, om je HTML met CSS te _stylen_. Geen probleem als nog niet alles wat je bedacht hebt ook echt lukt. We gaan hier de komende weken nog genoeg mee aan de slag.
 
 ### Bronnen
 
