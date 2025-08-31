@@ -87,7 +87,7 @@ Open de repository met de GitHub Desktop app.
 
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/b30e0d73-e1dc-4823-9b2c-926af89f118c">
 
-4. Kies een goede locatie waar je de repository heen wil kopieren. Dit is ook de plek waar je met de code gaat werken. 
+4. Kies een goede locatie op je laptop waar je de repository heen wil kopieren. Dit is ook de plek waar je met de code gaat werken. Het is aan te raden een folder aan te maken in 'documenten' waar de repo's bewaart. Geef de folder bijvoorbeeld de naam 'FDND', hier kun je alle repo's bewaren waar je aan gaat werken tijdens de opleiding.  
 
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/c38c1e2a-4aea-412c-b98d-6fca41d5b0d0">
 
