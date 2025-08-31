@@ -1,6 +1,9 @@
-const expandButton = document.querySelector('header button')
-expandButton.addEventListener('click', expand)
+/* Stap 1: Selecteer de knop */
+let expandButton = document.querySelector('.profile-card-example-button')
 
-function expand () {
-  document.body.classList.toggle('expand')
-}
+/* Stap 2: Wacht tot iemand op die knop klikt */
+expandButton?.addEventListener('click', function() {
+
+  /* Stap 3: Verander een class zodra iemand op die knop klikt */
+  document.body.classList.toggle('is-expanded')
+})

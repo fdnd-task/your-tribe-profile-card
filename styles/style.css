@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 
-html {
+html:has(.profile-card-example) {
   height: 100vh;
 }
 
-body {
+body:has(.profile-card-example) {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,7 +15,7 @@ body {
   color: #10214e;
 }
 
-article {
+article.profile-card-example {
   position: relative;
   display: flex;
   flex-direction: column;
@@ -31,20 +31,22 @@ article {
   transition: .25s;
 }
 
-header {
+header.profile-card-example-header {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   justify-content: flex-end;
+
+  /* Je kunt selectors nesten! */
+  h1 {
+    margin: 2rem 0 1rem;
+    color: rgba(0,239,255,1);
+  }
+
 }
 
-h1 {
-  margin: 2rem 0 1rem;
-  color: rgba(0,239,255,1);
-}
-
-button {
+button.profile-card-example-button {
   position: absolute;
   right: 1rem;
   top: 1rem;
@@ -57,27 +59,26 @@ button {
   transform: scale(.8);
   transition: .25s;
 }
-button:focus {
+button.profile-card-example-button:focus {
   outline: none;
   background: #202592;
 }
-button:focus svg {
-  stroke: rgba(0,239,255,1);
-}
-
-svg {
+button.profile-card-example-button svg {
   position: absolute;
   top: calc(1.25rem - 12px);
   left: calc(1.25rem - 12px);
   stroke: #4e54c8;
   transition-delay: .25s;
 }
-button svg:nth-of-type(2) {
+button.profile-card-example-button:focus svg {
+  stroke: rgba(0,239,255,1);
+}
+button.profile-card-example-button svg:nth-of-type(2) {
   opacity: 0;
   transition-delay: 0ms;
 }
 
-img {
+.profile-card-example-img {
   position: relative;
   top: 2rem;
   width: 10em;
@@ -88,7 +89,7 @@ img {
   transition: .25s .15s;
 }
 
-dl {
+.profile-card-example-dl {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
@@ -103,39 +104,40 @@ dl {
   padding: 5rem 0 3rem;
   text-align: center;
   background: rgb(255,255,255);
+
+  dt {
+    margin-top: .25rem;
+    padding-top: .25rem;
+    border-top: 1px solid rgba(0,0,0,0.3);
+    font-weight: bold;
+    &:nth-of-type(1) {
+      grid-area: html-dt;
+    }
+    &:nth-of-type(2) {
+      grid-area: css-dt;
+      transform: translateY(1rem);
+    }
+    &:nth-of-type(3) {
+      grid-area: js-dt;
+    }
+  }
+
+  dd {
+    margin: 0;
+    padding-left: .3rem;
+    transition: .25s .3s;
+    &:nth-of-type(2) {
+      transform: translateY(1rem);
+    }
+  }
 }
 
-dt {
-  margin-top: .25rem;
-  padding-top: .25rem;
-  border-top: 1px solid rgba(0,0,0,0.3);
-  font-weight: bold;
-}
-dt:nth-of-type(1) {
-  grid-area: html-dt;
-}
-dt:nth-of-type(2) {
-  grid-area: css-dt;
-  transform: translateY(1rem);
-}
-dt:nth-of-type(3) {
-  grid-area: js-dt;
-}
 
-dd {
+.profile-card-example p {
   margin: 0;
-  padding-left: .3rem;
-  transition: .25s .3s;
-}
-dd:nth-of-type(2){  
-  transform: translateY(1rem);
 }
 
-p { 
-  margin: 0;
-}
-
-article > p {
+.profile-card-example > p {
   width: 100%;
   margin-top: 0;
   padding: 3rem 2rem;
@@ -144,30 +146,30 @@ article > p {
   background: rgba(255,255,255, 0.5);
 }
 
-/* expand content */
-body.expand {
+/* Deze styles zijn van toepassing als je op de knop klikt */
+body.is-expanded {
   font-size: 1.15em;
 }
 
-body.expand article {
+body.is-expanded .profile-card-example {
   width: 60vw;
   max-width: 60vw;
 }
 
-body.expand button svg:first-of-type {
+body.is-expanded .profile-card-example-button svg:first-of-type {
   opacity: 0;
   transition-delay: 0ms;
 }
 
-body.expand button svg:nth-of-type(2) {
+body.is-expanded .profile-card-example-button svg:nth-of-type(2) {
   opacity: 1;
   transition-delay: .25s;
 }
 
-body.expand dd {
+body.is-expanded .profile-card-example-dl dd {
   font-size: 1.75em;
 }
 
-body.expand img {
+body.is-expanded .profile-card-example-img {
   width: 15em;
 }
