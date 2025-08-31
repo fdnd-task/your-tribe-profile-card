@@ -77,7 +77,11 @@ Al deze opdrachten kunnen ook via [een script](https://github.com/fdnd-task/your
  - [Verander een stukje tekst](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#examples) als je op een knop klikt.
  - [Speel een geluidje af](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play) als je op een knop klikt. Combineer dit bijvoorbeeld met [een `<audio>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio).
 2. Maak een issue aan bij je leertaak, bedenk een goede titel voor je interactie, en beschrijf deze kort. Voeg ook een breakdown schets toe.
-3. Vraag feedback op je issue en je breakdown schets.
+3. Vraag feedback op je issue en je breakdown schets. Misschien krijg je wel tips of extra bronnen over hoe je jouw probleem aan kunt pakken.
+
+💪 Als je wilt, kun je je interactie ook bouwen. Maak je ook hierbij niet te druk over of het lukt, maar zie elke stap als een verbetering. Vergeet niet je werk via GitHub [te integreren](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#integreren-15-min) en [te testen](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#testen-30-min) als het live staat.
+
+💡 Hiermee heb je weer een _iteratie_ op je werk gemaakt, en nog een keer de _development lifecycle_ gevolgd: je hebt een probleem _geanalyseerd_, je hebt een oplossing _ontworpen_, en misschien _gebouwd_ en uiteindelijk _geïntegreerd_ en _getest_. Op naar de volgende iteratie.
 
 ### Bronnen en materiaal
 
