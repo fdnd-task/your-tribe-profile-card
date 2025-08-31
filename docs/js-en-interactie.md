@@ -4,9 +4,9 @@
 
 _In de workshop S01W1-07-JS-en-Interactie wordt uitgelegd wat je moet doen._
 
-De afgelopen dagen hebben we ons ondergedompeld in HTML en CSS. Maar er is nog een belangrijke taal voor een frontender: JavaScript. Een programmeertaal die we als derde laag op het Web kunnen inzetten. Nadat we ons fundament in gestructureerde HTML hebben opgezet, en met CSS de browser een aantal hints hebben gegeven, kunnen we met JavaScript (JS) in veel gevallen nog extra functionaliteit en interactie toevoegen.
+De afgelopen dagen hebben we ons ondergedompeld in HTML en CSS. Maar er is nog een belangrijke taal voor een frontender: JavaScript. Een programmeertaal die we als derde laag op het Web kunnen inzetten. Nadat we ons fundament in gestructureerde HTML hebben opgezet, en met CSS de browser een aantal styling hints hebben gegeven, kunnen we met JavaScript (JS) in veel gevallen nog extra functionaliteit en interactie toevoegen.
 
-HTML, CSS en JS hebben alledrie andere regels, omdat het totaal verschillende talen zijn. Als je in HTML en CSS per ongeluk een tikfout maakt, negeert een browser die vaak, en gaat die gewoon door met de rest van de pagina. In JS gaat het bij een tikfout iets sneller mis. Zodra de browser een fout in JS tegenkomt, wordt de rest niet meer uitgevoerd.
+💡 HTML, CSS en JS hebben alledrie andere regels, omdat het totaal verschillende talen zijn. Als je in HTML en CSS per ongeluk een tikfout maakt, negeert een browser die vaak. De browser gaat gewoon door met de rest van de pagina. In JS gaat het bij een tikfout iets sneller mis. Zodra de browser een fout in JS tegenkomt, wordt de rest niet meer uitgevoerd.
 
 ### Aanpak
 
@@ -36,11 +36,11 @@ Gaaf, misschien wel je eerste stukje JavaScript ooit!
 
 Blijkbaar doet JavaScript verschillende dingen met getallen (_Numbers_) en tekst (_Strings_). Voor nu niet heel relevant, maar dit is één van de regels binnen JavaScript.
 
-5. Wat gebeurt er als we per ongeluk—of expres—iets verkeerd doen? Wat als we `vijf + negen` uitvoeren? Of gewoon `bladiebloep`?
+5. Wat gebeurt er als we per ongeluk—of expres—iets verkeerd doen? Wat als we `vijf + negen` uitvoeren? Of gewoon `blabla`?
 
 <img width="389" alt="image" src="https://github.com/user-attachments/assets/dbe15c7b-afeb-438d-8f5f-491192c894f1">
 
-Dan krijgen we een foutmelding van JavaScript, omdat dit onbekende termen zijn. Dit gaat vast nog vaker gebeuren, en er is altijd een (soms frustrerende) verklaring voor. Voor nu gaan we door met leukere dingen.
+Dan krijgen we een foutmelding van JavaScript, omdat dit onbekende termen zijn. Dit gaat vast nog vaker gebeuren, en er is altijd een verklaring voor. Voor nu gaan we door met leukere dingen.
 
 6. Voer `document.body` uit in de Console.
 
@@ -68,11 +68,11 @@ Dit is dus een andere manier om een referentie naar ons `<body>` element te krij
 
 En refresh daarna de pagina :)
 
-Al deze opdrachten kunnen ook via [een script](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/scripts/script.js) uitgevoerd worden. De browser voert elke regel dan stap voor stap uit, als alles goed gaat. Via JavaScript en het Document Object Model kun je bijvoorbeeld elementen opzoeken, naar _events_ luisteren (zoals een _click_ event of een _keyboard_ event), _functies_ uitvoeren zodra zo'n event plaatsvindt, en eigenschappen van de DOM veranderen. Vaak doen we dat laatste door een `class` op een bepaald element [te veranderen](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/), zodat er door CSS andere styling toegepast kan worden. HTML, CSS en JS werken op deze manier dus hand in hand.
+Al deze opdrachten kunnen ook via [een script](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/scripts/script.js) uitgevoerd worden. De browser voert elke regel dan stap voor stap uit, als alles goed gaat. Via JavaScript en het Document Object Model kun je bijvoorbeeld elementen opzoeken, naar _events_ luisteren (zoals een _click_ event of een _keyboard_ event), _functies_ uitvoeren zodra zo'n event plaatsvindt, en eigenschappen van de DOM veranderen. Vaak doen we dat laatste door een `class` op een bepaald element te veranderen, zodat er door CSS andere styling toegepast kan worden. HTML, CSS en JS werken op deze manier dus hand in hand.
 
 ### Extra opdrachten
 
-1. Bespreek met je buur wat een haalbare, niet vereiste leuke extra interactie in je eigen visitekaartje zou kunnen zijn. Enkele ideeën:
+1. Bespreek met je buur wat een haalbare, leuke extra interactie in je eigen visitekaartje zou kunnen zijn. Enkele ideeën:
  - Verander de styling als je op een knop klikt, door een class op een element [aan te passen](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/); maak iets groter, opvallender, of laat je kaartje flippen.
  - [Verander een stukje tekst](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#examples) als je op een knop klikt.
  - [Speel een geluidje af](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play) als je op een knop klikt. Combineer dit bijvoorbeeld met [een `<audio>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio).
