@@ -53,6 +53,10 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 2. Breid daarna je CSS code uit met [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors), properties en values.
 3. Leg in je CSS code, met behulp van [comments](https://developer.mozilla.org/en-US/docs/Web/CSS/Comments), enkele selectors en properties die je net hebt toegepast uit. Link in je comments naar bronnen op MDN, waarin deze standaarden worden uitgelegd.
 
+Ga vanmiddag verder met het uitpluizen van verschillende selectors, properties en values binnen CSS. Pas de bestaande CSS aan naar je eigen voorkeuren, en vergeet niet je werk via GitHub [te integreren](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#integreren-15-min) en [te testen](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#testen-30-min) als het live staat.
+
+💡 Een website is nooit af, en je kunt altijd verbeteringen blijven doorvoeren. Dit _itereren_ op je werk is wat bij FDND centraal staat. _Commit_ en _push_ je werk regelmatig, en maak je niet te druk over of het “af genoeg” is. Elke verandering of verbetering die je maakt, en alles wat je leert, is waardevol.
+
 ### Bronnen & materiaal
 
 - CSS first steps: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
