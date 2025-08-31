@@ -181,10 +181,10 @@ _Commit_ en _Push_ je code met behulp van de GitHub Desktop app.
 
 1. Open de GitHub Desktop app.
 2. Browse op je computer naar de repository van deze opdracht, your-tribe-profile-card.
-3. Hier zie je alle wijzigingen die je hebt gemaakt [changes].
-4. Schrijf een titel waaraan je goed kan zien wat je hebt gewijzigd (dit is verplicht).
-5. Schrijf zo nodig ook een beschrijving waarin je kan uitleggen wat er is veranderd en waarom. Dit is vooral handig als je met meer mensen samenwerkt. 
-6. _Commit_ je code aan je lokale _repository_; klik op [Commit to main]
+3. Hier zie je alle wijzigingen die je hebt gemaakt (Changes).
+4. Schrijf een titel waaraan je goed kan zien wat je hebt gewijzigd (dit is vereist).
+5. Schrijf zo nodig ook een beschrijving waarin je uitlegt wat er is veranderd en waarom. Dit is vooral handig als je met meer mensen samenwerkt. 
+6. _Commit_ je code aan je lokale _repository_; klik op [Commit to main]. Tip: stap 3 t/m 6 kun je herhalen om _meerdere_ kleine commits te maken, elk voor een specifiek onderdeel.
 
 <img width="616" alt="image" src="https://user-images.githubusercontent.com/1391509/188333768-cc5cebd2-e5b8-4790-af68-437231661921.png">
   
@@ -246,8 +246,8 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 3. Laat jouw visitekaartje testen door klasgenoten
 4. Laat je klasgenoten issues met tips schrijven
-5. Als je nieuwe ideeeen hebt, of je ziet dat er iets andes kan tijdens de test, kan je zelf issues bij je eigen repository schrijven als todo-lijst
-6. Ga vanmiddag verder met het verbeteren van de issues. Dit is iteratief werken !!!
+5. Als je nieuwe ideeën hebt, of je ziet dat er iets anders kan tijdens de test, kan je zelf issues bij je eigen repository schrijven als todo-lijst
+6. Ga vanmiddag verder met het verbeteren van de issues. Dit is _iteratief werken_!
 
 
 
