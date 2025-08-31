@@ -2,7 +2,7 @@
 
 ## Breakdown schets (Woensdag)
 
-_In de workshop S01W1-06-Breakdown-schets wordt uitgelegd wat een breadkdown schets is en hoe je dat kan maken._
+_In de workshop S01W1-06-Breakdown-schets wordt uitgelegd wat een breakdown schets is en hoe je dat kan maken._
 
 
 Een breakdown schets is een wireframe met annotaties voor de HTML, CSS en/of JS. 
@@ -17,19 +17,19 @@ Door blokken in de schets te tekenen voor de HTML, de CSS properties te annotere
 Je gaat een breakdown schets maken van het ontwerp dat je maandag hebt bedacht. Dit is het uitgangspunt van een (nieuwe) ontwerp dat je gaat maken!
 
 1. Teken de schets van maandag netjes na met een zwarte pen.
-2. Teken met een rode pen om alle "content" onderdelen een vierkant blok en schrijf het HTML element erbij. Als je niet weet welk element je nodig hebt kun je dit gaan onderzoeken, kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), vraag aan je tafel of aan een docent. 
+2. Teken met een rode pen om alle “content” onderdelen een vierkant blok en schrijf het HTML element erbij. Als je niet weet welk element je nodig hebt, kun je dit gaan onderzoeken. Kijk bij de [HTML reference van MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), vraag aan je tafel of aan een docent. 
 
-_HTML elementen zijn allemaal vierkant in de browser. Als je html elementen alleen een border kleur geeft dat kun je dit zien:_
+_HTML elementen zijn allemaal vierkant in de browser. Als je HTML elementen alleen een border kleur geeft, dan kun je dit zien:_
 <img width="613" alt="image" src="https://github.com/user-attachments/assets/244151fd-c337-4c02-8c2f-3863a83a5259">
 
-3. Teken vervolgens een blok voor de containers en schrijf de HTMl elementen erbij.
+3. Teken vervolgens een blok voor de _containers_ en schrijf de HTML elementen erbij.
 
 _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/848281f7-e0cb-4c1c-9a41-f29193bc8935">
 
-4. Maak een issue aan bij je leertaak, geef het de titel "Nieuwe HTML voor nieuw ontwerp" en voeg een foto van je breakdown schets toe. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback.
-6. Begin met coderen van je nieuwe ontwerp. Gooi de HTML in de `<body>` weg en gebruik je breakdown schets als uitgangspunt om nieuwe HTML te schrijven. 
+4. Maak een issue aan bij je leertaak, geef het bijvoorbeeld de titel “Nieuwe HTML voor nieuw ontwerp” en voeg een foto van je breakdown schets toe. Een docent bespreekt de breakdown met je als je klaar bent en geeft feedback op GitHub.
+5. Begin met coderen van je nieuwe ontwerp. Gooi de bestaande HTML in de `<body>` weg en gebruik je breakdown schets als uitgangspunt om nieuwe HTML te schrijven.
 
 
 
