@@ -18,17 +18,19 @@ Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan t
 
 
 
-### Analyseren (30 min)
+## Analyseren (30 min)
 
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
 
-#### Aanpak analysefase
+### Aanpak analysefase
 
 1. Lees alle instructies van deze leertaak zorgvuldig door.
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per fase gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekeningen. (Wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig?)
 
-### Ontwerpen (60 min)
+
+
+## Ontwerpen (60 min)
 
 Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
 
@@ -37,7 +39,7 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien.
 Dit is een belangrijk moment in het project.
 (Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen.)
 
-#### Aanpak ontwerpfase
+### Aanpak ontwerpfase
 
 1. Schets jezelf in je boekje met daarbij woorden en/of elementen die iets over jou zeggen. Wat wil je over jezelf vertellen? Waar ben je geboren? Waar woon je nu? Wat is je lievelingseten? Heb je een bijbaan? Zit je op een sport? Heb je ambities? Waar wil je goed in worden? Wat zou een leraar van je vorige school over jou vertellen? En wat zeggen je vrienden?
 2. Stel jezelf voor aan je collega’s met behulp van je tekeningen. Bespreek samen welk idee geschikt is om uit te werken. 
@@ -45,17 +47,20 @@ Dit is een belangrijk moment in het project.
   
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
 
-### Bouwen (60 min)
+
+
+
+## Bouwen (60 min)
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
-#### Aanpak bouwfase
+### Aanpak bouwfase
 
 Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwen. Je zet je project op in GitHub en kopieert de _repository_ naar jouw computer. Je begint met de content in HTML, voegt CSS toe voor de vormgeving en JS voor de interactie.
 
 De code schrijf je in een _code-editor_ zoals VSCodium. Alle code van je project zet je op GitHub, zodat docenten en studiegenoten kunnen zien wat je hebt gedaan. 
 
-#### 0. Inrichten computer
+### 0. Inrichten computer
 
 Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer inrichten. Al je werk en code komt op Github te staan, daarom moet je eerst een Github account aanmaken, de Github Desktop app installeren en heb je een code-editor nodig. 
 
@@ -65,7 +70,7 @@ Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer
 
 
 
-#### 1. Forken en Downloaden van de leertaak
+### 1. Forken en Downloaden van de leertaak
 
 Zorg eerst dat je de leertaak naar je eigen account kopieert; dat is dan jouw _repository_ en daar ga je je eigen code in maken.
   
@@ -87,14 +92,13 @@ Open de repository met de GitHub Desktop app.
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/c38c1e2a-4aea-412c-b98d-6fca41d5b0d0">
 
 
-
 #### Materiaal Forken en Downloaden
 
   - [GitHub](https://github.com)
   - [GitHub Desktop](https://desktop.github.com)
   - [VSCodium](https://vscodium.com/)
  
-#### 2. HTML
+### 2. HTML
   
 HyperText Markup Language (HTML) is de taal waarin webpagina's zijn opgemaakt, die vervolgens bekeken kunnen worden op het World Wide Web. In het HTML document staat de inhoud van het ontwerp gestructureerd met HTML elementen. In het HTML document van het visitekaartje, ```index.html```, staat alle inhoud die je op de webpagina ziet. 
 
@@ -116,7 +120,7 @@ HyperText Markup Language (HTML) is de taal waarin webpagina's zijn opgemaakt, d
 - [Learn HTML @ web.dev](https://web.dev/learn/html/)
 - https://internetingishard.netlify.app
 
-#### 3. CSS
+### 3. CSS
   
 De vormgeving van een webpagina worden vastgelegd in Cascading Style Sheets (CSS), zoals de layout, achtergrondkleur, tekstkleur en grootte, randen, schaduwen, etc. De CSS staat in een los document en wordt aan de HTML pagina gekoppeld in het ```<head>``` element. je mag zelf weten hoe het CSS bestand heet. In ons voorbeeld heet het bestand ```style.css``` en staat het in de map ```styles```.
 
@@ -145,7 +149,7 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
 - [Learn CSS @ web.dev](https://web.dev/learn/css/)
 - [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
 
-#### 4. JS
+### 4. JS
   
 De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat in een los document en moet ook in het HTML document worden gekoppeld. Dat kan in de ```<head>``` maar ook onder aan in het HTML document. je mag zelf weten hoe het JS bestand heet. In ons voorbeeld heet het file ```script.js``` en staat het in de map ```scripts```.
 
@@ -167,15 +171,15 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 
 
 
-### Integreren (15 min)
+## Integreren (15 min)
 
 In de integratiefase voer je de aanpassingen door, zodat iedereen ze kan zien.
 
-#### Aanpak integreerfase
+### Aanpak integreerfase
 
 Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat GitHub weet wat de nieuwste versie is. Daarna ga je de code uploaden naar de online _repository_ op GitHub. Tot slot ga je je opdracht publiceren met behulp van GitHub Pages. Als je dat hebt gedaan, staat je website online en heb je een URL. Nu kunnen anderen je werk ook zien. 
 
-#### 1. Repository bijwerken
+### 1. Repository bijwerken
 
 _Commit_ en _Push_ je code met behulp van de GitHub Desktop app.
 
@@ -194,7 +198,7 @@ _Commit_ en _Push_ je code met behulp van de GitHub Desktop app.
 
 8. Als je je _repository_ hebt bijgewerkt, kun je op de GitHub website je wijzigingen zien van je online _repository_, als je op _commits_ klikt.
 
-#### 2. Online publiceren
+### 2. Online publiceren
 
 Als je je code hebt geüpdatet naar je online _repository_ kun je je website publiceren.
 
@@ -212,15 +216,15 @@ Als je je code hebt geüpdatet naar je online _repository_ kun je je website pub
 - [Creating a GitHub pages site @ GitHub](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With GitHub Pages](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
-### Testen (15 min)
+## Testen (15 min)
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever, om te bespreken of de opdracht goed is.
 
-#### Aanpak testfase
+### Aanpak testfase
 
 Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van je _repository_. Zo kunnen andere mensen ook makkelijk jouw visitekaartje bekijken.
 
-#### 1. URL toevoegen aan de repository
+### 1. URL toevoegen aan de repository
 
 1. Voeg de url van je visitekaartje toe aan de About op de eerste pagina van je online _repository_. Edit de About sectipn door op het tandwiel te klikken. 
 
@@ -234,7 +238,7 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 3. Post de url van je visitekaartje in Teams in het kanaal 'Sprint 01 - Your Yribe'
 
-#### 2. Testen en feedback krijgen 
+### 2. Testen en feedback krijgen 
 
 1. Feedback op je design of code verzamel je in Github door middel van _Issues_. Klasgenoten, docenten of anderen kunnen dan tips en opmerkingen schrijven die je later kan verbeteren
 
