@@ -10,7 +10,7 @@ De eerste dag gaan we meteen aan de slag! Je gaat een eerse versie van je eigen 
 
 ### Aanpak
 
-Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren-30min), [ontwerpen](#ontwerpen-45min), [bouwen](#bouwen-45min), [integreren](#integreren-15min) en [testen](#testen-30min).
+Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren-30-min), [ontwerpen](#ontwerpen-45-min), [bouwen](#bouwen-45-min), [integreren](#integreren-15-min) en [testen](#testen-30-min).
 Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op GitHub te publiceren.
 
 <img width="930" alt="image" src="https://github.com/user-attachments/assets/1a4ecffb-5695-473a-9670-1ad15d8a8ddb">
@@ -18,7 +18,7 @@ Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan t
 
 
 
-### Analyseren (30min)
+### Analyseren (30 min)
 
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
 
@@ -28,7 +28,7 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per fase gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekeningen. (Wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig?)
 
-### Ontwerpen (45min)
+### Ontwerpen (45 min)
 
 Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
 
@@ -45,7 +45,7 @@ Dit is een belangrijk moment in het project.
   
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
 
-### Bouwen (45min)
+### Bouwen (45 min)
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
@@ -167,7 +167,7 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 
 
 
-### Integreren (15min)
+### Integreren (15 min)
 
 In de integratiefase voer je de aanpassingen door, zodat iedereen ze kan zien.
 
@@ -212,7 +212,7 @@ Als je je code hebt geüpdatet naar je online _repository_ kun je je website pub
 - [Creating a GitHub pages site @ GitHub](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With GitHub Pages](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
-### Testen (30min)
+### Testen (30 min)
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever, om te bespreken of de opdracht goed is.
 
