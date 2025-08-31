@@ -7,12 +7,12 @@ Ontwerp en maak met HTML, CSS en JS een visitekaartje.
 
 ### Context
 
-Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een leertaak die je individueel uitvoert.
+Deze leertaak hoort bij Sprint 1 "Your Tribe". Dit is een leertaak die je individueel uitvoert.
 
 
 ### Briefing
 
-Elke frontender bij FDND stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Maak een visitekaartje op basis van [dit voorbeeld](https://fdnd-task.github.io/your-tribe-profile-card/) en publiceer dat via Github pages.
+Elke frontender bij FDND stelt zichzelf binnen de tribe voor door middel van een visitekaartje. Maak een visitekaartje op basis van [dit voorbeeld](https://fdnd-task.github.io/your-tribe-profile-card/) en publiceer dat via GitHub Pages.
 
 
 ### Doel van deze opdracht
@@ -23,7 +23,7 @@ Na het volgen van deze leertaak heb je zelf een visitekaartje ontworpen en gemaa
 
 ### Werkwijze
 
-Deze leertaak wordt behandeld in de eerste week van sprint 1 met verschillende workshops:
+Deze leertaak wordt behandeld in de eerste week van Sprint 1 met verschillende workshops:
 
 - [Visitekaartje ontwerpen, maken en online publiceren](visitekaartje-ontwerpen-maken-en-online-publiceren.md) - Maandag
 - [CSS Basics, Properties en selectors](css-basics-properties-en-selectors.md) - Dinsdag
@@ -42,7 +42,7 @@ Je hebt je website samen ontworpen en gemaakt en de website is online gepublicee
 
 - [ ] Je visitekaartje staat op GitHub en heeft een live url
 - [ ] Je hebt iteratief gewerkt
-- [ ] Je hebt een breakdown-schets en hierop feedback gekregen in Github Issues
+- [ ] Je hebt een breakdown-schets en hierop feedback gekregen in GitHub Issues
 - [ ] Je hebt het ontwerp gerealiseerd met HTML, CSS en/of JS en je hebt je code uitgelegd
-- [ ] Je hebt een code/design review gedaan en feedback gekregen in Github Issues
+- [ ] Je hebt een code/design review gedaan en feedback gekregen in GitHub Issues
 
