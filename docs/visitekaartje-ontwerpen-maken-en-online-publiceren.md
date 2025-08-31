@@ -61,7 +61,7 @@ Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer
 
 1. Maak een GitHub account aan op https://github.com
 2. Download en installeer de GitHub Desktop App op https://github.com/apps/desktop
-3. Installeer een code-editor. Misschien heb je al een code-editor van een vooropleiding, gebruik die dan. Als je nog geen code-editor hebt raden we [VSCodium](https://vscodium.com/) aan.
+3. Installeer een code-editor. Misschien heb je al een code-editor van een vooropleiding, gebruik die dan. Als je nog geen code-editor hebt raden we VSCodium aan: https://vscodium.com/
 
 
 
