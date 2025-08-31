@@ -44,7 +44,7 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 
 ### Samenwerkingsopdracht
 
-1. Schrijf met je tafel zoveel mogelijk voorbeelden van verschillende selectors op jullie whiteboard. Gebruik bronnen zoals MDN en vraag ook ChatGPT om hulp.
+1. Schrijf met je tafel zoveel mogelijk voorbeelden van verschillende selectors op jullie whiteboard. Gebruik bronnen zoals MDN en vraag ook ChatGPT om hulp. (Bij FDND vinden we het prima als je AI als sparring partner gebruikt, zolang je zelf blijft nadenken over de antwoorden, en code en teksten niet rechtstreeks gebruikt in je werk.)
 2. Als jullie denken ze allemaal te hebben, post dan een foto van jullie lijst op Teams.
 
 ### Zelf properties en selectors toepassen op je visitekaartje
@@ -59,5 +59,5 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 - Alles over CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 - CSS Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - CSS Comments: https://developer.mozilla.org/en-US/docs/Web/CSS/Comments
-- Wil je een browser die ontwikkelen nog makkelijker maakt? 🚀 Installeer dan https://polypane.app (gratis voor studenten)
+- Wil je een browser die ontwikkelen nog makkelijker maakt? 🚀 Installeer dan https://polypane.app (gratis voor studenten via [GitHub](https://polypane.app/github-students/))
 - Zin in een spelletje 🕹️ en oefenen met verschillende CSS Selectors? Probeer level 32 te halen op https://flukeout.github.io
