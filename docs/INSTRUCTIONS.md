@@ -38,8 +38,6 @@ Deze leertaak wordt behandeld in de eerste week van Sprint 1 met verschillende w
 
 Deze opdracht is done als:
 
-Je hebt je website samen ontworpen en gemaakt en de website is online gepubliceerd
-
 - [ ] Je visitekaartje staat op GitHub en heeft een live url
 - [ ] Je hebt iteratief gewerkt met behulp van de development-lifecycle
 - [ ] Je hebt een breakdown-schets gemaakt en hierop feedback gekregen in GitHub Issues
