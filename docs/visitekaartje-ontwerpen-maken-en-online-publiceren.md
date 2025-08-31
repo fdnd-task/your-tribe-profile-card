@@ -28,7 +28,7 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per fase gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekeningen. (Wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig?)
 
-### Ontwerpen (45 min)
+### Ontwerpen (60 min)
 
 Bij de start van de ontwerpfase weet je wat het doel en het resultaat van je project zijn. In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat je moet gaan bouwen.  
 
@@ -45,7 +45,7 @@ Dit is een belangrijk moment in het project.
   
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/1391509/132128256-8fde0aeb-d022-44bc-b666-563d6fb12f88.png">
 
-### Bouwen (45 min)
+### Bouwen (60 min)
 
 In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en JS.
 
@@ -212,7 +212,7 @@ Als je je code hebt geüpdatet naar je online _repository_ kun je je website pub
 - [Creating a GitHub pages site @ GitHub](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site)
 - [How To Publish Your HTML With GitHub Pages](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 
-### Testen (30 min)
+### Testen (15 min)
 
 In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Dit kan een technische test zijn, maar ook een test met gebruikers of een presentatie bij de opdrachtgever, om te bespreken of de opdracht goed is.
 
