@@ -44,7 +44,7 @@ Hierna krijg je de developer tools van je browser te zien. Die van Firefox zien 
 
 ### Samenwerkingsopdracht
 
-1. Schrijf met je tafel zoveel mogelijk voorbeelden van verschillende selectors op jullie whiteboard. Gebruik bronnen zoals MDN en vraag ook ChatGPT om hulp. (Bij FDND vinden we het prima als je “AI” als sparring partner gebruikt, zolang je zelf blijft nadenken over de antwoorden, en code en teksten niet rechtstreeks gebruikt in je werk. We zijn hier twee jaar om te leren, niet om zo snel mogelijk tot een antwoord te komen.)
+1. Schrijf met je tafel zoveel mogelijk voorbeelden van verschillende selectors op jullie whiteboard. Gebruik bronnen zoals MDN en vraag ook ChatGPT om hulp. (Bij FDND vinden we het prima als je “AI” als sparring partner gebruikt, zolang je zelf blijft nadenken over de antwoorden, en code en teksten niet rechtstreeks gebruikt in je werk. We zijn hier twee jaar om te leren, niet om zo snel mogelijk tot een antwoord te komen. [Meer info en uitleg hierover](https://docs.fdnd.nl/onderwijs.html#hoe-ai-niet-te-gebruiken) vind je op docs.)
 2. Als jullie denken ze allemaal te hebben, post dan een foto van jullie lijst in het Sprint 1 kanaal op Teams.
 
 ### Zelf properties en selectors toepassen op je visitekaartje
