@@ -77,7 +77,7 @@ Zorg eerst dat je de leertaak naar je eigen account kopieert; dat is dan jouw _r
 
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/ccb82a1f-344c-4fee-98c5-a83d08db818f">
 
-3.Download de code naar jouw computer. Nu gaan we de code downloaden naar jouw computer. 
+3. Download de code naar jouw computer. Nu gaan we de code downloaden naar jouw computer. 
 Open de repository met de GitHub Desktop app.
 
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/b30e0d73-e1dc-4823-9b2c-926af89f118c">
