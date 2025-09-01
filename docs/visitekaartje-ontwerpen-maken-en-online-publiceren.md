@@ -6,11 +6,11 @@ _In de workshop S01W1-02-Visitekaartje wordt stap voor stap uitgelegd wat je moe
 
 <!-- Uitleg opdracht, aanpak per fases van de DLC en bronnen. -->
 
-De eerste dag gaan we meteen aan de slag! Je gaat een eerse versie van je eigen visitekaartje ontwerpen en maken. Daarbij leer je hoe we bij FDND werken, hoe we opdrachten aanpakken met de development-lifecycle en hoe we Github gebruiken. 
+De eerste dag gaan we meteen aan de slag! Je gaat een eerse versie van je eigen visitekaartje ontwerpen en maken. Daarbij leer je hoe we bij FDND werken, hoe we opdrachten aanpakken met de development-lifecycle en hoe we GitHub gebruiken.
 
 ### Aanpak
 
-Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren-30-min), [ontwerpen](#ontwerpen-60-min), [bouwen](#bouwen-60-min), [integreren](#integreren-15-min) en [testen](#testen-30-min).
+Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren-30-min), [ontwerpen](#ontwerpen-60-min), [bouwen](#bouwen-60-min), [integreren](#integreren-15-min) en [testen](#testen-15-min).
 Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op GitHub te publiceren.
 
 <img width="930" alt="image" src="https://github.com/user-attachments/assets/1a4ecffb-5695-473a-9670-1ad15d8a8ddb">
@@ -62,7 +62,7 @@ De code schrijf je in een _code-editor_ zoals VSCodium. Alle code van je project
 
 ### 0. Inrichten computer
 
-Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer inrichten. Al je werk en code komt op Github te staan, daarom moet je eerst een Github account aanmaken, de Github Desktop app installeren en heb je een code-editor nodig. 
+Voordat je kan beginnen met het bouwen van het visitekaartje moet je je computer inrichten. Al je werk en code komt op GitHub te staan, daarom moet je eerst een GitHub account aanmaken, de GitHub Desktop app installeren en heb je een code-editor nodig.
 
 1. Maak een GitHub account aan op https://github.com
 2. Download en installeer de GitHub Desktop App op https://github.com/apps/desktop
@@ -240,7 +240,7 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 ### 2. Testen en feedback krijgen
 
-1. Feedback op je design of code verzamel je in Github door middel van _Issues_. Klasgenoten, docenten of anderen kunnen dan tips en opmerkingen schrijven die je later kan verbeteren
+1. Feedback op je design of code verzamel je in GitHub door middel van _Issues_. Klasgenoten, docenten of anderen kunnen dan tips en opmerkingen schrijven die je later kan verbeteren
 
 ![image](https://github.com/user-attachments/assets/dc9eac4d-10f4-4be3-97a2-eef2ca9969f8)
 
