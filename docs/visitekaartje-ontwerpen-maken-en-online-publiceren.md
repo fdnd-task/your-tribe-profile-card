@@ -236,7 +236,7 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 ![image](https://github.com/user-attachments/assets/8906e71d-53f2-43f1-95d7-114d5dc04550)
 
 
-3. Post de url van je visitekaartje in Teams in het kanaal 'Sprint 01 - Your Yribe'
+3. Post de url van je visitekaartje in Teams in het kanaal 'Sprint 01 - Your Tribe'
 
 ### 2. Testen en feedback krijgen
 
