@@ -10,7 +10,7 @@ De eerste dag gaan we meteen aan de slag! Je gaat een eerse versie van je eigen 
 
 ### Aanpak
 
-Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren-30-min), [ontwerpen](#ontwerpen-45-min), [bouwen](#bouwen-45-min), [integreren](#integreren-15-min) en [testen](#testen-30-min).
+Bij FDND gebruiken we voor de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. Scrum hanteert een projectcyclus die de development-lifecycle (DLC) wordt genoemd.  Voor deze opdracht doorloop je alle fases van de Development-Lifecycle; [analyseren](#analyseren-30-min), [ontwerpen](#ontwerpen-60-min), [bouwen](#bouwen-60-min), [integreren](#integreren-15-min) en [testen](#testen-30-min).
 Volg onderstaande fases om jouw visitekaartje gestructureerd te ontwerpen, aan te passen en op GitHub te publiceren.
 
 <img width="930" alt="image" src="https://github.com/user-attachments/assets/1a4ecffb-5695-473a-9670-1ad15d8a8ddb">
@@ -78,7 +78,7 @@ Zorg eerst dat je de leertaak naar je eigen account kopieert; dat is dan jouw _r
 
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/61b03b95-fa79-4637-98b9-4e67bf4e9bde">
 
-2. Klik op Create fork om de repository naar jouw account te kopieren. 
+2. Klik op Create fork om de repository naar jouw account te kopiëren. 
 
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/ccb82a1f-344c-4fee-98c5-a83d08db818f">
 
@@ -87,7 +87,7 @@ Open de repository met de GitHub Desktop app.
 
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/b30e0d73-e1dc-4823-9b2c-926af89f118c">
 
-4. Kies een goede locatie op je laptop waar je de repository heen wil kopieren. Dit is ook de plek waar je met de code gaat werken. Het is aan te raden een folder aan te maken in 'documenten' waar de repo's bewaart. Geef de folder bijvoorbeeld de naam 'FDND', hier kun je alle repo's bewaren waar je aan gaat werken tijdens de opleiding.  
+4. Kies een goede locatie op je laptop waar je de repository heen wilt kopiëren. Dit is ook de plek waar je met de code gaat werken. Het is aan te raden een folder aan te maken in 'Documenten', waar je de _repo's_ bewaart. Geef de folder bijvoorbeeld de naam 'FDND', hier kun je alle repo's bewaren waar je aan gaat werken tijdens de opleiding.
 
 <img width="751" alt="image" src="https://github.com/user-attachments/assets/c38c1e2a-4aea-412c-b98d-6fca41d5b0d0">
 
@@ -140,7 +140,7 @@ background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
 
   4. Op regel 15 staat ```color: #10214e```. Deze regel legt de normale tekstkleur van het bestand vast in hexadecimale notatie. Pas ook deze kleur aan naar jouw kleurenpalet.
   5. Zoek het bestand verder door en zet alle ```background``` en ```color``` declaraties naar jouw hand.
-  6. In het bestand wordt ook de stijl bepaald van twee SVG iconen. De eigenschap die hier voor de kleur gebruikt wordt, is ```stroke```. Als je het tof vindt kan je ook die kleuren aanpassen aan jouw kleurenpalet.
+  6. In het bestand wordt ook de stijl bepaald van twee SVG iconen. De eigenschap die hier voor de kleur gebruikt wordt, is ```stroke```. Als je het tof vindt, kan je ook die kleuren aanpassen aan jouw kleurenpalet.
 
 #### Materiaal CSS
 
@@ -160,7 +160,7 @@ De interactie op de pagina wordt bepaald door JavaScript (JS). De JS code staat 
 
   1. Kun je zien op welke regel in het HTML document het JS document wordt gekoppeld?
   2. Open het ```scripts/script.js``` bestand in een editor. 
-  3. Schrijf achter elke regel wat die doet.
+  3. Lees de regels code en het commentaar dat erbij is geschreven.
   4. Heb je zelf ook een interactie bedacht voor je visitekaartje? Hoe zou je dat kunnen maken?
 
 #### Materiaal JS
@@ -177,7 +177,7 @@ In de integratiefase voer je de aanpassingen door, zodat iedereen ze kan zien.
 
 ### Aanpak integreerfase
 
-Eerst voeg je de nieuwe code toe aan je lokale _repository_ zodat GitHub weet wat de nieuwste versie is. Daarna ga je de code uploaden naar de online _repository_ op GitHub. Tot slot ga je je opdracht publiceren met behulp van GitHub Pages. Als je dat hebt gedaan, staat je website online en heb je een URL. Nu kunnen anderen je werk ook zien. 
+Eerst voeg je de nieuwe code toe aan je lokale _repository_ (met een _Commit_). Daarna ga je de code uploaden naar de online _repository_ op GitHub (met een _Push_). Tot slot ga je je opdracht publiceren (_Live zetten_) met behulp van GitHub Pages. Als je dat hebt gedaan, staat je website online en heb je een URL. Nu kunnen anderen je werk ook zien.
 
 ### 1. Repository bijwerken
 
@@ -185,7 +185,7 @@ _Commit_ en _Push_ je code met behulp van de GitHub Desktop app.
 
 1. Open de GitHub Desktop app.
 2. Browse op je computer naar de repository van deze opdracht, your-tribe-profile-card.
-3. Hier zie je alle wijzigingen die je hebt gemaakt (Changes).
+3. Hier zie je alle wijzigingen die je hebt gemaakt (_Changes_).
 4. Schrijf een titel waaraan je goed kan zien wat je hebt gewijzigd (dit is vereist).
 5. Schrijf zo nodig ook een beschrijving waarin je uitlegt wat er is veranderd en waarom. Dit is vooral handig als je met meer mensen samenwerkt. 
 6. _Commit_ je code aan je lokale _repository_; klik op [Commit to main]. Tip: stap 3 t/m 6 kun je herhalen om _meerdere_ kleine commits te maken, elk voor een specifiek onderdeel.
@@ -238,7 +238,7 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 
 3. Post de url van je visitekaartje in Teams in het kanaal 'Sprint 01 - Your Yribe'
 
-### 2. Testen en feedback krijgen 
+### 2. Testen en feedback krijgen
 
 1. Feedback op je design of code verzamel je in Github door middel van _Issues_. Klasgenoten, docenten of anderen kunnen dan tips en opmerkingen schrijven die je later kan verbeteren
 
@@ -252,7 +252,3 @@ Het is handig als je de URL van jouw visitekaartje toevoegt aan de 'About' van j
 4. Laat je klasgenoten issues met tips schrijven
 5. Als je nieuwe ideeën hebt, of je ziet dat er iets anders kan tijdens de test, kan je zelf issues bij je eigen repository schrijven als todo-lijst
 6. Ga vanmiddag verder met het verbeteren van de issues. Dit is _iteratief werken_!
-
-
-
-
