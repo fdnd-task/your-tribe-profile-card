@@ -173,3 +173,8 @@ body.is-expanded .profile-card-example-dl dd {
 body.is-expanded .profile-card-example-img {
   width: 15em;
 }
+
+
+span {
+  text-decoration: line-through;
+}
