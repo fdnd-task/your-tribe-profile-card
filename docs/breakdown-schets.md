@@ -34,6 +34,8 @@ _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
    _Om iemand te taggen typ je `@` met de github handle:_
 <img width="838" height="317" alt="image" src="https://github.com/user-attachments/assets/c42d276b-8361-4c0c-87a1-237682d8bbe4" />
 
+_Github handles van jouw docenten:_
+
 | Squad 1i |       | Squad 1i      |       |
 | -------- | -------- | -------- | -------- |
 | Koop | @KoopReynders | Krijn | @KrijnHoetmer | 
