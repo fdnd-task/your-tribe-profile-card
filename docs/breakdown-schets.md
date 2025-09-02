@@ -31,7 +31,7 @@ _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 4. Maak een issue aan bij je leertaak, geef het bijvoorbeeld de titel “Nieuwe HTML voor nieuw ontwerp” en voeg een foto van je breakdown schets toe.
 5. Tag daarna in het issue een docent uit jouw squad, die kan dan feedback geven op GitHub.
 
-   Om iemand te taggen typje `@` met de _github handle_:
+   _Om iemand te taggen typ je `@` met de github handle:_
 <img width="838" height="317" alt="image" src="https://github.com/user-attachments/assets/c42d276b-8361-4c0c-87a1-237682d8bbe4" />
 
 | Squad 1i |       | Squad 1i      |       |
