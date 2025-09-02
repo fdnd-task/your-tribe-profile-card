@@ -29,11 +29,13 @@ _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 <img width="459" alt="image" src="https://github.com/user-attachments/assets/848281f7-e0cb-4c1c-9a41-f29193bc8935">
 
 4. Maak een issue aan bij je leertaak, geef het bijvoorbeeld de titel “Nieuwe HTML voor nieuw ontwerp” en voeg een foto van je breakdown schets toe.
-5. Tag daarna in het issue een docent uit jouw squad, die kan dan feedback geven op GitHub. Om te taggen typje `@` met de _github handle. 
+5. Tag daarna in het issue een docent uit jouw squad, die kan dan feedback geven op GitHub.
+
+   Om iemand te taggen typje `@` met de _github handle_:
 <img width="838" height="317" alt="image" src="https://github.com/user-attachments/assets/c42d276b-8361-4c0c-87a1-237682d8bbe4" />
 
-| Squad 1i      | Handle      | Squad 1i      | Handle      |
-| ------------- | ------------- | ------------- | ------------- |
+| Squad 1i |       | Squad 1i      |       |
+| -------- | -------- | -------- | -------- |
 | Koop | @KoopReynders | Krijn | @KrijnHoetmer | 
 | Joost | @joostf | Cyd | @cydstumpel |
 |   |  | Sanne  | @shooft |
