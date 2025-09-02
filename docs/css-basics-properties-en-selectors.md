@@ -63,5 +63,6 @@ Ga vanmiddag verder met het uitpluizen van verschillende selectors, properties e
 - Alles over CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
 - CSS Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 - CSS Comments: https://developer.mozilla.org/en-US/docs/Web/CSS/Comments
+- CSS Selectors: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors
 - Wil je een browser die ontwikkelen nog makkelijker maakt? 🚀 Installeer dan https://polypane.app (gratis voor studenten via [GitHub](https://polypane.app/github-students/))
 - Zin in een spelletje 🕹️ en oefenen met verschillende CSS Selectors? Probeer level 32 te halen op https://flukeout.github.io
