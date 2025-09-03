@@ -70,16 +70,28 @@ En refresh daarna de pagina :)
 
 Al deze opdrachten kunnen ook via [een script](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/scripts/script.js) uitgevoerd worden. De browser voert elke regel dan stap voor stap uit, als alles goed gaat. Via JavaScript en het Document Object Model kun je bijvoorbeeld elementen opzoeken, naar _events_ luisteren (zoals een _click_ event of een _keyboard_ event), _functies_ uitvoeren zodra zo'n event plaatsvindt, en eigenschappen van de DOM veranderen. Vaak doen we dat laatste door een `class` op een bepaald element te veranderen, zodat er door CSS andere styling toegepast kan worden. HTML, CSS en JS werken op deze manier dus hand in hand.
 
-### Extra opdrachten
+### Extra opdrachten, voor als je er zin in hebt
 
-1. Bespreek met je buur wat een haalbare, leuke extra interactie in je eigen visitekaartje zou kunnen zijn. Enkele ideeën:
+1. Bespreek met je buur wat een haalbare, leuke extra _interactie_ in je eigen visitekaartje zou kunnen zijn. Enkele ideeën:
  - Verander de styling als je op een knop klikt, door een class op een element [aan te passen](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/); maak iets groter, opvallender, of laat je kaartje flippen.
  - [Verander een stukje tekst](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#examples) als je op een knop klikt.
  - [Speel een geluidje af](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play) als je op een knop klikt. Combineer dit bijvoorbeeld met [een `<audio>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio).
-2. Maak een issue aan bij je leertaak, bedenk een goede titel voor je interactie, en beschrijf deze kort. Voeg ook een breakdown schets toe.
+2. Maak een issue aan op je eigen repository, bedenk een goede titel voor je interactie, en beschrijf deze kort. Voeg ook een breakdown schets toe.
 3. Vraag feedback op je issue en je breakdown schets. Misschien krijg je wel tips of extra bronnen over hoe je jouw probleem aan kunt pakken.
 
-💪 Als je wilt, kun je je interactie ook bouwen. Maak je ook hierbij niet te druk over of het lukt, maar zie elke stap als een verbetering. Vergeet niet je werk via GitHub [te integreren](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#integreren-15-min) en [te testen](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#testen-30-min) als het live staat.
+   _Om iemand te taggen typ je `@` met de GitHub handle:_
+<img width="838" height="317" alt="image" src="https://github.com/user-attachments/assets/c42d276b-8361-4c0c-87a1-237682d8bbe4" />
+
+_GitHub handles van jouw docenten:_
+
+| Squad 1i |       | Squad 1J      |       |
+| -------- | -------- | -------- | -------- |
+| Koop | @KoopReynders | Krijn | @KrijnHoetmer | 
+| Joost | @joostf | Cyd | @cydstumpel |
+|   |  | Sanne  | @shooft |
+|   |  | Suus | @suustenvoorde |
+
+💪 Als je wilt, kun je je interactie ook bouwen. Maak je ook hierbij niet te druk over of het lukt, maar zie elke stap als een verbetering. Vergeet niet je werk via GitHub [te integreren](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#integreren-15-min) en [te testen](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#testen-15-min) als het live staat.
 
 💡 Hiermee heb je weer een _iteratie_ op je werk gemaakt, en nog een keer de _development lifecycle_ gevolgd: je hebt een probleem _geanalyseerd_, je hebt een oplossing _ontworpen_, en misschien _gebouwd_ en uiteindelijk _geïntegreerd_ en _getest_. Op naar de volgende iteratie.
 
