@@ -2,7 +2,7 @@
 
 ## Breakdown schets (Woensdag)
 
-_In de workshop S01W1-06-Breakdown-schets wordt uitgelegd wat een breakdown schets is en hoe je dat kan maken._
+_In de workshop Breakdown schets wordt uitgelegd wat een breakdown schets is en hoe je dat kan maken._
 
 
 Een breakdown schets is een wireframe met annotaties voor de HTML, CSS en/of JS. 
