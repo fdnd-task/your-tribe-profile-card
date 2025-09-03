@@ -39,7 +39,7 @@ Deze leertaak wordt behandeld in de eerste week van Sprint 1 met verschillende w
 Deze opdracht is done als:
 
 - [ ] Je visitekaartje staat op GitHub en heeft een live url
-- [ ] Je hebt iteratief gewerkt met behulp van de development-lifecycle
+- [ ] Je hebt iteratief gewerkt
 - [ ] Je hebt een breakdown-schets gemaakt en hierop feedback gekregen in GitHub Issues
 - [ ] Je hebt het ontwerp voor het visitekaartje gerealiseerd met HTML, CSS en/of JS en je hebt je code uitgelegd in comments
 - [ ] Je hebt een code/design review gedaan en feedback gekregen in GitHub Issues
