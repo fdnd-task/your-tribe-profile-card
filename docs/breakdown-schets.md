@@ -31,10 +31,10 @@ _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 4. Maak een issue aan bij je leertaak, geef het bijvoorbeeld de titel “Nieuwe HTML voor nieuw ontwerp” en voeg een foto van je breakdown schets toe.
 5. Tag daarna in het issue een docent uit jouw squad, die kan dan feedback geven op GitHub.
 
-   _Om iemand te taggen typ je `@` met de github handle:_
+   _Om iemand te taggen typ je `@` met de GitHub handle:_
 <img width="838" height="317" alt="image" src="https://github.com/user-attachments/assets/c42d276b-8361-4c0c-87a1-237682d8bbe4" />
 
-_Github handles van jouw docenten:_
+_GitHub handles van jouw docenten:_
 
 | Squad 1i |       | Squad 1J      |       |
 | -------- | -------- | -------- | -------- |
@@ -46,9 +46,9 @@ _Github handles van jouw docenten:_
 
 6. Begin met coderen van je nieuwe ontwerp. Gooi de bestaande HTML in de `<body>` weg en gebruik je breakdown schets als uitgangspunt om nieuwe HTML te schrijven.
 
-💡 Met HTML _structureer_ je je pagina, dus het klopt dat het er in eerste instantie nog niet “mooi” uit ziet. Bij FDND leren we je _gelaagd bouwen_, volgens het principe van _Progressive Enhancement_.
+💡 Met HTML _structureer_ je je pagina, dus het klopt dat het er in eerste instantie nog niet “mooi” uit ziet. No worries. Bij FDND leren we je _gelaagd bouwen_, volgens het principe van _Progressive Enhancement_.
 
-De volgende laag is _stijl_, CSS, waar je gisteren een korte introductie in hebt gehad. Probeer vandaag zelfstandig verder te gaan met de bronnen van [gisteren](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/css-basics-properties-en-selectors.md) en vandaag, om je HTML met CSS te _stylen_. Geen probleem als nog niet alles wat je bedacht hebt ook echt lukt. We gaan hier de komende weken nog genoeg mee aan de slag.
+De volgende laag is _stijl_, CSS, waar je gisteren een korte introductie in hebt gehad. Probeer vandaag zelfstandig verder te gaan met de bronnen van [gisteren](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/css-basics-properties-en-selectors.md) en vandaag, om je HTML met CSS te _stylen_. Gebruik de juiste _selectors_ om _properties_ en _values_ aan je HTML te hangen. Geen probleem als nog niet alles wat je bedacht hebt ook echt lukt. We gaan hier de komende weken nog genoeg mee aan de slag.
 
 Vergeet niet je werk via GitHub [te integreren](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#integreren-15-min) en [te testen](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#testen-30-min) als het live staat.
 
