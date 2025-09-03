@@ -100,5 +100,6 @@ _GitHub handles van jouw docenten:_
 - [What is JavaScript? MDN beginner's JavaScript course](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [Hey designers, if you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/)
-- Doorgaan met interactief leren programmeren? Kijk alvast eens naar https://learnprogramming.online
+- Doorgaan met interactief leren programmeren? Kijk alvast eens naar https://learnprogramming.online/ en kom op donderdagen langs bij Jad!
+- 💪 Heb je al wat ervaring met programmeren, en wil je werken aan je JavaScript skills? Ga dan aan de slag met https://learnjavascript.online/ en kom op donderdagen langs bij Jad!
 
