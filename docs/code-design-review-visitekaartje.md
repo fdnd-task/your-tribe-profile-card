@@ -4,7 +4,7 @@
 
 _In de workshop S01W1-08-Code-Design-Review wordt uitgelegd wat je moet doen._
 
-Een van de fases van de Development Lifecycle (DLC) is testen. Dit doen frontenders o.a. door regelmatig een _code and design review_ te doen met collega's. 
+Een van de fases van de Development Lifecycle (DLC) is _Testen_. Dit doen frontenders o.a. door regelmatig een _code and design review_ te doen met collega's. 
 Bij FDND doen we elke vrijdag zo'n review en bekijken we elkaars code en design. 
 De feedback leg je vast in issues bij je leertaak. 
 Hier kun je volgende week mee verder om je website te verbeteren. 
