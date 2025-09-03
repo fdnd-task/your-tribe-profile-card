@@ -36,7 +36,7 @@ _Een lijst met links bestaat uit `<a>` in een `<li>` in een `<ul>`_
 
 _Github handles van jouw docenten:_
 
-| Squad 1i |       | Squad 1i      |       |
+| Squad 1i |       | Squad 1J      |       |
 | -------- | -------- | -------- | -------- |
 | Koop | @KoopReynders | Krijn | @KrijnHoetmer | 
 | Joost | @joostf | Cyd | @cydstumpel |
