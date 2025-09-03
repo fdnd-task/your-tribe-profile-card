@@ -101,7 +101,11 @@ _GitHub handles van jouw docenten:_
 - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - [Hey designers, if you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/videos/150-hey-designers-know-one-thing-javascript-recommend/)
 
-Doorgaan met interactief leren programmeren? Kijk alvast eens naar https://learnprogramming.online/ en kom vanaf volgende week op donderdagen langs bij Jad, de maker van deze cursus.
+## JS Fundamentals
 
-💪 Heb je al wat ervaring met programmeren, en wil je werken aan je JavaScript skills? Ga dan aan de slag met https://learnjavascript.online/ en kom vanaf volgende week op donderdagen langs bij Jad, de maker van deze cursus.
+Om jullie zelfstandig meer met programmeren en JavaScript te laten werken dit semester, staat de deeltaak [JS Fundamentals](https://github.com/fdnd-task/js-fundamentals) op het programma.
+
+Wil je doorgaan met interactief leren programmeren? Kijk dan alvast eens naar [LearnProgramming.online](https://learnprogramming.online/) en kom vanaf volgende week op donderdagen langs bij Jad, de maker van deze cursus.
+
+💪 Heb je al wat ervaring met programmeren, en wil je werken aan je JavaScript skills? Ga dan aan de slag met [LearnJavaScript.online](https://learnjavascript.online/) en laat je vanaf volgende week donderdag begeleiden door Jad, die ook deze cursus gemaakt heeft.
 
