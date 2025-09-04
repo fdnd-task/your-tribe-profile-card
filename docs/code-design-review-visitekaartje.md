@@ -17,12 +17,12 @@ Deze manier van werken heet iteratief werken. Je doorloopt meerdere keren de DLC
 
 ### Aanpak 
 
-Deze week heb je een visitekaartje ontworpen en gemaakt. Het maakt niet uit hoe ver je bent, je kan altijd feedback halen op stukken code of dat deel van het ontwerp dat je al wel gemaakt hebt. 
+Deze week heb je een visitekaartje ontworpen en gemaakt. Het maakt niet uit hoe ver je bent, je kan altijd feedback halen op stukken code of dat deel van het ontwerp dat je al wel gemaakt hebt. Zorg dat je issues van je _repository_ [aan staan](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#2-testen-en-feedback-krijgen). En dat je de meest recente versie naar je online _repository_ hebt [gepusht](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#integreren-15-min).
 
 Vandaag krijg je feedback op code en design die we in workshops in de eerste week hebben behandeld. 
 Hieronder staat een leidraad voor de review die je op het werk van een andere student gaat doen. 
 Zorg ook dat je zelf feedback krijgt! 
-Schrijf altijd nette teksten in een issue en probeer een bron of voorbeeld bij te voegen als je een tip of verbeterpunt hebt. Zorg dat je issues van je _repository_ [aan staan](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#2-testen-en-feedback-krijgen). En dat je de meest recente versie naar je online _repository_ hebt [gepusht](https://github.com/fdnd-task/your-tribe-profile-card/blob/main/docs/visitekaartje-ontwerpen-maken-en-online-publiceren.md#integreren-15-min).
+Schrijf altijd nette teksten in een issue en probeer een bron of voorbeeld bij te voegen als je een tip of verbeterpunt hebt. 
 
 Doe de review in tweetallen of drietallen en bespreek alles wat je tegenkomt. Doe minimaal 3 keer een Code/Design review voor andere studenten uit je squad.
 
