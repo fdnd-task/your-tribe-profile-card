@@ -28,7 +28,7 @@ Doe de review in tweetallen of drietallen en bespreek alles wat je tegenkomt. Do
 
 1. Test of de HTML goed is door een _HTML validator check_ te doen via de W3C website: https://validator.w3.org. Schrijf een issue als er in de test problemen naar voren zijn gekomen.
 2. Bekijk de CSS, zijn enkele selectors en properties uitgelegd met comments in de code? Gebruik de [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) om te kijken of de uitleg klopt. 
-3. Check het design in een browser. Schrijf een issues als je iets ziet wat beter kan of als je een leuk idee hebt.
+3. Check het design in een browser. Schrijf een issue als je iets ziet wat beter kan of als je een leuk idee hebt.
 4. Optioneel: Bekijk of er JavaScript is geschreven. Begrijp je de code? Schrijf een issue als je feedback hebt of als je het een toffe interactie vindt.
 
 
