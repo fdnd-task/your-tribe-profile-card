@@ -12,7 +12,7 @@ body:has(.profile-card-example) {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: #e6dada;
 }
 
 article.profile-card-example {
@@ -25,9 +25,9 @@ article.profile-card-example {
   max-width: 25em;
   min-width: 20em;
   border-radius: 1rem;
-  background: rgb(0,239,255);
-  background: linear-gradient(0deg, rgba(0,239,255,1) 40%, #4e54c8 100%);
-  box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
+  background: rgb(26, 0, 0);
+  background: linear-gradient(0deg, rgb(64, 0, 0) 40%, #000000 100%);
+  box-shadow: 0 0 20px 20px rgba(0,0,0,.6);
   transition: .25s;
 }
 
@@ -38,12 +38,10 @@ header.profile-card-example-header {
   align-items: center;
   justify-content: flex-end;
 
-  /* Je kunt selectors nesten! */
   h1 {
     margin: 2rem 0 1rem;
-    color: rgba(0,239,255,1);
+    color: #b3003c;
   }
-
 }
 
 button.profile-card-example-button {
@@ -55,23 +53,23 @@ button.profile-card-example-button {
   padding: .25rem;
   border: none;
   border-radius: 50%;
-  background: rgba(0,239,255,1);
+  background: #1a0000;
   transform: scale(.8);
   transition: .25s;
 }
 button.profile-card-example-button:focus {
   outline: none;
-  background: #202592;
+  background: #800020;
 }
 button.profile-card-example-button svg {
   position: absolute;
   top: calc(1.25rem - 12px);
   left: calc(1.25rem - 12px);
-  stroke: #4e54c8;
+  stroke: #cc99a2;
   transition-delay: .25s;
 }
 button.profile-card-example-button:focus svg {
-  stroke: rgba(0,239,255,1);
+  stroke: #ffe6e6;
 }
 button.profile-card-example-button svg:nth-of-type(2) {
   opacity: 0;
@@ -83,9 +81,9 @@ button.profile-card-example-button svg:nth-of-type(2) {
   top: 2rem;
   width: 10em;
   height: auto;
-  border: 5px solid #fff;
+  border: 5px solid #1a0000;
   border-radius: 10em;
-  box-shadow: 0 0 2px 2px rgba(0,0,0,.2);
+  box-shadow: 0 0 2px 2px rgba(179, 0, 60, 0.4);
   transition: .25s .15s;
 }
 
@@ -103,12 +101,12 @@ button.profile-card-example-button svg:nth-of-type(2) {
   margin-bottom: 0;
   padding: 5rem 0 3rem;
   text-align: center;
-  background: rgb(255,255,255);
+  background: #1a0000;
 
   dt {
     margin-top: .25rem;
     padding-top: .25rem;
-    border-top: 1px solid rgba(0,0,0,0.3);
+    border-top: 1px solid rgba(255,255,255,0.1);
     font-weight: bold;
     &:nth-of-type(1) {
       grid-area: html-dt;
@@ -126,12 +124,12 @@ button.profile-card-example-button svg:nth-of-type(2) {
     margin: 0;
     padding-left: .3rem;
     transition: .25s .3s;
+    color: #ffb3c6;
     &:nth-of-type(2) {
       transform: translateY(1rem);
     }
   }
 }
-
 
 .profile-card-example p {
   margin: 0;
@@ -143,10 +141,10 @@ button.profile-card-example-button svg:nth-of-type(2) {
   padding: 3rem 2rem;
   border-radius: 0 0 1rem 1rem;
   text-align: center;
-  background: rgba(255,255,255, 0.5);
+  background: rgba(128, 0, 32, 0.5);
+  color: #f2f2f2;
 }
 
-/* Deze styles zijn van toepassing als je op de knop klikt */
 body.is-expanded {
   font-size: 1.15em;
 }
