@@ -2,19 +2,18 @@
   box-sizing: border-box; /* uitleg over wat dit is */
 }
 
-/* HTML
-Hier wordt met een 'type selector' een element in de html geselecteerd.
-Dit verwijst naar het <html> element. De <html> krijgt een lichtgele achtergrond.
-*/
+/* HTML */
+/* Hier wordt met een 'type selector' een element in de html geselecteerd. */
+/* Dit verwijst naar het <html> element. De <html> krijgt een lichtgele achtergrond. */
+
 html {
   background:lightyellow;
 }
 
-/* BODY
-Hier wordt met een 'type selector' het <body> element geselecteerd. 
-In de <body> wordt de inhoud met "display: flex" in het midden geplaats. 
-En krijgt de <body> en alle inhoud een font en kleur.
-*/
+/* BODY */
+/* Hier wordt met een 'type selector' het <body> element geselecteerd. */
+/* In de <body> wordt de inhoud met "display: flex" in het midden geplaats. */
+/* En krijgt de <body> en alle inhoud een font en kleur. */
 body {
   display: flex;
   justify-content: center;
@@ -26,12 +25,11 @@ body {
   color: #10214e; /* de tekst kleur wordt in hex kleuren bepaald. */
 }
 
-/* ARTICLE
-Het <article> element krijgt hier de styling. 
-De inhoud wordt met "display: flex" gepositioneerd en uitgelijnd. 
-Er wordt een breedte meegegeven, een minimale en maximale breedte.
-Het <article> element krijgt een kleur, en nog meer ...
-*/
+/* ARTICLE */
+/* Het <article> element krijgt hier de styling. */
+/* De inhoud wordt met "display: flex" gepositioneerd en uitgelijnd. */
+/* Er wordt een breedte meegegeven, een minimale en maximale breedte. */
+/* Het <article> element krijgt een kleur, en nog meer ... */
 article {
   position: relative;
   
@@ -52,9 +50,8 @@ article {
   transition: .25s;
 }
 
-/* HEADER 
-Hier wordt de inhoud van het <header> element gepositioneerd en uitgelijnd.
-*/
+/* HEADER */
+/* Hier wordt de inhoud van het <header> element gepositioneerd en uitgelijnd. */
 header {
   display: flex;
   flex-direction: column;
@@ -62,9 +59,8 @@ header {
   justify-content: end;
 }
 
-/* H1
-Hier krijgt het <h1> element de styling. 
-*/
+/* H1 */
+/* Hier krijgt het <h1> element de styling. */
 h1 {
   margin: 2rem 0 1rem 0; /* Margin is de ruimte om het element heen. Boven beginnen, met de klok mee */
   
@@ -72,17 +68,15 @@ h1 {
 }
 
 /* P */
-/* hier krijgt de <p> met de class slogan de styling */
-/* om een element met class te selecteren gebruik je een . in de selector */
-
+/* Hier krijgt de <p> met de class slogan de styling. */
+/* Om een element met class te selecteren gebruik je een . in de selector */
 p.slogan {
   font-size:1.25em;
   color:#030711;
 }
 
-/* BUTTON
-Hier krijgt de <button> de styling. 
-*/
+/* BUTTON */
+/* Hier krijgt de <button> de styling. */
 button {
   position: absolute;
   right: 1rem;
@@ -93,25 +87,28 @@ button {
   padding: .25rem;
   
   border: none;
-  border-radius: 50%; /* De border-radius geeft de button ronde hoekjes */
+  border-radius: 50%; /* De border-radius geeft de <button> ronde hoekjes. */
   background: rgb(0 239 255);
   
   scale:.8;
   
-  transition: .25s; /* Transities op het button element duren 0.25 seconden. */
+  transition: .25s; /* Transities op het <button> element duren 0.25 seconden. */
 }
 
-/* Uitleg over :hover pseudo-class */
+/* Om de <button> styling te geven als iemand met de muis over het element beweegt gebruikt je :hover */
+/* :hover is een 'Pseudo-class selector', daarmee worden interacties op het element gestyled. */
 button:hover {
   cursor: pointer;
   background: darkgoldenrod;
 }
+/* Met de 'Pseudo-class selector' :focus kan je bepalen hoe het element er uit moet zien als de tab toets op het toetsenbord wordt gebruikt. */
 button:focus {
   outline: none;
-  background: #202592;
+  background: darkgoldenrod;
 }
 
-/* Uitleg over svg (in de button) */
+/* In het <button> element staat een <svg> voor het icoon. */
+/* Met een spatie worden alle elementen geselecteerd die in een ander element staan. */
 button svg {
   position: absolute;
   top: calc(1.25rem - 12px);
@@ -120,22 +117,22 @@ button svg {
   stroke: #4e54c8;
   
   transition: .25s;
-  transition-delay: .25s; /* Een transitie op het svg element begin 0.25 seconde later. */
+  transition-delay: .25s; /* Een transitie op het <svg> element begin 0.25 seconde later. */
 }
-button:hover svg{
+/* Met een komma wordt in een keer de styling op de :hover en de :focus van het <svg> element bepaald. */
+button:hover svg, button:focus svg {
   stroke: lightyellow;
 }
-button:focus svg {
-  stroke: rgb(0 239 255);
-}
-/* Uitleg over :nth-of-type() pseudo-class*/
+/* Met de 'Pseudo-class selector' :nth-of-type() wordt een element geselecteerd op basis van de volgorde. */
+/* Hier wordt het tweede <svg> element in de button geselecteerd. */
 button svg:nth-of-type(2) {
   opacity: 0;
   
   transition-delay: 0ms;
 }
 
-/* uitleg over de IMG tag */
+/* IMG */
+/* Hier krijgt het <img> element de styling. */
 img {
   position: relative;
   top: 2rem;
@@ -203,13 +200,15 @@ dl {
   }
 }
 
-/* Uitleg over het P element */
+/* P */
+/* Hier krijgen alle <p> elementen een styling. */
 p {
   margin: 0;
 }
 
-
-/* Uitleg over de "Child combinator selector" */
+/* Om alleen de <p> elementen te stylen die in het <article> staat gebruik je de > de 'Child combinator selector'.
+/* Met de 'Child combinator selector' selecteer je alle <p> elementen die een directe  kinderen van het <article> zijn. */
+/* Dit selecteert dus niet de <p> in de <header>. */
 article > p {
   width: 100%;
   margin-top: 0;
@@ -220,12 +219,12 @@ article > p {
   text-align: center;
 }
 
-/* Deze styles zijn van toepassing als je op de knop klikt */
+/* Deze styles zijn van toepassing als op de knop wordt geklikt */
 body.is-expanded {
   font-size: 1.15em;
 }
 
-body.is-expanded .profile-card {
+body.is-expanded article {
   width: 60vw;
   max-width: 60vw;
 }
