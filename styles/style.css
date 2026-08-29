@@ -1,13 +1,13 @@
 * {
-  box-sizing: border-box; /* dit heb je nodig. je mag uitzoeken waarom, maar het is ook niet erg als je nog niet snapt wat het doet. wel laten staan! altijd! */
+  box-sizing: border-box; /* uitleg over wat dit is */
 }
 
-/* HTML 
+/* HTML
 Hier wordt met een 'type selector' een element in de html geselecteerd.
-Dit verwijst naar het <html> element. De <html> krijgt de hoogte 100vh.
+Dit verwijst naar het <html> element. De <html> krijgt een lichtgele achtergrond.
 */
 html {
-  height: 100vh;
+  background:lightyellow;
 }
 
 /* BODY
@@ -45,7 +45,7 @@ article {
   min-width: 20em;
   
   border-radius: 1rem;
-  background: rgb(0,239,255);
+  background: rgb(0 239 255);
   background: linear-gradient(0deg, rgb(0 239 255) 40%, #4e54c8 100%);
   box-shadow: 0 0 20px 20px rgb(0 0 0 / .1);
   
@@ -58,7 +58,6 @@ Hier wordt de inhoud van het <header> element gepositioneerd en uitgelijnd.
 header {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   justify-content: flex-end;
 }
@@ -67,14 +66,14 @@ header {
 Hier krijgt het <h1> element de styling. 
 */
 h1 {
-  margin: 2rem 0 1rem; /* Margin is de ruimte om het element heen. */
+  margin: 2rem 0 1rem 0; /* Margin is de ruimte om het element heen. Boven beginnen, met de klok mee */
   
-  color: rgb(0 239 255); /* De tekst kleur wordt in rgba() bepaald. */
+  color: rgb(0 239 255); /* De tekst kleur wordt in rgb() bepaald. */
 }
 
 /* P */
 /* hier krijgt de <p> met de class slogan de styling */
-/* daarvoor gebruik je een . in de selector */
+/* om een element met class te selecteren gebruik je een . in de selector */
 
 p.slogan {
   font-size:1.25em;
@@ -101,6 +100,7 @@ button {
   
   transition: .25s;
 }
+
 /* Uitleg over :hover pseudo-class */
 button:hover {
   cursor: pointer;
@@ -110,6 +110,7 @@ button:focus {
   outline: none;
   background: #202592;
 }
+
 /* Uitleg over svg (in de button) */
 button svg {
   position: absolute;
