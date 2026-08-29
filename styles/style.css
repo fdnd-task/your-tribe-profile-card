@@ -1,8 +1,8 @@
 * {
-  box-sizing: border-box; /* uitleg over wat dit is */
+  box-sizing: border-box; /* dit heb je nodig. je mag uitzoeken waarom, maar het is ook niet erg als je nog niet snapt wat het doet. wel laten staan! altijd! */
 }
 
-/* HTML
+/* HTML 
 Hier wordt met een 'type selector' een element in de html geselecteerd.
 Dit verwijst naar het <html> element. De <html> krijgt de hoogte 100vh.
 */
