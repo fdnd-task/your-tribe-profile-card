@@ -2,23 +2,34 @@
   box-sizing: border-box; /* uitleg over wat dit is */
 }
 
-/* Uitleg over de HTML tag */
+/* HTML
+Hier wordt met een 'type selector' een element in de html geselecteerd.
+Dit verwijst naar het <html> element. De <html> krijgt de hoogte 100vh.
+*/
 html {
   height: 100vh;
 }
 
-/* Uitleg over de BODY tag */
+/* BODY
+Hier wordt met een 'type selector' het <body> element geselecteerd. 
+In de <body> wordt de inhoud met "display: flex" in het midden geplaats. 
+En krijgt de <body> en alle inhoud een font en kleur.
+*/
 body {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: #10214e; /* de tekst kleur wordt in hex kleuren bepaald. */
 }
 
-/* Uitleg over het Article element */
-/* tag of element gebruiken in de uitleg? */
+/* ARTICLE
+Het <article> element krijgt hier de styling. 
+De inhoud wordt met "display: flex" gepositioneerd en uitgelijnd. 
+Er wordt een breedte meegegeven, een minimale en maximale breedte.
+Het <article> element krijgt een kleur, en nog meer ...
+*/
 article {
   position: relative;
   display: flex;
@@ -35,7 +46,9 @@ article {
   transition: .25s;
 }
 
-/* Uitleg over de HEADER */
+/* HEADER 
+Hier wordt de inhoud van het <header> element gepositioneerd en uitgelijnd.
+*/
 header {
   display: flex;
   flex-direction: column;
@@ -44,13 +57,17 @@ header {
   justify-content: flex-end;
 }
 
-/* Uitleg over het H1 element */
+/* H1
+Hier krijgt het <h1> element de styling. 
+*/
 h1 {
-  margin: 2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  margin: 2rem 0 1rem; /* Margin is de ruimte om het element heen. */
+  color: rgba(0,239,255,1); /* De tekst kleur wordt in rgba() bepaald. */
 }
 
-/* Uitleg over het BUTTON element */
+/* BUTTON
+Hier krijgt de <button> de styling. 
+*/
 button {
   position: absolute;
   right: 1rem;
@@ -59,7 +76,7 @@ button {
   height: 2.5rem;
   padding: .25rem;
   border: none;
-  border-radius: 50%;
+  border-radius: 50%; /* De border-radius geeft de button ronde hoekjes */
   background: rgba(0,239,255,1);
   transform: scale(.8);
   transition: .25s;
