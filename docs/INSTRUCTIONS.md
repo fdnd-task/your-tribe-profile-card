@@ -28,9 +28,9 @@ Deze leertaak wordt behandeld in de eerste week van Sprint 1 met verschillende w
 - [Visitekaartje ontwerpen, maken en online publiceren](visitekaartje-ontwerpen-maken-en-online-publiceren.md) - Maandag
 - [CSS Basics, Properties en selectors](css-basics-properties-en-selectors.md) - Dinsdag
 - [Breakdown schets](breakdown-schets.md) - Woensdag
-- [JS en Interactie](js-en-interactie.md) - Donderdag
 - [Code/Design review visitekaartje](code-design-review-visitekaartje.md) - Vrijdag
 
+<!-- - [JS en Interactie](js-en-interactie.md) - Donderdag -->
 
 
 
