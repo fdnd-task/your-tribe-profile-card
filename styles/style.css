@@ -147,8 +147,11 @@ img {
   transition: 1s .15s; /* Transition Shorthand notation: Transities op het img element duren 1 seconde en beginnen 0.15 seconde later */
 }
 
-/* Uitleg over het DL element */
-/* DT en DD nesten? Nog even over nadenken ... */
+/* DL, DT, DD  */
+/* De eigenschappen zijn in de HTML opgemaakt in een Description List element (DL) */
+/* De Description List element (DL) is een lijst met termen en beschrijvingen. */
+/* In deze DL staan 3 groepen met code skills, in CSS is de layout van de DT elementen met een Grid gepositioneerd.  */
+
 dl {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
