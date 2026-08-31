@@ -6,8 +6,8 @@
 /* Hier wordt met een 'type selector' een element in de html geselecteerd. */
 /* Dit verwijst naar het <html> element. De <html> krijgt een lichtgele achtergrond. */
 
-html {
-  background:lightyellow;
+CSS {
+  background: red;
 }
 
 /* BODY */
