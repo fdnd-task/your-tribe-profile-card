@@ -18,11 +18,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  
   height: 100vh;
-  background-color: #ff0000;
   font-family: sans-serif;
-  color: #d6d6cd; /* de tekst kleur wordt in hex kleuren bepaald. */
+  color: #d6d6cd;
+  background: steelblue; /* de tekst kleur wordt in hex kleuren bepaald. */
 }
 
 /* ARTICLE */
@@ -44,7 +43,7 @@ article {
   
   border-radius: 5rem;
   background: rgb(255, 17, 0);
-  background: linear-gradient(0deg, rgb(212, 52, 3) 40%, #cc1c05 100%);
+  background: linear-gradient(0deg, rgb(3, 52, 212) 40%, #881c1c 100%);
   box-shadow: 0 0 20px 20px rgb(0 0 0 / .1);
   
   transition: .25s;
@@ -57,14 +56,14 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: end;
-  background-color: #ff0000;
+  background-color: #881c1c;
 }
 
 /* H1 */
 /* Hier krijgt het <h1> element de styling. */
 h1 {
   margin: 2rem 0 1rem 0; /* Margin is de ruimte om het element heen. Boven beginnen, met de klok mee */
-  background-color: #8b0707;
+  background-color: #881c1c;
   color: rgb(215, 221, 223); /* De tekst kleur wordt in rgb() bepaald. */
 }
 
@@ -72,8 +71,10 @@ h1 {
 /* Hier krijgt de <p> met de class slogan de styling. */
 /* Om een element met class te selecteren gebruik je een . in de selector */
 p.slogan {
-  font-size:1.25em;
-  color:#030711;
+  font-size: 1em;
+  color: whitesmoke;
+  border: 5px solid;
+  border-radius: 5px;
 }
 
 /* BUTTON */
@@ -139,15 +140,18 @@ img {
   top: 2rem;
   
   width: 20em;
-  height: 200px;
+  height: 220px;
   
-  border: 5px solid #fff;
+  border: 5px solid #473838;
   border-radius: 100%;
   box-shadow: 0 0 2px 2px rgb(0 0 0 /.2);
   
   transition: 1. 20.s; /* Transition Shorthand notation: Transities op het img element duren 1 seconde en beginnen 0.15 seconde later */
 }
 
+p: :hover{
+  Background: salmon;
+}
 /* DL, DT, DD  */
 /* De eigenschappen zijn in de HTML opgemaakt in een Description List element (DL) */
 /* De Description List element (DL) is een lijst met termen en beschrijvingen. */
@@ -210,6 +214,8 @@ dl {
 p {
   margin: 0;
   display: inline-block;
+  color: white;
+  background-image: url(car.JPEG);
 }
 
 /* Om alleen de <p> elementen te stylen die in het <article> staat gebruik je de > de 'Child combinator selector'.
