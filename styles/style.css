@@ -138,8 +138,8 @@ img {
   position: relative;
   top: 2rem;
   
-  width: 10em;
-  height: 100px;
+  width: 20em;
+  height: 200px;
   
   border: 5px solid #fff;
   border-radius: 100%;
@@ -170,6 +170,7 @@ dl {
   
   text-align: center;
   background: rgb(255 255 255);
+  color:#030711;
 
   dt {
     margin-top: .25rem;
