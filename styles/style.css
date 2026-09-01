@@ -6,8 +6,8 @@
 /* Hier wordt met een 'type selector' een element in de html geselecteerd. */
 /* Dit verwijst naar het <html> element. De <html> krijgt een lichtgele achtergrond. */
 
-html {
-  background:lightyellow;
+CSS {
+  background: #ff0000;
 }
 
 /* BODY */
@@ -18,11 +18,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  
   height: 100vh;
-  
-  font-family: open sans;
-  color: #10214e; /* de tekst kleur wordt in hex kleuren bepaald. */
+  font-family: sans-serif;
+  color: #d6d6cd;
+  background: steelblue; /* de tekst kleur wordt in hex kleuren bepaald. */
 }
 
 /* ARTICLE */
@@ -42,9 +41,9 @@ article {
   max-width: 25em;
   min-width: 20em;
   
-  border-radius: 1rem;
-  background: rgb(0 239 255);
-  background: linear-gradient(0deg, rgb(0 239 255) 40%, #4e54c8 100%);
+  border-radius: 5rem;
+  background: rgb(255, 17, 0);
+  background: linear-gradient(0deg, rgb(3, 52, 212) 40%, #881c1c 100%);
   box-shadow: 0 0 20px 20px rgb(0 0 0 / .1);
   
   transition: .25s;
@@ -57,22 +56,32 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: end;
+  background-color: #881c1c;
 }
 
 /* H1 */
 /* Hier krijgt het <h1> element de styling. */
 h1 {
   margin: 2rem 0 1rem 0; /* Margin is de ruimte om het element heen. Boven beginnen, met de klok mee */
-  
-  color: rgb(0 239 255); /* De tekst kleur wordt in rgb() bepaald. */
+  background-color: #881c1c;
+  color: rgb(215, 221, 223); /* De tekst kleur wordt in rgb() bepaald. */
 }
 
 /* Class */
 /* De <p> heeft in de HTML de class slogan gekregen. */
 /* Om een element met class te selecteren gebruik je een . in de selector */
+<<<<<<< HEAD
+p.slogan {
+  font-size: 1em;
+  color: whitesmoke;
+  border: 5px solid;
+  border-radius: 5px;
+}
+=======
 .slogan {
   font-size:1.25em;
   color:#030711;
+>>>>>>> 3fcbf081cc792a0fb9daea40292c8d7e40880d75
 }
 
 /* BUTTON */
@@ -87,8 +96,8 @@ button {
   padding: .25rem;
   
   border: none;
-  border-radius: 50%; /* De border-radius geeft de <button> ronde hoekjes. */
-  background: rgb(0 239 255);
+  border-radius: 100%; /* De border-radius geeft de <button> ronde hoekjes. */
+  background: rgb(209, 205, 204);
   
   scale:.8;
   
@@ -114,7 +123,7 @@ button svg {
   top: calc(1.25rem - 12px);
   left: calc(1.25rem - 12px);
   
-  stroke: #4e54c8;
+  stroke: #bd2004;
   
   transition: .25s;
   transition-delay: .25s; /* Een transitie op het <svg> element begin 0.25 seconde later. */
@@ -137,16 +146,19 @@ img {
   position: relative;
   top: 2rem;
   
-  width: 10em;
-  height: auto;
+  width: 20em;
+  height: 220px;
   
-  border: 5px solid #fff;
-  border-radius: 10em;
+  border: 5px solid #473838;
+  border-radius: 100%;
   box-shadow: 0 0 2px 2px rgb(0 0 0 /.2);
   
-  transition: 1s .15s; /* Transition Shorthand notation: Transities op het img element duren 1 seconde en beginnen 0.15 seconde later */
+  transition: 1. 20.s; /* Transition Shorthand notation: Transities op het img element duren 1 seconde en beginnen 0.15 seconde later */
 }
 
+p: :hover{
+  Background: salmon;
+}
 /* DL, DT, DD  */
 /* De eigenschappen zijn in de HTML opgemaakt in een Description List element (DL) */
 /* De Description List element (DL) is een lijst met termen en beschrijvingen. */
@@ -163,12 +175,13 @@ dl {
   align-items: start;
   
   width: 100%;
-  margin-top: -3rem;
+  margin-top: -1rem;
   margin-bottom: 0;
   padding: 5rem 0 3rem;
   
   text-align: center;
   background: rgb(255 255 255);
+  color:#030711;
 
   dt {
     margin-top: .25rem;
@@ -207,6 +220,9 @@ dl {
 /* Hier krijgen alle <p> elementen een styling. */
 p {
   margin: 0;
+  display: inline-block;
+  color: white;
+  background-image: url(car.JPEG);
 }
 
 /* Om alleen de <p> elementen te stylen die in het <article> staat gebruik je de > de 'Child combinator selector'.
