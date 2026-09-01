@@ -67,10 +67,10 @@ h1 {
   color: rgb(0 239 255); /* De tekst kleur wordt in rgb() bepaald. */
 }
 
-/* P */
-/* Hier krijgt de <p> met de class slogan de styling. */
+/* Class */
+/* De <p> heeft in de HTML de class slogan gekregen. */
 /* Om een element met class te selecteren gebruik je een . in de selector */
-p.slogan {
+.slogan {
   font-size:1.25em;
   color:#030711;
 }
